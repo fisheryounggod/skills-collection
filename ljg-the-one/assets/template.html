@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Essence Card | {{TITLE}}</title>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <style>
+        :root {
+            /* 自适应主题色 - 根据文章情感基调选择 */
+            --theme-primary: {{THEME_PRIMARY}};      /* 主色调 */
+            --theme-secondary: {{THEME_SECONDARY}};  /* 辅助色 */
+            --theme-glow: {{THEME_GLOW}};            /* 发光色 */
+
+            /* 基础色板 */
+            --bg-primary: #0a0a0f;
+            --bg-card: #16161e;
+            --bg-card-hover: #1a1a24;
+            --border-subtle: #2a2a3a;
+            --text-primary: #e8e8e8;
+            --text-secondary: #a0a0a0;
+            --text-dim: #555;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', sans-serif;
+            min-height: 100vh;
+            padding: 40px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Header */
+        .header {
+            text-align: center;
+            margin-bottom: 32px;
+        }
+
+        .header h1 {
+            font-size: 14px;
+            letter-spacing: 6px;
+            color: var(--theme-primary);
+            font-weight: 500;
+            margin-bottom: 8px;
+        }
+
+        .header .title {
+            font-size: 32px;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 8px;
+        }
+
+        .header .subtitle {
+            font-size: 14px;
+            color: var(--text-secondary);
+        }
+
+        /* Bento Grid */
+        .bento-grid {
+            display: grid;
+            grid-template-columns: repeat(12, 1fr);
+            grid-template-rows: auto;
+            gap: 16px;
+        }
+
+        .bento-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-subtle);
+            border-radius: 20px;
+            padding: 24px;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .bento-card:hover {
+            background: var(--bg-card-hover);
+            border-color: var(--theme-primary);
+            box-shadow: 0 0 30px var(--theme-glow);
+            transform: translateY(-2px);
+        }
+
+        .card-label {
+            font-size: 10px;
+            letter-spacing: 2px;
+            color: var(--theme-primary);
+            text-transform: uppercase;
+            margin-bottom: 12px;
+            font-weight: 600;
+        }
+
+        .card-content {
+            font-size: 15px;
+            line-height: 1.7;
+            color: var(--text-primary);
+        }
+
+        /* Card Sizes */
+        .card-origin {
+            grid-column: span 4;
+        }
+
+        .card-phenomenon {
+            grid-column: span 8;
+        }
+
+        .card-formula {
+            grid-column: span 5;
+            background: linear-gradient(135deg, {{FORMULA_BG_START}} 0%, var(--bg-card) 100%);
+            border-color: {{FORMULA_BORDER}};
+        }
+
+        .card-formula:hover {
+            border-color: var(--theme-secondary);
+            box-shadow: 0 0 30px {{FORMULA_GLOW}};
+        }
+
+        .card-logic {
+            grid-column: span 7;
+        }
+
+        .card-diagram {
+            grid-column: span 6;
+            min-height: 280px;
+        }
+
+        .card-boundary {
+            grid-column: span 6;
+            background: linear-gradient(135deg, {{BOUNDARY_BG_START}} 0%, var(--bg-card) 100%);
+            border-color: {{BOUNDARY_BORDER}};
+        }
+
+        .card-boundary:hover {
+            border-color: #ff6b6b;
+        }
+
+        /* Formula Styling */
+        .formula-display {
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        .formula-main {
+            font-size: 42px;
+            font-weight: 700;
+            color: var(--theme-secondary);
+            letter-spacing: 4px;
+            margin-bottom: 24px;
+            font-family: 'SF Mono', 'Fira Code', monospace;
+            text-shadow: 0 0 20px {{FORMULA_GLOW}};
+        }
+
+        .formula-vars {
+            text-align: left;
+            padding: 0;
+            list-style: none;
+        }
+
+        .formula-vars li {
+            padding: 8px 0;
+            border-bottom: 1px solid var(--border-subtle);
+            font-size: 13px;
+            color: var(--text-secondary);
+            display: flex;
+            align-items: baseline;
+            gap: 12px;
+        }
+
+        .formula-vars li:last-child {
+            border-bottom: none;
+        }
+
+        .var-symbol {
+            color: var(--theme-secondary);
+            font-weight: 700;
+            font-family: 'SF Mono', monospace;
+            min-width: 24px;
+        }
+
+        .var-name {
+            color: var(--text-primary);
+            font-weight: 500;
+        }
+
+        /* Mermaid */
+        .mermaid-wrapper {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            min-height: 200px;
+        }
+
+        /* Boundary Content */
+        .boundary-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #ff6b6b;
+            margin-bottom: 16px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .boundary-item {
+            background: {{BOUNDARY_ITEM_BG}};
+            border-radius: 8px;
+            padding: 14px 16px;
+            margin: 10px 0;
+            border-left: 3px solid #ff6b6b;
+        }
+
+        .boundary-condition {
+            font-size: 14px;
+            font-weight: 600;
+            color: #ff6b6b;
+            margin-bottom: 6px;
+        }
+
+        .boundary-reason {
+            font-size: 13px;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        /* Highlight */
+        .highlight {
+            color: var(--theme-primary);
+            font-weight: 500;
+        }
+
+        .highlight-secondary {
+            color: var(--theme-secondary);
+            font-weight: 500;
+        }
+
+        /* Icon Badge */
+        .icon-badge {
+            width: 40px;
+            height: 40px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            margin-bottom: 16px;
+        }
+
+        .icon-badge.primary {
+            background: {{ICON_BG_PRIMARY}};
+        }
+
+        .icon-badge.secondary {
+            background: {{ICON_BG_SECONDARY}};
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            margin-top: 32px;
+            padding-top: 24px;
+            color: var(--text-dim);
+            font-size: 12px;
+            letter-spacing: 1px;
+        }
+
+        /* Responsive */
+        @media (max-width: 900px) {
+            .bento-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .bento-card {
+                grid-column: span 1 !important;
+            }
+
+            body {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>{{HEADER_ICON}} ESSENCE CARD</h1>
+            <div class="title">{{TITLE}}</div>
+            <div class="subtitle">The One Formula Extraction</div>
+        </div>
+
+        <div class="bento-grid">
+            <!-- Origin -->
+            <div class="bento-card card-origin">
+                <div class="icon-badge primary">{{ORIGIN_ICON}}</div>
+                <div class="card-label">Origin 来源</div>
+                <div class="card-content">{{ORIGIN}}</div>
+            </div>
+
+            <!-- Phenomenon -->
+            <div class="bento-card card-phenomenon">
+                <div class="icon-badge secondary">{{PHENOMENON_ICON}}</div>
+                <div class="card-label">Phenomenon 表象</div>
+                <div class="card-content">{{PHENOMENON}}</div>
+            </div>
+
+            <!-- Formula -->
+            <div class="bento-card card-formula">
+                <div class="card-label">The One 公式</div>
+                <div class="formula-display">
+                    <div class="formula-main">{{FORMULA}}</div>
+                    <ul class="formula-vars">
+                        {{FORMULA_VARS}}
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Core Logic -->
+            <div class="bento-card card-logic">
+                <div class="icon-badge primary">{{LOGIC_ICON}}</div>
+                <div class="card-label">Core Logic 核心逻辑</div>
+                <div class="card-content">{{CORE_LOGIC}}</div>
+            </div>
+
+            <!-- Diagram -->
+            <div class="bento-card card-diagram">
+                <div class="card-label">Thinking Path 思维路径</div>
+                <div class="mermaid-wrapper">
+                    <div class="mermaid">
+{{MERMAID_DIAGRAM}}
+                    </div>
+                </div>
+            </div>
+
+            <!-- Boundary -->
+            <div class="bento-card card-boundary">
+                <div class="card-label">Boundary 边界条件</div>
+                <div class="boundary-title">{{BOUNDARY_ICON}} {{BOUNDARY_TITLE}}</div>
+                {{BOUNDARY_ITEMS}}
+            </div>
+        </div>
+
+        <div class="footer">
+            Generated by LJG-The-One | 透过表象看本质
+        </div>
+    </div>
+
+    <script>
+        mermaid.initialize({
+            startOnLoad: true,
+            theme: 'dark',
+            themeVariables: {
+                primaryColor: '{{THEME_PRIMARY}}',
+                primaryTextColor: '#e0e0e0',
+                primaryBorderColor: '{{THEME_PRIMARY}}',
+                lineColor: '{{THEME_PRIMARY}}',
+                secondaryColor: '#1a1a24',
+                tertiaryColor: '#0a0a0f',
+                fontSize: '14px'
+            }
+        });
+    </script>
+</body>
+</html>
