@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8dc5fb87-8fab-4105-93ad-bba9cc611d47",
+  "path": "tts",
+  "path_key": "tts",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

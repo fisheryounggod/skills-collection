@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5311ac05-3590-45f8-9563-3eb51a393723",
+  "path": "feishu-todo",
+  "path_key": "feishu-todo",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

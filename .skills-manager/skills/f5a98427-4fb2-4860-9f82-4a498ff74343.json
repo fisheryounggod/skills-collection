@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f5a98427-4fb2-4860-9f82-4a498ff74343",
+  "path": "baoyu-compress-image",
+  "path_key": "baoyu-compress-image",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

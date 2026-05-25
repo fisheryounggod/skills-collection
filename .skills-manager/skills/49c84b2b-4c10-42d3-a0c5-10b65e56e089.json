@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "49c84b2b-4c10-42d3-a0c5-10b65e56e089",
+  "path": "content-collector",
+  "path_key": "content-collector",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

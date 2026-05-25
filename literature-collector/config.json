@@ -1,0 +1,122 @@
+{
+  "bitable": {
+    "app_token": "KHzSbZmu5abRoTs2eMfcmVIcnUf",
+    "table_id": "tblez9UvuXE9PUOX",
+    "url": "https://my.feishu.cn/wiki/BgndwdbhciDZ1Nk9F16cdv59n5e",
+    "name": "文献笔记"
+  },
+  "fields": {
+    "title": {
+      "id": "fld7ZMMEVd",
+      "name": "文章标题",
+      "type": "Text",
+      "required": true
+    },
+    "citation": {
+      "id": "fldf7TILct",
+      "name": "引用形式",
+      "type": "Text",
+      "required": false
+    },
+    "year": {
+      "id": "fldcAIwVxF",
+      "name": "年份",
+      "type": "Number",
+      "required": false
+    },
+    "journal": {
+      "id": "fldKy7EhsW",
+      "name": "期刊/来源",
+      "type": "Text",
+      "required": false
+    },
+    "research_question": {
+      "id": "fld1Q1thMY",
+      "name": "关键科学问题（ABC+C2B）",
+      "type": "Text",
+      "required": false
+    },
+    "research_type": {
+      "id": "fldrehkiDk",
+      "name": "研究类型",
+      "type": "MultiSelect",
+      "required": false,
+      "options": [
+        "理论研究",
+        "文献综述",
+        "系统综述",
+        "实证研究",
+        "模型分析",
+        "政策报告",
+        "法学研究",
+        "理论建模",
+        "案例研究",
+        "政策研究",
+        "理论模型"
+      ]
+    },
+    "innovation": {
+      "id": "fldP7fZKc8",
+      "name": "创新点",
+      "type": "Text",
+      "required": false
+    },
+    "limitations": {
+      "id": "fldID1keH3",
+      "name": "不足",
+      "type": "Text",
+      "required": false
+    },
+    "data_source": {
+      "id": "fld6IWjV3L",
+      "name": "数据来源",
+      "type": "Text",
+      "required": false
+    },
+    "methods": {
+      "id": "fldhiAi9J6",
+      "name": "方法",
+      "type": "MultiSelect",
+      "required": false,
+      "options": [
+        "历史制度分析、比较政治经济学",
+        "理论建模、文献分析",
+        "文本挖掘、系统文献综述法",
+        "DSGE模型、情景模拟",
+        "计量模型、比较静态分析",
+        "元分析、案例比较",
+        "VAR模型、政策传导分析",
+        "问卷调查、比较分析",
+        "法律分析、比较法研究",
+        "博弈论、机制设计",
+        "面板数据模型、DID方法",
+        "前瞻性理论分析",
+        "案例分析、技术评估",
+        "比较分析、设计评估",
+        "理论模型、数值模拟",
+        "微观数据计量分析",
+        "案例比较、效果评估",
+        "准自然实验、工具变量法",
+        "法律分析、技术评估",
+        "政策分析、协调机制设计"
+      ]
+    },
+    "findings": {
+      "id": "fldXwUNLLt",
+      "name": "主要发现",
+      "type": "Text",
+      "required": false
+    },
+    "notes": {
+      "id": "fldRA88GQ6",
+      "name": "个人备注",
+      "type": "Text",
+      "required": false
+    }
+  },
+  "settings": {
+    "similarity_threshold": 0.8,
+    "auto_detect_duplicate": true,
+    "create_duplicate_link": true
+  }
+}

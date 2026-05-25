@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "69349ca9-16d4-4ca9-b652-2b0b32ece1a2",
+  "path": "mcp-integration",
+  "path_key": "mcp-integration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

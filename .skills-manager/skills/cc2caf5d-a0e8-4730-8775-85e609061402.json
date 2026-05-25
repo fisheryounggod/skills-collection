@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cc2caf5d-a0e8-4730-8775-85e609061402",
+  "path": "ljg-paper-flow",
+  "path_key": "ljg-paper-flow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

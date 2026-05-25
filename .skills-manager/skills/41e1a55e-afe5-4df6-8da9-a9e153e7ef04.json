@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "41e1a55e-afe5-4df6-8da9-a9e153e7ef04",
+  "path": "python-patterns",
+  "path_key": "python-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

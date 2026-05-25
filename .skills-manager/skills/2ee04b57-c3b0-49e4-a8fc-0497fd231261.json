@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2ee04b57-c3b0-49e4-a8fc-0497fd231261",
+  "path": "smart-weekly-report",
+  "path_key": "smart-weekly-report",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

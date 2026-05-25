@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3a601b52-dcaf-4505-9e42-9d2e8204f9e0",
+  "path": "openviking",
+  "path_key": "openviking",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

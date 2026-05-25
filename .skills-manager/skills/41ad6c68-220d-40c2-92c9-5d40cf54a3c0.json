@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "41ad6c68-220d-40c2-92c9-5d40cf54a3c0",
+  "path": "sp500-data-fetcher",
+  "path_key": "sp500-data-fetcher",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

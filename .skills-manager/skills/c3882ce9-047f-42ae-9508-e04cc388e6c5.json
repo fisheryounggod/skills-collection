@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c3882ce9-047f-42ae-9508-e04cc388e6c5",
+  "path": "kotlin-patterns",
+  "path_key": "kotlin-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

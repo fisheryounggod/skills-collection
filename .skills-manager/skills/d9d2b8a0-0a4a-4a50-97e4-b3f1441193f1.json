@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d9d2b8a0-0a4a-4a50-97e4-b3f1441193f1",
+  "path": "evaluating-llms-harness",
+  "path_key": "evaluating-llms-harness",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

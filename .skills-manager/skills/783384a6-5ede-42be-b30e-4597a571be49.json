@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "783384a6-5ede-42be-b30e-4597a571be49",
+  "path": "notecraft",
+  "path_key": "notecraft",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fec27b74-d0a7-41e6-8905-1244e4ace773",
+  "path": "jupyter-live-kernel",
+  "path_key": "jupyter-live-kernel",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

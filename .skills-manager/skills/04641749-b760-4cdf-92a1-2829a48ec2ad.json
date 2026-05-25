@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "04641749-b760-4cdf-92a1-2829a48ec2ad",
+  "path": "playground",
+  "path_key": "playground",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

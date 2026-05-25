@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c73559f5-a7f3-4147-b782-37dae2f91174",
+  "path": "ljg-word",
+  "path_key": "ljg-word",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

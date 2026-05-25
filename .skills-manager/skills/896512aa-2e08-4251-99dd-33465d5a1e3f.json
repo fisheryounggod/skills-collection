@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "896512aa-2e08-4251-99dd-33465d5a1e3f",
+  "path": "html-to-ppt",
+  "path_key": "html-to-ppt",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

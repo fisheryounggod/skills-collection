@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ed689ccc-e073-4020-8714-638d6cd73794",
+  "path": "tiktok-marketing",
+  "path_key": "tiktok-marketing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

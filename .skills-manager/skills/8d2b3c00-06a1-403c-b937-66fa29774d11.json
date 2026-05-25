@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8d2b3c00-06a1-403c-b937-66fa29774d11",
+  "path": "pptx-manipulation",
+  "path_key": "pptx-manipulation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

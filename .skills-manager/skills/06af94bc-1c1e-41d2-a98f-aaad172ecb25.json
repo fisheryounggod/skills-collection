@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "06af94bc-1c1e-41d2-a98f-aaad172ecb25",
+  "path": "HK-AI-Sector-Expert",
+  "path_key": "hk-ai-sector-expert",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

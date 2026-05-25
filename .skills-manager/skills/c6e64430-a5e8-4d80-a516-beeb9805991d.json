@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c6e64430-a5e8-4d80-a516-beeb9805991d",
+  "path": "hr-automation",
+  "path_key": "hr-automation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

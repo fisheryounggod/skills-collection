@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d50ac3f8-f9ce-4557-80f4-f32a8ec72867",
+  "path": "magazine-web-ppt",
+  "path_key": "magazine-web-ppt",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

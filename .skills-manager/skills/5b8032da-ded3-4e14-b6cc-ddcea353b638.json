@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5b8032da-ded3-4e14-b6cc-ddcea353b638",
+  "path": "chart-designer",
+  "path_key": "chart-designer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7b0c278c-7ccf-4458-ad4a-735990b53149",
+  "path": "news-monitor",
+  "path_key": "news-monitor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

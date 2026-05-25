@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "270f8e3b-c0e3-425e-9726-f83f043647c4",
+  "path": "reflection-note",
+  "path_key": "reflection-note",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

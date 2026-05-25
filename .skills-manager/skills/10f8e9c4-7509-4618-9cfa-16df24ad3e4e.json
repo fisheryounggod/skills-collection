@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "10f8e9c4-7509-4618-9cfa-16df24ad3e4e",
+  "path": "opencli-2",
+  "path_key": "opencli-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "42394010-f08a-41a3-9177-0a964569bf57",
+  "path": "crypto-report",
+  "path_key": "crypto-report",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

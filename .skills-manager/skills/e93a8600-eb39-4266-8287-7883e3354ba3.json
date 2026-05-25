@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e93a8600-eb39-4266-8287-7883e3354ba3",
+  "path": "batch-convert",
+  "path_key": "batch-convert",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

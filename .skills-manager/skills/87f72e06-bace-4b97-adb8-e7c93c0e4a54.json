@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "87f72e06-bace-4b97-adb8-e7c93c0e4a54",
+  "path": "project-guidelines-example",
+  "path_key": "project-guidelines-example",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

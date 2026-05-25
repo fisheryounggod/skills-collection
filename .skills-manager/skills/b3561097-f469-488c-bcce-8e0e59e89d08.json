@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b3561097-f469-488c-bcce-8e0e59e89d08",
+  "path": "django-patterns",
+  "path_key": "django-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

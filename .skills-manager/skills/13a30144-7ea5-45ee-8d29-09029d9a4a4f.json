@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "13a30144-7ea5-45ee-8d29-09029d9a4a4f",
+  "path": "munger-perspective",
+  "path_key": "munger-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

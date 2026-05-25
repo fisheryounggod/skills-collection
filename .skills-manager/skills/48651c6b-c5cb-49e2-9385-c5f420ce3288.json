@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "48651c6b-c5cb-49e2-9385-c5f420ce3288",
+  "path": "macro-liquidity",
+  "path_key": "macro-liquidity",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

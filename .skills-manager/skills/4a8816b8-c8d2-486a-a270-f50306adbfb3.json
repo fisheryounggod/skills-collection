@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4a8816b8-c8d2-486a-a270-f50306adbfb3",
+  "path": "x-bookmark-digest",
+  "path_key": "x-bookmark-digest",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

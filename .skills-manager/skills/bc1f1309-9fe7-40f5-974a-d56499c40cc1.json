@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bc1f1309-9fe7-40f5-974a-d56499c40cc1",
+  "path": "smart-ocr",
+  "path_key": "smart-ocr",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

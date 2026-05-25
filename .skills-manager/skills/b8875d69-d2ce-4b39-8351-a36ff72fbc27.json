@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b8875d69-d2ce-4b39-8351-a36ff72fbc27",
+  "path": "ljg-present",
+  "path_key": "ljg-present",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

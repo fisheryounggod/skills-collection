@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5307b7ca-c39f-43b1-8653-9009b2838f92",
+  "path": "quadrants",
+  "path_key": "quadrants",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

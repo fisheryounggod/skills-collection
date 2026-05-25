@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6d39de84-be8f-4098-8b0f-cb2a93b14921",
+  "path": "wx-cli",
+  "path_key": "wx-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "631987db-279f-4832-92cb-a79c7446400f",
+  "path": "content-parser",
+  "path_key": "content-parser",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

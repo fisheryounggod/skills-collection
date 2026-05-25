@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "09510993-c099-479b-87de-530b3d8b3746",
+  "path": "travel-quick-card",
+  "path_key": "travel-quick-card",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

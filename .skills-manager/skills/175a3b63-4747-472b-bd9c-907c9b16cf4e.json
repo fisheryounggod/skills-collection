@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "175a3b63-4747-472b-bd9c-907c9b16cf4e",
+  "path": "outlook",
+  "path_key": "outlook",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1e5ed976-7d63-4f9d-8ce1-d197ba5b9dc9",
+  "path": "mermaid-visualizer",
+  "path_key": "mermaid-visualizer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

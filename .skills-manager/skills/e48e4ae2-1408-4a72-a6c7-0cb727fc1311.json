@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e48e4ae2-1408-4a72-a6c7-0cb727fc1311",
+  "path": "elon-musk-perspective",
+  "path_key": "elon-musk-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

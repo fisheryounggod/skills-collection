@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c0d4dae7-c384-4ef6-aabf-4536e6fb81c6",
+  "path": "ljg-rank",
+  "path_key": "ljg-rank",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

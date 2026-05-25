@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6bf14c2a-3223-47d2-be86-3ae0d78e0bf1",
+  "path": "daily-review",
+  "path_key": "daily-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

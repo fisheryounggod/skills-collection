@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fed99a2d-77b6-4d7c-9744-067a64ce5a44",
+  "path": "jiajia-perspective",
+  "path_key": "jiajia-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "69f3a1fa-e795-44dd-a5a1-58936c5fcfe2",
+  "path": "marp-slide-generator",
+  "path_key": "marp-slide-generator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

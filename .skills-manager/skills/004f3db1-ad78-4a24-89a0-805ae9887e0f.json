@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "004f3db1-ad78-4a24-89a0-805ae9887e0f",
+  "path": "yahoo-finance",
+  "path_key": "yahoo-finance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

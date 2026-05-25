@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "55736001-98c2-4173-a7d2-5e4a80b9bd27",
+  "path": "create-colleague",
+  "path_key": "create-colleague",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

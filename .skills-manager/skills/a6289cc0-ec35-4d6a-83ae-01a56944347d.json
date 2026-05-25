@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a6289cc0-ec35-4d6a-83ae-01a56944347d",
+  "path": "hermes-agent",
+  "path_key": "hermes-agent",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

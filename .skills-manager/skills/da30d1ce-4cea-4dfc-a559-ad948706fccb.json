@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "da30d1ce-4cea-4dfc-a559-ad948706fccb",
+  "path": "pinchtab",
+  "path_key": "pinchtab",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

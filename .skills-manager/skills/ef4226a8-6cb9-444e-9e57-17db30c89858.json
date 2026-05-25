@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ef4226a8-6cb9-444e-9e57-17db30c89858",
+  "path": "laravel-patterns",
+  "path_key": "laravel-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

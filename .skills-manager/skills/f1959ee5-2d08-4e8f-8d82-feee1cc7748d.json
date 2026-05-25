@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f1959ee5-2d08-4e8f-8d82-feee1cc7748d",
+  "path": "skill-vetter",
+  "path_key": "skill-vetter",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

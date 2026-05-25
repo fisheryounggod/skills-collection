@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{TITLE}}</title>
+<style>
+  :root {
+    --paper: #F7F3E9;
+    --ink: #1A1A1A;
+    --cinnabar: #C03C28;
+    --hint: #A89F8E;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body {
+    width: 100%; height: 100%;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "PingFang SC", "Heiti SC", "STHeiti", -apple-system, BlinkMacSystemFont, "Noto Sans CJK SC", sans-serif;
+    font-weight: 900;
+    overflow: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .stage {
+    position: fixed;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4vmin;
+  }
+  .slide {
+    width: 100%; height: 100%;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+  }
+  .slide.active { display: flex; }
+  .slide .text {
+    /* 字号动态撑满：字数越少越压屏，单字页是灵魂 */
+    font-size: clamp(80px, 22vmin, 420px);
+  }
+  /* 按字数档位：单字最大，越长越降档 */
+  .slide[data-len="single"] .text { font-size: clamp(260px, 56vmin, 760px); }
+  .slide[data-len="short"]  .text { font-size: clamp(180px, 38vmin, 560px); }
+  .slide[data-len="medium"] .text { font-size: clamp(120px, 24vmin, 360px); }
+  .slide[data-len="long"]   .text { font-size: clamp(72px, 14vmin, 220px); }
+  .slide[data-len="xlong"]  .text { font-size: clamp(48px, 10vmin, 140px); }
+
+  .slide.emphasis .text { color: var(--cinnabar); }
+
+  .pager {
+    position: fixed;
+    left: 3vmin;
+    bottom: 2.5vmin;
+    font-family: "Menlo", "Monaco", monospace;
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--hint);
+    letter-spacing: 0.1em;
+    user-select: none;
+  }
+  .hint {
+    position: fixed;
+    right: 3vmin;
+    bottom: 2.5vmin;
+    font-family: "Menlo", "Monaco", monospace;
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--hint);
+    letter-spacing: 0.08em;
+    user-select: none;
+    transition: opacity 0.6s ease;
+  }
+  .hint.hide { opacity: 0; pointer-events: none; }
+
+  :fullscreen .pager, :fullscreen .hint { display: none; }
+  :-webkit-full-screen .pager, :-webkit-full-screen .hint { display: none; }
+
+  /* 第一页特殊：显示小引导 */
+  .first-guide {
+    position: fixed;
+    top: 3vmin;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 13px;
+    font-weight: 400;
+    color: var(--hint);
+    letter-spacing: 0.12em;
+    user-select: none;
+    transition: opacity 0.6s ease;
+  }
+  .first-guide.hide { opacity: 0; pointer-events: none; }
+</style>
+</head>
+<body>
+
+<div class="stage" id="stage"></div>
+<div class="first-guide" id="firstGuide">按 → 或 空格 翻页 · 按 F 全屏</div>
+<div class="pager" id="pager">01 / 01</div>
+<div class="hint" id="hint">← → Space  翻页 | F 全屏</div>
+
+<script>
+  // {{SLIDES_JSON}} 被 skill 替换为 [{"text":"...","emphasis":false}, ...]
+  const SLIDES = {{SLIDES_JSON}};
+
+  const stage = document.getElementById('stage');
+  const pager = document.getElementById('pager');
+  const hint = document.getElementById('hint');
+  const firstGuide = document.getElementById('firstGuide');
+
+  // 根据字数决定字号档位
+  function lengthTier(text) {
+    // 中文按字符数；单字页是高桥流灵魂，必须最大
+    const len = [...text.replace(/\s/g, '')].length;
+    if (len === 1) return 'single';
+    if (len <= 3) return 'short';
+    if (len <= 6) return 'medium';
+    if (len <= 12) return 'long';
+    return 'xlong';
+  }
+
+  // 构建所有 slide 节点
+  SLIDES.forEach((s, i) => {
+    const el = document.createElement('div');
+    el.className = 'slide' + (s.emphasis ? ' emphasis' : '');
+    el.setAttribute('data-len', lengthTier(s.text));
+    el.innerHTML = '<div class="text">' + escapeHtml(s.text) + '</div>';
+    stage.appendChild(el);
+  });
+
+  function escapeHtml(s) {
+    return String(s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }
+
+  const slides = stage.querySelectorAll('.slide');
+  let idx = 0;
+
+  function show(i) {
+    if (i < 0) i = 0;
+    if (i >= slides.length) i = slides.length - 1;
+    slides[idx].classList.remove('active');
+    idx = i;
+    slides[idx].classList.add('active');
+    pager.textContent = String(idx + 1).padStart(2,'0') + ' / ' + String(slides.length).padStart(2,'0');
+
+    // 只有第一页显示 firstGuide
+    if (idx === 0) firstGuide.classList.remove('hide');
+    else firstGuide.classList.add('hide');
+
+    // 第一次翻页后，隐藏右下 hint
+    if (idx > 0) hint.classList.add('hide');
+  }
+
+  function next() { show(idx + 1); }
+  function prev() { show(idx - 1); }
+  function first() { show(0); }
+  function last() { show(slides.length - 1); }
+
+  function toggleFullscreen() {
+    if (!document.fullscreenElement) {
+      document.documentElement.requestFullscreen?.();
+    } else {
+      document.exitFullscreen?.();
+    }
+  }
+
+  document.addEventListener('keydown', (e) => {
+    switch (e.key) {
+      case 'ArrowRight':
+      case ' ':
+      case 'Enter':
+      case 'j':
+      case 'PageDown':
+        e.preventDefault(); next(); break;
+      case 'ArrowLeft':
+      case 'k':
+      case 'PageUp':
+        e.preventDefault(); prev(); break;
+      case 'Home':
+        e.preventDefault(); first(); break;
+      case 'End':
+        e.preventDefault(); last(); break;
+      case 'f':
+      case 'F':
+        e.preventDefault(); toggleFullscreen(); break;
+    }
+  });
+
+  // 触屏左右滑
+  let touchX = null;
+  document.addEventListener('touchstart', (e) => { touchX = e.touches[0].clientX; });
+  document.addEventListener('touchend', (e) => {
+    if (touchX == null) return;
+    const dx = e.changedTouches[0].clientX - touchX;
+    if (dx < -40) next();
+    else if (dx > 40) prev();
+    touchX = null;
+  });
+
+  // 点击右半/左半翻页（幻灯演讲常用）
+  document.addEventListener('click', (e) => {
+    if (e.target.closest('.pager,.hint,.first-guide')) return;
+    const mid = window.innerWidth / 2;
+    if (e.clientX > mid) next();
+    else prev();
+  });
+
+  show(0);
+</script>
+</body>
+</html>

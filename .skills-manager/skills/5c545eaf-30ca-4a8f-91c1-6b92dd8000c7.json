@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5c545eaf-30ca-4a8f-91c1-6b92dd8000c7",
+  "path": "architecture-diagram",
+  "path_key": "architecture-diagram",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

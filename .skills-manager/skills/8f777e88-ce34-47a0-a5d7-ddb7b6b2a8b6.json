@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8f777e88-ce34-47a0-a5d7-ddb7b6b2a8b6",
+  "path": "cninfo-to-notebooklm",
+  "path_key": "cninfo-to-notebooklm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

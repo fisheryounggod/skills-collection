@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "78748e03-53d6-4208-917b-946c2c36f9e9",
+  "path": "obliteratus",
+  "path_key": "obliteratus",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "33175394-47ef-4ac5-a7ac-4b5f9361728f",
+  "path": "gog",
+  "path_key": "gog",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

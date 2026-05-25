@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "072c2a0d-1574-437a-b5d0-e0b164fc9a69",
+  "path": "ljg-skill-map-2",
+  "path_key": "ljg-skill-map-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

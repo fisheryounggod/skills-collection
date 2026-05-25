@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d7e54bb6-ef92-442d-b10e-f05ff4a4fd64",
+  "path": "ljg-card",
+  "path_key": "ljg-card",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

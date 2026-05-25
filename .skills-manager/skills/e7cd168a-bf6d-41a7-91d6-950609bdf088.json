@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e7cd168a-bf6d-41a7-91d6-950609bdf088",
+  "path": "batch-processor",
+  "path_key": "batch-processor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

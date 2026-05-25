@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "845d978c-4a5d-4894-9eb4-073552ade344",
+  "path": "jupyter-pdf",
+  "path_key": "jupyter-pdf",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

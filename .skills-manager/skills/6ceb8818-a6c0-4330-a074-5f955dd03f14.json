@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6ceb8818-a6c0-4330-a074-5f955dd03f14",
+  "path": "xlsx-manipulation",
+  "path_key": "xlsx-manipulation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

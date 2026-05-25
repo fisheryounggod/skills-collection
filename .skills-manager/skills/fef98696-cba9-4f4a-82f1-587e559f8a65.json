@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fef98696-cba9-4f4a-82f1-587e559f8a65",
+  "path": "excel-automation",
+  "path_key": "excel-automation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

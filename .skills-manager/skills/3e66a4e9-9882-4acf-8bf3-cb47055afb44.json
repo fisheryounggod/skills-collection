@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3e66a4e9-9882-4acf-8bf3-cb47055afb44",
+  "path": "econ-ai",
+  "path_key": "econ-ai",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

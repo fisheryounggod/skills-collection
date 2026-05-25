@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b97c9852-b795-4a49-9027-471177d647f7",
+  "path": "slack-workflows",
+  "path_key": "slack-workflows",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

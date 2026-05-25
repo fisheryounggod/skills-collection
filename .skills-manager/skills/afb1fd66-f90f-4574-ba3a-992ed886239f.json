@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "afb1fd66-f90f-4574-ba3a-992ed886239f",
+  "path": "cnki-parse-results",
+  "path_key": "cnki-parse-results",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c7264379-289d-472c-9a87-850a4dc7468e",
+  "path": "calendar-automation",
+  "path_key": "calendar-automation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0543790a-d9a5-4781-b6e5-77792e5d0a62",
+  "path": "feedgrab-setup",
+  "path_key": "feedgrab-setup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

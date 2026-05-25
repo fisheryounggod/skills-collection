@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7c1945b9-1621-438d-873a-b63ce7667e2c",
+  "path": "asr",
+  "path_key": "asr",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

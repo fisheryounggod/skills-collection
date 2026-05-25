@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7bf53d58-5475-4172-907d-136290eb7160",
+  "path": "ljg-paper-river",
+  "path_key": "ljg-paper-river",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

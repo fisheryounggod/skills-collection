@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fde484ba-e4b9-4242-95a3-e61866d99688",
+  "path": "sheets-automation",
+  "path_key": "sheets-automation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

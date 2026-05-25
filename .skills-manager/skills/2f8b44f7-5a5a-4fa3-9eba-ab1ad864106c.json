@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2f8b44f7-5a5a-4fa3-9eba-ab1ad864106c",
+  "path": "ljg-think",
+  "path_key": "ljg-think",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

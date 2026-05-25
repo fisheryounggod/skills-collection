@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2d6a12fd-a956-4ec9-a937-f0407733afee",
+  "path": "all-money-back-my-home",
+  "path_key": "all-money-back-my-home",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

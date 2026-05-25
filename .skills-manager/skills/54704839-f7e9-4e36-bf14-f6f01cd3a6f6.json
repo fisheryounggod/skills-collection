@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "54704839-f7e9-4e36-bf14-f6f01cd3a6f6",
+  "path": "jina-reader",
+  "path_key": "jina-reader",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

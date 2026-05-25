@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f600ff04-ea74-411d-b2d8-38e9e05ddc5a",
+  "path": "office-to-md",
+  "path_key": "office-to-md",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

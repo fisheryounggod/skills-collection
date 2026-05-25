@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f783fcbc-0767-49ab-8f9f-79a3ef223509",
+  "path": "ui-control-center",
+  "path_key": "ui-control-center",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

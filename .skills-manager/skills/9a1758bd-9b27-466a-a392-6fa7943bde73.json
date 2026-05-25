@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9a1758bd-9b27-466a-a392-6fa7943bde73",
+  "path": "invoice-generator",
+  "path_key": "invoice-generator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

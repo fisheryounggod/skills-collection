@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3d64d1b0-b21e-4d77-ac62-dc1834664cf6",
+  "path": "twitter-bookmarks-exporter",
+  "path_key": "twitter-bookmarks-exporter",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

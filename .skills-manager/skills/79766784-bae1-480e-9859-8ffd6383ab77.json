@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "79766784-bae1-480e-9859-8ffd6383ab77",
+  "path": "discord-bot",
+  "path_key": "discord-bot",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7e6063a6-6f51-4ca0-b642-8eed146ca71a",
+  "path": "youdao-note",
+  "path_key": "youdao-note",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

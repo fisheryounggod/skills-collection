@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c3b953c2-10d0-4c08-b84c-02b20badac96",
+  "path": "dcf-valuation",
+  "path_key": "dcf-valuation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

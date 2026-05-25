@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "31ef5e27-8805-4866-bf10-75d02885b054",
+  "path": "sector-fund-flow-video-v2",
+  "path_key": "sector-fund-flow-video-v2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

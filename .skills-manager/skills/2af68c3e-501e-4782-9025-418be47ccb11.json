@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2af68c3e-501e-4782-9025-418be47ccb11",
+  "path": "ljg-paper",
+  "path_key": "ljg-paper",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

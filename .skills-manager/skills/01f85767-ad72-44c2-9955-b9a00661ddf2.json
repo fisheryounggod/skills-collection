@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "01f85767-ad72-44c2-9955-b9a00661ddf2",
+  "path": "notebook-lm-research",
+  "path_key": "notebook-lm-research",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a60cc2fd-41e1-4959-9769-ca3c2a94a158",
+  "path": "market-news",
+  "path_key": "market-news",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

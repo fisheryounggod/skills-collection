@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "051a484c-1642-4d3b-8dab-903791b2c06a",
+  "path": "Hacker News",
+  "path_key": "hacker news",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

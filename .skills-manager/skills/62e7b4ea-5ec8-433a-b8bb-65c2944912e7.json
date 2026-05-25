@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "62e7b4ea-5ec8-433a-b8bb-65c2944912e7",
+  "path": "abc-b2c-skill",
+  "path_key": "abc-b2c-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

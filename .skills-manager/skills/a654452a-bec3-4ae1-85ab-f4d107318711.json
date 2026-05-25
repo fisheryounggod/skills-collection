@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a654452a-bec3-4ae1-85ab-f4d107318711",
+  "path": "claude-automation-recommender",
+  "path_key": "claude-automation-recommender",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0720abc2-cf12-4130-ad67-8299ec5339ef",
+  "path": "email-marketing",
+  "path_key": "email-marketing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

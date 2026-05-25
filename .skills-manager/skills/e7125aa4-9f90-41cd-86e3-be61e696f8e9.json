@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e7125aa4-9f90-41cd-86e3-be61e696f8e9",
+  "path": "plan",
+  "path_key": "plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

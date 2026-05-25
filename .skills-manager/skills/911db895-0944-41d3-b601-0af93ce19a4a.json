@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "911db895-0944-41d3-b601-0af93ce19a4a",
+  "path": "literature-collector",
+  "path_key": "literature-collector",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

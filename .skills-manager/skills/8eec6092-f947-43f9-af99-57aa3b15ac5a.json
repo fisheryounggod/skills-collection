@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8eec6092-f947-43f9-af99-57aa3b15ac5a",
+  "path": "contract-review",
+  "path_key": "contract-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

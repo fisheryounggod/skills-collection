@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "047c753b-3fde-4fd7-95a9-26c534213c2b",
+  "path": "cnki-download",
+  "path_key": "cnki-download",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

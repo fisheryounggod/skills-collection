@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2333b53a-c0c1-48ca-98f3-63605f24d2ea",
+  "path": "baoyu-image-cards",
+  "path_key": "baoyu-image-cards",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

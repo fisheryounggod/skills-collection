@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7353641d-46ae-45de-96c4-90f1bd2ff0d5",
+  "path": "brand-cog",
+  "path_key": "brand-cog",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

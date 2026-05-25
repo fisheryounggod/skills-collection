@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "daba300f-3095-445f-8c83-ffd651ce8be6",
+  "path": "chrome-cdp-2",
+  "path_key": "chrome-cdp-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

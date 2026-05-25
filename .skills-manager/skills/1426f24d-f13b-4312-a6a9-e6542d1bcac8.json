@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1426f24d-f13b-4312-a6a9-e6542d1bcac8",
+  "path": "data-extractor",
+  "path_key": "data-extractor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

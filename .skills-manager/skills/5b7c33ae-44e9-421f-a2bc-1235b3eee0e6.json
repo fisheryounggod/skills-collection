@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5b7c33ae-44e9-421f-a2bc-1235b3eee0e6",
+  "path": "essay-note",
+  "path_key": "essay-note",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

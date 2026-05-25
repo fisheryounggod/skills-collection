@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2f70b374-718b-491f-a68a-b7e3a7807ea5",
+  "path": "agent-development",
+  "path_key": "agent-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

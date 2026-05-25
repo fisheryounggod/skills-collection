@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0d1d322b-ae17-4afa-9277-a44ff2372890",
+  "path": "doko-search",
+  "path_key": "doko-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

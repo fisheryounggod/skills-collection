@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8f1276ef-4bc1-4e01-a7b9-40094c5dac87",
+  "path": "cpp-testing",
+  "path_key": "cpp-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

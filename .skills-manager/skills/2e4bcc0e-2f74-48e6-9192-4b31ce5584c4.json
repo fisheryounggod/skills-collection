@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2e4bcc0e-2f74-48e6-9192-4b31ce5584c4",
+  "path": "task-planner",
+  "path_key": "task-planner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

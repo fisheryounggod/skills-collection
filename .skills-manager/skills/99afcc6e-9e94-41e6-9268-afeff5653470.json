@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "99afcc6e-9e94-41e6-9268-afeff5653470",
+  "path": "daily-journal",
+  "path_key": "daily-journal",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f349e6f9-920b-4799-bb07-c115a2184480",
+  "path": "ljg-x-download",
+  "path_key": "ljg-x-download",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

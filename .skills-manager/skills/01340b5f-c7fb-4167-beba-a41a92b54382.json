@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "01340b5f-c7fb-4167-beba-a41a92b54382",
+  "path": "cnki-paper-detail",
+  "path_key": "cnki-paper-detail",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

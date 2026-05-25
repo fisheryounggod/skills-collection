@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "70df4d98-5d44-47b5-99ed-46faee354a89",
+  "path": "skill-development",
+  "path_key": "skill-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9ea473da-5d1c-4cbc-9e44-90cba8e8895a",
+  "path": "cnki-export",
+  "path_key": "cnki-export",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

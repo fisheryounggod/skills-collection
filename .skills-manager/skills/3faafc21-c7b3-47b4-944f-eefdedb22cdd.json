@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3faafc21-c7b3-47b4-944f-eefdedb22cdd",
+  "path": "dida365",
+  "path_key": "dida365",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "720d3d23-0de0-4eff-be11-f28ea2dfd424",
+  "path": "cover-letter",
+  "path_key": "cover-letter",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

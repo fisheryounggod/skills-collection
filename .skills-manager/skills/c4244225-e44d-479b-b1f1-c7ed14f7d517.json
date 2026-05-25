@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c4244225-e44d-479b-b1f1-c7ed14f7d517",
+  "path": "procedural-skill-compiler",
+  "path_key": "procedural-skill-compiler",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

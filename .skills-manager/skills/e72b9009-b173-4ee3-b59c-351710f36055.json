@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e72b9009-b173-4ee3-b59c-351710f36055",
+  "path": "literature-abc-workflow",
+  "path_key": "literature-abc-workflow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "02cf107f-811e-46f2-97b2-7094f5861f0b",
+  "path": "email-drafter",
+  "path_key": "email-drafter",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

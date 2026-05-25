@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bf7f1be6-68c8-4c16-9d78-8bd5fc2ece69",
+  "path": "docx-manipulation",
+  "path_key": "docx-manipulation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

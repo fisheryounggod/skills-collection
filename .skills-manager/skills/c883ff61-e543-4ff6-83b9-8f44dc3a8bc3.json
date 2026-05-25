@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c883ff61-e543-4ff6-83b9-8f44dc3a8bc3",
+  "path": "news-aggregator-skill",
+  "path_key": "news-aggregator-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

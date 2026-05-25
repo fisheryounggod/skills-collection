@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7bb302d0-bea2-4f4b-b513-e3e5ded6e06b",
+  "path": "golang-testing",
+  "path_key": "golang-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

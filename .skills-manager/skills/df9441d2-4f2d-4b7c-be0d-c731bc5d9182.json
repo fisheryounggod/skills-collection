@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "df9441d2-4f2d-4b7c-be0d-c731bc5d9182",
+  "path": "rust-testing",
+  "path_key": "rust-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

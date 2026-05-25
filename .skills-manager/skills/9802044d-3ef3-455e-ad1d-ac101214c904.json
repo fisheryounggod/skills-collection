@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9802044d-3ef3-455e-ad1d-ac101214c904",
+  "path": "saas-metrics",
+  "path_key": "saas-metrics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

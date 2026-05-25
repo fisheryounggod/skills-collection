@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8cd12191-5d6d-49f3-9e6d-bfe88ab1de10",
+  "path": "pdf-extraction",
+  "path_key": "pdf-extraction",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

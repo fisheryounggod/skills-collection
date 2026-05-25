@@ -1,0 +1,1084 @@
+[
+  {
+    "bookmark_id": "1856868983661871322",
+    "status_id": "1856868983661871322",
+    "status_url": "https://x.com/jyrnan/status/1856868983661871322",
+    "author_name": " jyrnn 胖帅博",
+    "handle": "jyrnan",
+    "text": "最近又在看MIT的缺失一课，这个仓库整理得真的非常棒。课程内容对我这个野生程序员工来说也是十分具有含金量，让我补全了很多CS方面实用的知识，我打算通读完这遍后再仔细归纳成自己的笔记，掌握精髓。\n对我而言，Unix/Linux系统的计算机世界太有趣了！\nhttps://t.co/a2kUi6Ai0l",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [
+      "https://missing-semester-cn.github.io"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 477,
+      "retweets": 112,
+      "replies": 2,
+      "quotes": 4,
+      "bookmarks": 395,
+      "views": 41911
+    },
+    "created_at": "Thu Nov 14 01:17:19 +0000 2024",
+    "ordinal": 556
+  },
+  {
+    "bookmark_id": "1856852343385731129",
+    "status_id": "1856852343385731129",
+    "status_url": "https://x.com/Jackywine/status/1856852343385731129",
+    "author_name": "Jackywine",
+    "handle": "Jackywine",
+    "text": "最近在@Zlibrary_China 看的书比较多\n但是很多书的印刷质量参差不齐，有的印的很歪斜，不是很清楚，不够结构化，而这一款开源软件\n在处理PDF领域直接击穿痛点，直接可以把模糊歪斜的页面，直接把文字和图片分开识别并导出md格式，我直接可以把一整本电子书放进@obsdmd 里面\nhttps://t.co/B4O2GMDOvA https://t.co/i6NvySzuZL",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [
+      "https://github.com/opendatalab/MinerU"
+    ],
+    "media": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/1856852030238986241/pu/img/B2CGeIsd5537zW5w.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 779,
+      "retweets": 194,
+      "replies": 16,
+      "quotes": 2,
+      "bookmarks": 1052,
+      "views": 84126
+    },
+    "created_at": "Thu Nov 14 00:11:11 +0000 2024",
+    "ordinal": 557
+  },
+  {
+    "bookmark_id": "1857117529769955802",
+    "status_id": "1857117529769955802",
+    "status_url": "https://x.com/Brad_Setser/status/1857117529769955802",
+    "author_name": "Brad Setser",
+    "handle": "Brad_Setser",
+    "text": "China's balance sheet data for October is out -- and the reserves held by the PBOC on its own balance sheet fell ever so slightly (nothing significant)\n\nThe state banking data tho is more interesting b/c the net foreign asset position of the state banks improved\n\n1/ https://t.co/H9YZdUMC6L",
+    "language": "en",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/GcXOak1XEAAigxz.png"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 58,
+      "retweets": 9,
+      "replies": 3,
+      "quotes": 0,
+      "bookmarks": 17,
+      "views": 17305
+    },
+    "created_at": "Thu Nov 14 17:44:57 +0000 2024",
+    "ordinal": 558
+  },
+  {
+    "bookmark_id": "1857238569191927820",
+    "status_id": "1857238569191927820",
+    "status_url": "https://x.com/Brad_Setser/status/1857238569191927820",
+    "author_name": "Brad Setser",
+    "handle": "Brad_Setser",
+    "text": "and I very much enjoyed this technical blog as well, and look forward to the next iteration of this line of thought (which I find intriguing).\n\nhttps://t.co/UDCR9CYIxN",
+    "language": "en",
+    "hashtags": [],
+    "urls": [
+      "https://stonecenter.gc.cuny.edu/can-trump-reduce-the-trade-deficit-paul-krugman/"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": true,
+    "metrics": {
+      "likes": 77,
+      "retweets": 10,
+      "replies": 5,
+      "quotes": 1,
+      "bookmarks": 36,
+      "views": 12242
+    },
+    "created_at": "Fri Nov 15 01:45:55 +0000 2024",
+    "ordinal": 559
+  },
+  {
+    "bookmark_id": "1857236140262105251",
+    "status_id": "1857236140262105251",
+    "status_url": "https://x.com/Brad_Setser/status/1857236140262105251",
+    "author_name": "Brad Setser",
+    "handle": "Brad_Setser",
+    "text": "Excellent Paul Krugman column on China\n\nHere is the most important bit https://t.co/PafpRbpV6N",
+    "language": "en",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/GcY6TzMWoAAxQdZ.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 1213,
+      "retweets": 251,
+      "replies": 173,
+      "quotes": 89,
+      "bookmarks": 377,
+      "views": 371739
+    },
+    "created_at": "Fri Nov 15 01:36:16 +0000 2024",
+    "ordinal": 560
+  },
+  {
+    "bookmark_id": "1856345845710418286",
+    "status_id": "1856345845710418286",
+    "status_url": "https://x.com/selcukorkmaz/status/1856345845710418286",
+    "author_name": "Selçuk Korkmaz",
+    "handle": "selcukorkmaz",
+    "text": "Excited to announce that the first version of fastml is on CRAN now!\n\nhttps://t.co/ivh5v8uZKn\n\n#Rstats #MachineLearning #DataScience",
+    "language": "en",
+    "hashtags": [
+      "Rstats",
+      "MachineLearning",
+      "DataScience"
+    ],
+    "urls": [
+      "https://cran.r-project.org/web/packages/fastml/index.html"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 282,
+      "retweets": 59,
+      "replies": 5,
+      "quotes": 0,
+      "bookmarks": 179,
+      "views": 21060
+    },
+    "created_at": "Tue Nov 12 14:38:33 +0000 2024",
+    "ordinal": 561
+  },
+  {
+    "bookmark_id": "1856153782708777203",
+    "status_id": "1856153782708777203",
+    "status_url": "https://x.com/0xCheshire/status/1856153782708777203",
+    "author_name": "柴郡🔔｜Crypto+AI Plus",
+    "handle": "0xCheshire",
+    "text": "马斯克曾经透露过 11 本极具影响力的有声书，但你们大多数人可能没注意到。\n\n所以，我专门翻阅了他 56,700 条推文，把这些书一一找出来分享给大家。\n\n这些书绝对值得一读。\n\n请认真看看 ↓ https://t.co/LWMLu0btfe",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/GcJh5fQbkAA7GaB.jpg",
+      "https://pbs.twimg.com/media/GcJh7P-asAQb41y.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 572,
+      "retweets": 187,
+      "replies": 15,
+      "quotes": 4,
+      "bookmarks": 647,
+      "views": 120307
+    },
+    "created_at": "Tue Nov 12 01:55:22 +0000 2024",
+    "ordinal": 562
+  },
+  {
+    "bookmark_id": "1855809070915355084",
+    "status_id": "1855809070915355084",
+    "status_url": "https://x.com/shao__meng/status/1855809070915355084",
+    "author_name": "meng shao",
+    "handle": "shao__meng",
+    "text": "提示词工程 - Cohere LLM University\n# 系统化讲解如何通过提示词工程来构建可靠的 LLM 应用, 涵盖从基础提示词设计、应用场景模式、到链式调用策略, 并通过严格的验证和评估体系来确保输出质量, 帮助开发者构建稳定、可靠的 LLM 应用\n\n第 1 章 - 构建提示词(Constructing Prompts) \n主要介绍了如何构建有效的提示词, 包括以下关键技术:\n· 基础指令(Instruction)\n  - 最简单的形式是一行简单的指令\n  - 例如: \"为无线耳机写一个产品描述\"\n· 具体细节(Specifics)\n  - 添加具体的细节来引导模型生成更精确的回答\n  - 包括风格、语气、角色设定、长度等具体要求\n· 上下文(Context)\n  - 为模型提供背景信息以生成更准确的回答\n  - 特别重要的是在需要特定知识的场景中\n· 输出格式(Format)\n  - 可以要求模型以特定格式输出, 如 Markdown 表格或 JSON\n  - 有助于生成结构化数据\n· 示例(Examples)\n  - 使用少量示例来展示期望的输出格式和风格\n  - 这种方式叫做少样本学习(few-shot learning)\n\n第 2 章 - 用例模式(Use Case Patterns)\n介绍了 Command 模型的主要应用场景:\n· 写作类任务\n  - 创作邮件、报告等\n  - 需要结合具体上下文和要求\n· 问答类任务\n  - 基于知识库的问答\n  - 开放式问答\n· 头脑风暴\n  - 生成创意和想法清单\n  - 提供多角度分析\n· 文本转换\n  - 将文本转换为不同格式\n  - 保持原意的同时改变表达方式\n· 总结、改写、提取和分类等任务\n  - 文本摘要\n  - 风格改写\n  - 信息提取\n  - 文本分类\n\n第 3 章 - 提示词链式调用(Chaining Prompts)\n讲解了几种主要的提示词链式调用模式:\n· 顺序链(Sequential)\n  - 将复杂任务分解为多个子任务\n  - 前一个任务的输出作为下一个任务的输入\n· 并行链(Parallel)\n  - 同时运行多个独立的提示词任务\n  - 最后合并结果\n· 采样链(Sampling)\n  - 对同一个问题生成多个答案\n  - 选择最佳答案\n· 探索链(Exploration)\n  - 在每个步骤探索多个可能的解决方案\n  - 选择最佳路径继续\n· 循环链(Loop)\n  - 根据验证结果决定是否需要重新生成\n  - 直到满足质量要求\n\n第 4 章 - 输出验证(Validating Outputs) \n介绍了如何验证 LLM 输出的质量:\n· 验证的必要性\n  - LLM 输出具有概率性\n  - 需要确保输出符合预期要求\n· 验证场景\n  - 结构符合性\n  - 安全性检查\n  - 语义相似度\n  - 有效性检查\n  - 质量保证\n· 使用 Guardrails AI 进行验证\n  - 定义输出模式\n  - 初始化验证对象\n  - 包装 LLM 调用\n\n第 5 章 - 输出评估(Evaluating Outputs)\n讨论了评估 LLM 输出的不同方法:\n· 真实用户反馈\n  - 显式反馈(点赞/踩)\n  - 隐式反馈(使用行为)\n· 人工评估\n  - 参考评估 \n  - 打分评估\n  - A/B 测试\n· LLM 生成的评估\n  - 使用 LLM 自动评估输出质量\n  - 可以模拟人工评估的各种方式\n· 词级别指标\n  - BLEU、ROUGE 等评估指标\n  - 基于词符匹配的自动评估\n\n课程地址:\nhttps://t.co/gtkKlS3LJd",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/GcEof9sbMAAfMDM.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 131,
+      "retweets": 42,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 101,
+      "views": 9143
+    },
+    "created_at": "Mon Nov 11 03:05:36 +0000 2024",
+    "ordinal": 563
+  },
+  {
+    "bookmark_id": "1855974252014403796",
+    "status_id": "1855974252014403796",
+    "status_url": "https://x.com/Brad_Setser/status/1855974252014403796",
+    "author_name": "Brad Setser",
+    "handle": "Brad_Setser",
+    "text": "Bloomberg is(correctly) reporting that China's 2024 customs surplus is on track to reach $1 trillion.\n\nAs significantly, Chinese export volume growth is running 10 pp higher than Chinese import volume growth (a huge gap)\n\n1/2 https://t.co/ykVUSWa1ax",
+    "language": "en",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/GcG-sFFXUAA7R3j.png"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 139,
+      "retweets": 25,
+      "replies": 5,
+      "quotes": 5,
+      "bookmarks": 36,
+      "views": 15349
+    },
+    "created_at": "Mon Nov 11 14:01:58 +0000 2024",
+    "ordinal": 564
+  },
+  {
+    "bookmark_id": "1855750355994436025",
+    "status_id": "1855750355994436025",
+    "status_url": "https://x.com/howlemont/status/1855750355994436025",
+    "author_name": "皓樂芒",
+    "handle": "howlemont",
+    "text": "谷歌的Learning about很不错，加上之前的notebookLM，将学习破壁变成很容易很有效率的事，真羡慕现在的学生啊。\nhttps://t.co/IWIT7LdpdJ https://t.co/A2dyilE4es",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [
+      "https://learning.google.com/experiments/learn-about?src=signup"
+    ],
+    "media": [
+      "https://pbs.twimg.com/media/GcDyghUaYAA1UMu.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 416,
+      "retweets": 95,
+      "replies": 2,
+      "quotes": 3,
+      "bookmarks": 417,
+      "views": 47309
+    },
+    "created_at": "Sun Nov 10 23:12:17 +0000 2024",
+    "ordinal": 565
+  },
+  {
+    "bookmark_id": "1855551397284245976",
+    "status_id": "1855551397284245976",
+    "status_url": "https://x.com/aigclink/status/1855551397284245976",
+    "author_name": "AIGCLINK",
+    "handle": "aigclink",
+    "text": "一款可以保留原排版的PDF文档翻译工具：PDFMathTranslate，可以完整保留原文档中的公式、图表，支持双语对比\n\n1、支持PDF科技论文的全文翻译和双语对照\n2、可以保持原有目录结构\n3、支持多种翻译服务，Google、DeepL、Ollama、OpenAI等\n\ngithub：https://t.co/8E1BfjGPf1\n\n#PDF文档翻译 #论文翻译",
+    "language": "zh",
+    "hashtags": [
+      "PDF文档翻译",
+      "论文翻译"
+    ],
+    "urls": [
+      "https://github.com/Byaidu/PDFMathTranslate"
+    ],
+    "media": [
+      "https://pbs.twimg.com/media/GcA9VNBa8AAB5vO.jpg",
+      "https://pbs.twimg.com/media/GcA9YlSboAE951n.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 542,
+      "retweets": 171,
+      "replies": 10,
+      "quotes": 3,
+      "bookmarks": 594,
+      "views": 41959
+    },
+    "created_at": "Sun Nov 10 10:01:42 +0000 2024",
+    "ordinal": 566
+  },
+  {
+    "bookmark_id": "1855122345251553323",
+    "status_id": "1855122345251553323",
+    "status_url": "https://x.com/seclink/status/1855122345251553323",
+    "author_name": "Y11",
+    "handle": "seclink",
+    "text": "发现了一个宝藏资源！\n\n这位大神开源了一门课程《从头开始构建大型语言模型》，课程将逐步带你创建自己的LLM。\n\n每个章节都配有详尽的文字说明、图表和实例来讲解关键概念。\n\n课程内容包含：\n\n基础知识：深入理解注意力机制\n模型构建：创建并预训练类似于GPT的模型\n权重加载：掌握如何加载预训练权重\n微调分类任务：调整模型以适应分类任务\n指令微调：通过直接偏好优化完成指令微调\n课程链接在此：https://t.co/tCHiABmRoE",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/Gb637kPbwAA-1-2.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 401,
+      "retweets": 122,
+      "replies": 8,
+      "quotes": 3,
+      "bookmarks": 377,
+      "views": 31139
+    },
+    "created_at": "Sat Nov 09 05:36:48 +0000 2024",
+    "ordinal": 567
+  },
+  {
+    "bookmark_id": "1855041846365544584",
+    "status_id": "1855041846365544584",
+    "status_url": "https://x.com/shao__meng/status/1855041846365544584",
+    "author_name": "meng shao",
+    "handle": "shao__meng",
+    "text": "Crawlee-Python: 端到端的网页爬虫和浏览器自动化开源项目 @apify \n\n# 接近人类行为的爬取方式, 能有效避免被反爬虫系统识别\n# 提供两种主要的爬虫类型:\n  · BeautifulSoupCrawler: 基于 HTTP 库的轻量级爬虫, 适合静态网页\n  · PlaywrightCrawler: 基于无头浏览器的高级爬虫, 适合需要执行 JavaScript 的动态网页\n\n💡核心优势:\n- 统一的接口支持 HTTP 和无头浏览器爬取\n- 基于系统资源自动进行并行爬取\n- 完整的类型提示支持, 提升开发体验\n- 自动重试和代理轮换机制\n- 内置的 URL 队列管理和数据存储功能\n\n🚇使用场景:\n- AI 和 LLM 的数据采集\n- RAG 系统的数据获取\n- 网站内容下载(HTML、PDF、图片等)\n- 需要绕过反爬虫机制的场景\n\n开源地址:\nhttps://t.co/sE4HYdfJZV",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/Gb5uqNgbwAMLMQv.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 339,
+      "retweets": 95,
+      "replies": 8,
+      "quotes": 0,
+      "bookmarks": 386,
+      "views": 23588
+    },
+    "created_at": "Sat Nov 09 00:16:55 +0000 2024",
+    "ordinal": 568
+  },
+  {
+    "bookmark_id": "1855168710451056855",
+    "status_id": "1855168710451056855",
+    "status_url": "https://x.com/Lucy_love_AI/status/1855168710451056855",
+    "author_name": "露西的百宝箱",
+    "handle": "Lucy_love_AI",
+    "text": "发现了一个超强的生产力工具：文章同步助手！支持国内 23+ 平台同步发布🔥\n\n支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho等等23+个平台，一次发布，多平台同步发布，小试了一下，效果真的非常棒，小白也能使用\n\n链接：https://t.co/RS6YCurLjt https://t.co/aQCDbTM6Xk",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [
+      "https://box123.io/321/"
+    ],
+    "media": [
+      "https://pbs.twimg.com/media/Gb7iGwGaAAA8vG2.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 635,
+      "retweets": 224,
+      "replies": 5,
+      "quotes": 4,
+      "bookmarks": 586,
+      "views": 77006
+    },
+    "created_at": "Sat Nov 09 08:41:02 +0000 2024",
+    "ordinal": 569
+  },
+  {
+    "bookmark_id": "1855595050803331492",
+    "status_id": "1855595050803331492",
+    "status_url": "https://x.com/jaywcjlove/status/1855595050803331492",
+    "author_name": "小弟调调",
+    "handle": "jaywcjlove",
+    "text": "📢 RightMenu Master — Finder 右键菜单增强工具的必备神器！轻松搞定操作：\n\n• 🆕 创建新文件\n• 🌈 语法高亮快速预览\n• 📂 快速访问常用文件夹\n• 💻 一键新建终端窗口\n• 📋 多种复制功能：路径、文件名、直接复制文件\n• 🗑️ 直接删除文件/文件夹\n\n👉 https://t.co/ZZSNeHtgyw https://t.co/lEzVJluO37",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [
+      "https://github.com/jaywcjlove/rightmenu-master"
+    ],
+    "media": [
+      "https://pbs.twimg.com/media/GcBlIqxbcAADQI8.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 126,
+      "retweets": 32,
+      "replies": 8,
+      "quotes": 1,
+      "bookmarks": 129,
+      "views": 20322
+    },
+    "created_at": "Sun Nov 10 12:55:10 +0000 2024",
+    "ordinal": 570
+  },
+  {
+    "bookmark_id": "1855234255695364141",
+    "status_id": "1855234255695364141",
+    "status_url": "https://x.com/skywind3000/status/1855234255695364141",
+    "author_name": "LIN WEI",
+    "handle": "skywind3000",
+    "text": "学习 ffmpeg 命令行，不用天天翻网页，问 AI，我做过一份 ffmpeg 的速查表，包含各种主流用法，看这个就够了：\nhttps://t.co/2aK8nZ5Ow3",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [
+      "https://github.com/skywind3000/awesome-cheatsheets/blob/master/tools/ffmpeg.sh"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 407,
+      "retweets": 62,
+      "replies": 16,
+      "quotes": 4,
+      "bookmarks": 340,
+      "views": 57067
+    },
+    "created_at": "Sat Nov 09 13:01:29 +0000 2024",
+    "ordinal": 571
+  },
+  {
+    "bookmark_id": "1855572690524082366",
+    "status_id": "1855572690524082366",
+    "status_url": "https://x.com/GoJun315/status/1855572690524082366",
+    "author_name": "高军",
+    "handle": "GoJun315",
+    "text": "一款功能强大的文件上传/下载管理开源神器：File Centipede。\n\n支持几乎所有常见的协议，如 HTTPS、BT/磁力链接、FTP、WebDAV、m3u8 等，还内置了许多实用的辅助功能。\n\nGitHub：https://t.co/XbjLhnyn2C\n\n此外，还提供了浏览器插件，可抓取网站上的音频和视频，甚至加密的视频。 https://t.co/TlEde9eNG2",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [
+      "https://github.com/filecxx/FileCentipede"
+    ],
+    "media": [
+      "https://pbs.twimg.com/media/GcBRfi7aEAAUuJy.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 473,
+      "retweets": 146,
+      "replies": 7,
+      "quotes": 3,
+      "bookmarks": 581,
+      "views": 63384
+    },
+    "created_at": "Sun Nov 10 11:26:18 +0000 2024",
+    "ordinal": 572
+  },
+  {
+    "bookmark_id": "1854284480196038765",
+    "status_id": "1854284480196038765",
+    "status_url": "https://x.com/yilmazkuday/status/1854284480196038765",
+    "author_name": "HAKAN YILMAZKUDAY",
+    "handle": "yilmazkuday",
+    "text": "Markups explain about 31% of price dispersion. https://t.co/ZhQhPNNhZF https://t.co/CG5qhJkKnA",
+    "language": "en",
+    "hashtags": [],
+    "urls": [
+      "https://doi.org/10.1016/j.econlet.2014.03.018"
+    ],
+    "media": [
+      "https://pbs.twimg.com/media/Gbu96JNWoAsbYhr.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 13,
+      "retweets": 4,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 1,
+      "views": 599
+    },
+    "created_at": "Wed Nov 06 22:07:25 +0000 2024",
+    "ordinal": 573
+  },
+  {
+    "bookmark_id": "1854733730767605792",
+    "status_id": "1854733730767605792",
+    "status_url": "https://x.com/Brad_Setser/status/1854733730767605792",
+    "author_name": "Brad Setser",
+    "handle": "Brad_Setser",
+    "text": "Chinese exporters/ US importers front running potential Trump tariffs is going to be a big story over the next 3 months (the US has a long formal transition).   The best data point imo is Chinese exports to the EU v Chinese exports to the US\n\n1/2 https://t.co/bmmM2nDXzf",
+    "language": "en",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/Gb1WcrKWsAAUwzV.png"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 69,
+      "retweets": 20,
+      "replies": 3,
+      "quotes": 2,
+      "bookmarks": 26,
+      "views": 16444
+    },
+    "created_at": "Fri Nov 08 03:52:35 +0000 2024",
+    "ordinal": 574
+  },
+  {
+    "bookmark_id": "1854561840958726576",
+    "status_id": "1854561840958726576",
+    "status_url": "https://x.com/mdancho84/status/1854561840958726576",
+    "author_name": "Matt Dancho (Business Science)",
+    "handle": "mdancho84",
+    "text": "R is insane for Bayesian Analysis. \n\nLet me explain. https://t.co/2hjHagJ1G2",
+    "language": "en",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/Gby6KluW0BEqQNP.png"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 445,
+      "retweets": 55,
+      "replies": 2,
+      "quotes": 0,
+      "bookmarks": 434,
+      "views": 39460
+    },
+    "created_at": "Thu Nov 07 16:29:33 +0000 2024",
+    "ordinal": 575
+  },
+  {
+    "bookmark_id": "1853593230350409780",
+    "status_id": "1853593230350409780",
+    "status_url": "https://x.com/uuu9/status/1853593230350409780",
+    "author_name": "zilu",
+    "handle": "uuu9",
+    "text": "@op7418 地址： https://t.co/IWAozD98zR",
+    "language": "ja",
+    "hashtags": [],
+    "urls": [
+      "https://m.okjike.com/users/917E7521-D197-4B7A-A66A-00F54EB642E2"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": true,
+    "metrics": {
+      "likes": 11,
+      "retweets": 2,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 19,
+      "views": 880
+    },
+    "created_at": "Tue Nov 05 00:20:38 +0000 2024",
+    "ordinal": 576
+  },
+  {
+    "bookmark_id": "1853720396429771168",
+    "status_id": "1853720396429771168",
+    "status_url": "https://x.com/oran_ge/status/1853720396429771168",
+    "author_name": "Orange AI",
+    "handle": "oran_ge",
+    "text": "腾讯这次真的是把家底儿都掏出来了…\n今天还把自家最好的大模型开源了，就是元宝、微信读书、QQ音乐里的同款模型\n\n- 389B 的 MoE 模型，激活参数 52 B，256K 上下文，7T 训练量\n- 免费，可商用\n- 各种指标都非常好\n- 代码能力非常强\n\n还发布了技术报告，把 MoE 的技术心得全部公开了…\n简直中国 Meta https://t.co/OzkDigmCJz",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/Gbm83qCbgAAC-uc.jpg",
+      "https://pbs.twimg.com/media/Gbm83qCaUAAq3Bh.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 1131,
+      "retweets": 235,
+      "replies": 32,
+      "quotes": 12,
+      "bookmarks": 1043,
+      "views": 221345
+    },
+    "created_at": "Tue Nov 05 08:45:57 +0000 2024",
+    "ordinal": 577
+  },
+  {
+    "bookmark_id": "1853954921479192741",
+    "status_id": "1853954921479192741",
+    "status_url": "https://x.com/LabSpeculation/status/1853954921479192741",
+    "author_name": "投机实验室",
+    "handle": "LabSpeculation",
+    "text": "油管大神Billionaire Bears用一个26分钟视频讲述了“日本最强交易员BNF”的交易人生，目前这个视频已经有超过330万次的观看，做的真是太太太好了，绝对经典😍😘\n\n各位交易员路过一定看一下，已经翻译成中文字幕～",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/1853953233439580160/img/zH0qRWZiIM2ZnzJL.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 3569,
+      "retweets": 1199,
+      "replies": 21,
+      "quotes": 13,
+      "bookmarks": 3347,
+      "views": 453648
+    },
+    "created_at": "Wed Nov 06 00:17:52 +0000 2024",
+    "ordinal": 578
+  },
+  {
+    "bookmark_id": "1853653283463995577",
+    "status_id": "1853653283463995577",
+    "status_url": "https://x.com/GoJun315/status/1853653283463995577",
+    "author_name": "高军",
+    "handle": "GoJun315",
+    "text": "在 GitHub 上发现一个基于智能体的浏览器自动化工具：Cerebellum。\n\n通过使用 LLM 构建的智能体，实现自动化操作键盘和鼠标，在网页上完成数据抓取、自动化测试等任务。\n\nGitHub：https://t.co/YuNRPnJQjK\n\n支持与任何 Selenium 的浏览器兼容，不过目前仅支持使用  Cluade 3.5 Sonnet 模型。 https://t.co/r5VALrC4wD",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [
+      "https://github.com/theredsix/cerebellum"
+    ],
+    "media": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/1853653126706032641/pu/img/mDhnsCDM17AHXhDV.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 340,
+      "retweets": 104,
+      "replies": 5,
+      "quotes": 3,
+      "bookmarks": 414,
+      "views": 34570
+    },
+    "created_at": "Tue Nov 05 04:19:16 +0000 2024",
+    "ordinal": 579
+  },
+  {
+    "bookmark_id": "1853868670034084005",
+    "status_id": "1853868670034084005",
+    "status_url": "https://x.com/JonathonPSine/status/1853868670034084005",
+    "author_name": "Jonathon P Sine",
+    "handle": "JonathonPSine",
+    "text": "Hanyu Zhao's 2023 PhD surveyed 479 mostly grass-roots cadres in China: 77% reported high or very high stress, 90% said their jobs got harder under Xi, and 30% want to quit.\n\nIncreasing top-down demands and monitoring may be overloading street-level bureaucrats. https://t.co/cwN57X3UyZ",
+    "language": "en",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/GbpBHKqaMAAP6DG.jpg",
+      "https://pbs.twimg.com/media/GbpBUyvbUAA45v8.jpg",
+      "https://pbs.twimg.com/media/GbpBgb_akAAWzO7.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 58,
+      "retweets": 15,
+      "replies": 1,
+      "quotes": 3,
+      "bookmarks": 32,
+      "views": 15625
+    },
+    "created_at": "Tue Nov 05 18:35:08 +0000 2024",
+    "ordinal": 580
+  },
+  {
+    "bookmark_id": "1853095575723663393",
+    "status_id": "1853095575723663393",
+    "status_url": "https://x.com/geekbb/status/1853095575723663393",
+    "author_name": "Geek",
+    "handle": "geekbb",
+    "text": "超高精度将图像或 PDF 转换为 Markdown 文本或 JSON 结构化文档，包括表格数据、数字或数学公式。\n\n该 API 由 FastAPI 构建，同时借助 Celery 实现异步任务处理。还使用 Redis 存储和缓存 OCR 结果，以提高效率。\n\nhttps://t.co/jmHA4JoDJD https://t.co/Tay6gOitm4",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [
+      "https://github.com/CatchTheTornado/pdf-extract-api"
+    ],
+    "media": [
+      "https://pbs.twimg.com/media/GbeEZgga4AAOeKs.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 386,
+      "retweets": 84,
+      "replies": 2,
+      "quotes": 3,
+      "bookmarks": 415,
+      "views": 39775
+    },
+    "created_at": "Sun Nov 03 15:23:08 +0000 2024",
+    "ordinal": 581
+  },
+  {
+    "bookmark_id": "1852730542770336202",
+    "status_id": "1852730542770336202",
+    "status_url": "https://x.com/yilmazkuday/status/1852730542770336202",
+    "author_name": "HAKAN YILMAZKUDAY",
+    "handle": "yilmazkuday",
+    "text": "Brand-new publication: Shocks to global geopolitical risk increase global energy uncertainty. https://t.co/Wdkfwdp1NZ",
+    "language": "en",
+    "hashtags": [],
+    "urls": [
+      "https://authors.elsevier.com/a/1k0gyW3fc%7E4mN"
+    ],
+    "media": [
+      "https://pbs.twimg.com/media/GbY4nBGWQAATJlT.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 26,
+      "retweets": 5,
+      "replies": 2,
+      "quotes": 0,
+      "bookmarks": 4,
+      "views": 1475
+    },
+    "created_at": "Sat Nov 02 15:12:38 +0000 2024",
+    "ordinal": 582
+  },
+  {
+    "bookmark_id": "1852266365392240748",
+    "status_id": "1852266365392240748",
+    "status_url": "https://x.com/0xCheshire/status/1852266365392240748",
+    "author_name": "柴郡🔔｜Crypto+AI Plus",
+    "handle": "0xCheshire",
+    "text": "你被欺骗了。\n\n美国的健康系统实际上希望你一直保持肥胖。\n\n我会在下面逐一揭示你在学校被灌输的 15 个营养误区：\n\n误区 1：鸡蛋会提高你的胆固醇",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/GbSSYmOakAIGDGQ.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 4339,
+      "retweets": 920,
+      "replies": 118,
+      "quotes": 36,
+      "bookmarks": 2593,
+      "views": 2729423
+    },
+    "created_at": "Fri Nov 01 08:28:09 +0000 2024",
+    "ordinal": 583
+  },
+  {
+    "bookmark_id": "1849881306299236530",
+    "status_id": "1849881306299236530",
+    "status_url": "https://x.com/yuashwe/status/1849881306299236530",
+    "author_name": "老多",
+    "handle": "yuashwe",
+    "text": "20年前的河智苑多漂亮，而且还大方 https://t.co/xiflHvsTSV",
+    "language": "ja",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/1849881264310067200/pu/img/Cip1nXI4XhdqGwxG.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 3454,
+      "retweets": 189,
+      "replies": 169,
+      "quotes": 20,
+      "bookmarks": 1159,
+      "views": 1663756
+    },
+    "created_at": "Fri Oct 25 18:30:47 +0000 2024",
+    "ordinal": 584
+  },
+  {
+    "bookmark_id": "1848356408787349839",
+    "status_id": "1848356408787349839",
+    "status_url": "https://x.com/mdancho84/status/1848356408787349839",
+    "author_name": "Matt Dancho (Business Science)",
+    "handle": "mdancho84",
+    "text": "Get it here: https://t.co/qMV8vEhg2r https://t.co/AYxgDzFnBw",
+    "language": "en",
+    "hashtags": [],
+    "urls": [
+      "https://larmarange.github.io/ggstats/articles/ggcoef_model.html"
+    ],
+    "media": [
+      "https://pbs.twimg.com/media/GaauW3oWkAALcCc.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": true,
+    "metrics": {
+      "likes": 25,
+      "retweets": 4,
+      "replies": 1,
+      "quotes": 1,
+      "bookmarks": 29,
+      "views": 2805
+    },
+    "created_at": "Mon Oct 21 13:31:23 +0000 2024",
+    "ordinal": 585
+  },
+  {
+    "bookmark_id": "1849046640965099992",
+    "status_id": "1849046640965099992",
+    "status_url": "https://x.com/JIEDUJUN/status/1849046640965099992",
+    "author_name": "解读君",
+    "handle": "JIEDUJUN",
+    "text": "付鹏谈：股市和房地产的财富效应在哪里？这些财富效应会相对应地带来消费的提高吗？ #中国经济 https://t.co/VRB1qpGedS 来自 @YouTube",
+    "language": "zh",
+    "hashtags": [
+      "中国经济"
+    ],
+    "urls": [
+      "https://youtu.be/atxjWLxtvxE?si=v6Ai9LtXqaVNcP-m"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 2,
+      "views": 517
+    },
+    "created_at": "Wed Oct 23 11:14:07 +0000 2024",
+    "ordinal": 586
+  },
+  {
+    "bookmark_id": "1849046917008752903",
+    "status_id": "1849046917008752903",
+    "status_url": "https://x.com/worldbankdata/status/1849046917008752903",
+    "author_name": "World Bank Data",
+    "handle": "worldbankdata",
+    "text": "Find free, accesible &amp; high-quality #data on hundreds of indicators — from annual GDP growth to external debt, energy consumption or net migration —  from +180 countries, all in one place and in five languages.\n\nExplore the @WorldBank Open Data Site: https://t.co/ZWS5Cwpfyp 🌐 https://t.co/VFNqGhmRvQ",
+    "language": "en",
+    "hashtags": [
+      "data"
+    ],
+    "urls": [
+      "http://wrld.bg/3nXN50TMHxw"
+    ],
+    "media": [
+      "https://pbs.twimg.com/tweet_video_thumb/GakiX5PWcAAfZSz.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 8,
+      "retweets": 4,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 5,
+      "views": 1026
+    },
+    "created_at": "Wed Oct 23 11:15:13 +0000 2024",
+    "ordinal": 587
+  },
+  {
+    "bookmark_id": "1849048171852239240",
+    "status_id": "1849048171852239240",
+    "status_url": "https://x.com/TheEconomist/status/1849048171852239240",
+    "author_name": "The Economist",
+    "handle": "TheEconomist",
+    "text": "Which is the most democratic country in the world? Explore the latest democracy index https://t.co/CYqrwh5Etk 👇",
+    "language": "en",
+    "hashtags": [],
+    "urls": [
+      "https://econ.st/3YxXENt"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 22,
+      "retweets": 13,
+      "replies": 12,
+      "quotes": 1,
+      "bookmarks": 5,
+      "views": 46307
+    },
+    "created_at": "Wed Oct 23 11:20:12 +0000 2024",
+    "ordinal": 588
+  },
+  {
+    "bookmark_id": "1849048026834206888",
+    "status_id": "1849048026834206888",
+    "status_url": "https://x.com/ScholarshipfPhd/status/1849048026834206888",
+    "author_name": "Scholarship for PhD",
+    "handle": "ScholarshipfPhd",
+    "text": "How to write a research proposal (1/4) https://t.co/FbeL2vpEU6",
+    "language": "en",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/GakjXsuWQAAF3qy.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 482,
+      "retweets": 106,
+      "replies": 4,
+      "quotes": 3,
+      "bookmarks": 512,
+      "views": 47879
+    },
+    "created_at": "Wed Oct 23 11:19:37 +0000 2024",
+    "ordinal": 589
+  },
+  {
+    "bookmark_id": "1848731037859492154",
+    "status_id": "1848731037859492154",
+    "status_url": "https://x.com/IMFNews/status/1848731037859492154",
+    "author_name": "IMF",
+    "handle": "IMFNews",
+    "text": "There’s a concerning disconnect between high geopolitical risk and low volatility in markets, our latest Global Financial Stability Report shows:\n\nhttps://t.co/BvHF8hgDlx https://t.co/ifSDRqoZUZ",
+    "language": "en",
+    "hashtags": [],
+    "urls": [
+      "https://www.imf.org/en/Blogs/Articles/2024/10/22/global-financial-fragilities-mount-despite-rate-cuts-and-buoyant-markets"
+    ],
+    "media": [
+      "https://pbs.twimg.com/media/GagDFNnbEAQxIrC.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 102,
+      "retweets": 31,
+      "replies": 4,
+      "quotes": 4,
+      "bookmarks": 22,
+      "views": 16499
+    },
+    "created_at": "Tue Oct 22 14:20:01 +0000 2024",
+    "ordinal": 590
+  },
+  {
+    "bookmark_id": "1848584950762577989",
+    "status_id": "1848584950762577989",
+    "status_url": "https://x.com/Brad_Setser/status/1848584950762577989",
+    "author_name": "Brad Setser",
+    "handle": "Brad_Setser",
+    "text": "Indeed.\n\nExcellent reporting from the China team of the Financial Times on why Xi seems to have agreed to a bit of fiscal stimulus\n\n1/ https://t.co/0mV8sTg0i0",
+    "language": "en",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/Gad-A6NX0AACZNc.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 374,
+      "retweets": 87,
+      "replies": 12,
+      "quotes": 8,
+      "bookmarks": 154,
+      "views": 53674
+    },
+    "created_at": "Tue Oct 22 04:39:31 +0000 2024",
+    "ordinal": 591
+  },
+  {
+    "bookmark_id": "1848986690632970435",
+    "status_id": "1848986690632970435",
+    "status_url": "https://x.com/fxtrader/status/1848986690632970435",
+    "author_name": "外汇交易员",
+    "handle": "fxtrader",
+    "text": "https://t.co/Ax2ldUYD8z",
+    "language": "zxx",
+    "hashtags": [],
+    "urls": [
+      "http://x.com/i/article/1848982865650061312"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 854,
+      "retweets": 236,
+      "replies": 45,
+      "quotes": 13,
+      "bookmarks": 824,
+      "views": 651878
+    },
+    "created_at": "Wed Oct 23 07:15:54 +0000 2024",
+    "ordinal": 592
+  },
+  {
+    "bookmark_id": "1847764473857060958",
+    "status_id": "1847764473857060958",
+    "status_url": "https://x.com/Brad_Setser/status/1847764473857060958",
+    "author_name": "Brad Setser",
+    "handle": "Brad_Setser",
+    "text": "Moves in China's holdings of US assets don't get all that much attention these days (fair enough, not much is happening).   But worth noting that China's visible US holdings (including its Euroclear Treasuries) have risen over the last 3ms of US data\n\n1/ https://t.co/DcPySMTcUL",
+    "language": "en",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/GaST-YJXsAAH_OW.png"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 92,
+      "retweets": 20,
+      "replies": 1,
+      "quotes": 2,
+      "bookmarks": 47,
+      "views": 32857
+    },
+    "created_at": "Sat Oct 19 22:19:15 +0000 2024",
+    "ordinal": 593
+  },
+  {
+    "bookmark_id": "1847304686082343259",
+    "status_id": "1847304686082343259",
+    "status_url": "https://x.com/drummatick/status/1847304686082343259",
+    "author_name": "Saurabh Kumar",
+    "handle": "drummatick",
+    "text": "This course is all you need for ML. https://t.co/W7Bm76qEKn",
+    "language": "en",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/GaLxwtOaYAEHtt-.png"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 2285,
+      "retweets": 154,
+      "replies": 19,
+      "quotes": 6,
+      "bookmarks": 2931,
+      "views": 159134
+    },
+    "created_at": "Fri Oct 18 15:52:13 +0000 2024",
+    "ordinal": 594
+  },
+  {
+    "bookmark_id": "1846935525933891746",
+    "status_id": "1846935525933891746",
+    "status_url": "https://x.com/hamptonism/status/1846935525933891746",
+    "author_name": "ₕₐₘₚₜₒₙ",
+    "handle": "hamptonism",
+    "text": "Entire Series Breaking Down what the Bloomberg Terminal does: https://t.co/9M9xSPc9oT",
+    "language": "en",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/GaGiEcEW0AAR5kD.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 3304,
+      "retweets": 315,
+      "replies": 13,
+      "quotes": 4,
+      "bookmarks": 4051,
+      "views": 232697
+    },
+    "created_at": "Thu Oct 17 15:25:18 +0000 2024",
+    "ordinal": 595
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1b2838f2-71b1-4127-ac5c-63c4bb7f225e",
+  "path": "tech-earnings-deepdive",
+  "path_key": "tech-earnings-deepdive",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

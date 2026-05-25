@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "856271ff-92fb-4720-9b05-7689a9cad166",
+  "path": "devops-automation",
+  "path_key": "devops-automation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

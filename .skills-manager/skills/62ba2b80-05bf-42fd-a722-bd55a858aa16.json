@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "62ba2b80-05bf-42fd-a722-bd55a858aa16",
+  "path": "plan-my-day",
+  "path_key": "plan-my-day",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

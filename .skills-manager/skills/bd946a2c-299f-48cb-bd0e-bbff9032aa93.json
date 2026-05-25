@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bd946a2c-299f-48cb-bd0e-bbff9032aa93",
+  "path": "automation-workflows",
+  "path_key": "automation-workflows",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

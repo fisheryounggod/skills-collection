@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a5daae71-f912-4cea-b63e-838bf3425f3b",
+  "path": "huashu-nuwa",
+  "path_key": "huashu-nuwa",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

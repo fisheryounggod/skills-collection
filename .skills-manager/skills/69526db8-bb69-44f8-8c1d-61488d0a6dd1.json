@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "69526db8-bb69-44f8-8c1d-61488d0a6dd1",
+  "path": "work-planning-system",
+  "path_key": "work-planning-system",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

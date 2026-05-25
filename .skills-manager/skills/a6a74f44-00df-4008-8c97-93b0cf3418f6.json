@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a6a74f44-00df-4008-8c97-93b0cf3418f6",
+  "path": "notion-automation",
+  "path_key": "notion-automation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

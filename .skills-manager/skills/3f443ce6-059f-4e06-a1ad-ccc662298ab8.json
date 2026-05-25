@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3f443ce6-059f-4e06-a1ad-ccc662298ab8",
+  "path": "obsidian-canvas-creator",
+  "path_key": "obsidian-canvas-creator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

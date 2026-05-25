@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d59d75c5-81d0-4586-baa4-1d7439abc23e",
+  "path": "invoice-template",
+  "path_key": "invoice-template",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

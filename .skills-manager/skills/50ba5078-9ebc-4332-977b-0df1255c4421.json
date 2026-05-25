@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "50ba5078-9ebc-4332-977b-0df1255c4421",
+  "path": "crm-automation",
+  "path_key": "crm-automation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

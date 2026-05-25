@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "58b46044-049d-4a44-b3d4-98f594a4081f",
+  "path": "ljg-invest-2",
+  "path_key": "ljg-invest-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

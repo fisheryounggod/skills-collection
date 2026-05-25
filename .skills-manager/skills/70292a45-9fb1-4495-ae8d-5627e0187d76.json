@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "70292a45-9fb1-4495-ae8d-5627e0187d76",
+  "path": "sp500-tracker",
+  "path_key": "sp500-tracker",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

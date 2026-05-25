@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b79bea47-bd53-43f1-ba36-172ce6534193",
+  "path": "diagram-creator",
+  "path_key": "diagram-creator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

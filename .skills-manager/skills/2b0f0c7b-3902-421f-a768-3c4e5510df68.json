@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2b0f0c7b-3902-421f-a768-3c4e5510df68",
+  "path": "spotify",
+  "path_key": "spotify",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f0e6ae70-4849-4f47-8431-a60f85dc762b",
+  "path": "visual-file-sorter",
+  "path_key": "visual-file-sorter",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

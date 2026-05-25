@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fb26a20c-5aea-4141-9872-feed2db3db0c",
+  "path": "system_resource_monitor",
+  "path_key": "system_resource_monitor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

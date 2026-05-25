@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fd218ffe-9fc5-4ef2-8390-7b03f95228e6",
+  "path": "ai-web-automation",
+  "path_key": "ai-web-automation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

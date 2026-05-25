@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "670d1173-91f6-41eb-be7e-6a60a14cb439",
+  "path": "command-development",
+  "path_key": "command-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

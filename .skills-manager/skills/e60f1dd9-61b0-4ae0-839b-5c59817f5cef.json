@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e60f1dd9-61b0-4ae0-839b-5c59817f5cef",
+  "path": "skill-guard",
+  "path_key": "skill-guard",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

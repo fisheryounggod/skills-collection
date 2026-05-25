@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "982497b3-d41d-472b-971d-b69b1099b9fa",
+  "path": "baoyu-post-to-wechat",
+  "path_key": "baoyu-post-to-wechat",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

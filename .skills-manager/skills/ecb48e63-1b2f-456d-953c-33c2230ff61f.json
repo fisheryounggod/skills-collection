@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ecb48e63-1b2f-456d-953c-33c2230ff61f",
+  "path": "calendar",
+  "path_key": "calendar",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

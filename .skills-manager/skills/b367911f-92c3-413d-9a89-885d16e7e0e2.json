@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b367911f-92c3-413d-9a89-885d16e7e0e2",
+  "path": "lead-research-assistant-cn",
+  "path_key": "lead-research-assistant-cn",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

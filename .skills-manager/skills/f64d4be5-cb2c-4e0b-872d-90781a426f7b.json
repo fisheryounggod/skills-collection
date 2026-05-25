@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f64d4be5-cb2c-4e0b-872d-90781a426f7b",
+  "path": "image-gen",
+  "path_key": "image-gen",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

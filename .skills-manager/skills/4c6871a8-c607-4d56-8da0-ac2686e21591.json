@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4c6871a8-c607-4d56-8da0-ac2686e21591",
+  "path": "capital-flow-video-generator",
+  "path_key": "capital-flow-video-generator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

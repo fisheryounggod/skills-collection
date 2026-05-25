@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "92a170ff-d1f6-40a0-b190-bfe058cb9993",
+  "path": "naval-perspective",
+  "path_key": "naval-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

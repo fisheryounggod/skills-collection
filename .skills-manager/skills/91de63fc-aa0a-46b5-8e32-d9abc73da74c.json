@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "91de63fc-aa0a-46b5-8e32-d9abc73da74c",
+  "path": "cnki-journal-search",
+  "path_key": "cnki-journal-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

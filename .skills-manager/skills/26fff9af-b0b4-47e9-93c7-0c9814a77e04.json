@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "26fff9af-b0b4-47e9-93c7-0c9814a77e04",
+  "path": "startup-pressure-test",
+  "path_key": "startup-pressure-test",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cd5af0e3-54be-4314-867a-a816024dc14f",
+  "path": "contract-template",
+  "path_key": "contract-template",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

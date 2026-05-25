@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "386304ca-e01f-4c4c-b9b8-c1f403281004",
+  "path": "telegram",
+  "path_key": "telegram",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "da87a0e7-fc8b-4df0-adc0-0b4dea7e7210",
+  "path": "md-slides",
+  "path_key": "md-slides",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

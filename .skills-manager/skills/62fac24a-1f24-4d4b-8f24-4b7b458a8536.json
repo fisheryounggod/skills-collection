@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "62fac24a-1f24-4d4b-8f24-4b7b458a8536",
+  "path": "office-mcp",
+  "path_key": "office-mcp",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

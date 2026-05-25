@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "24dfd81c-fe73-4765-a5f5-bf4e4b72d60f",
+  "path": "cpp-coding-standards",
+  "path_key": "cpp-coding-standards",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

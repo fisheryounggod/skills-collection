@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d6dde796-d26d-4b48-893f-b77992396d91",
+  "path": "hook-development",
+  "path_key": "hook-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "43c7458d-fc9b-4e95-97c1-fca6fb1e8e14",
+  "path": "office-automation",
+  "path_key": "office-automation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

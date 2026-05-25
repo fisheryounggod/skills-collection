@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "92ef80b6-8de9-40e3-9352-b7ab500ea66d",
+  "path": "proposal-writer",
+  "path_key": "proposal-writer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,1146 @@
+[
+  {
+    "bookmark_id": "2041173514355372356",
+    "status_id": "2041173514355372356",
+    "status_url": "https://x.com/0xKingsKuan/status/2041173514355372356",
+    "author_name": "币世王 | 🦅🐬TermMax",
+    "handle": "0xKingsKuan",
+    "text": "Karpathy 亲测！7分钟用 AI 搭「第二大脑」，扔掉 Notion 后效率直接起飞！\n\n3 个文件夹 + 1 个文本文件，AI 自动帮你整理笔记、建立关联、写总结、查矛盾。\n\n零成本、零学习曲线，41 万人收藏的爆火方法来了：\n\n第 1 步：建 3 个文件夹（2 分钟）\n\n在电脑任意位置新建一个项目文件夹，里面建 3 个子文件夹：\n\n•  raw/ → 原始垃圾桶（所有乱七八糟的笔记、文章、截图全扔这里）\n•  wiki/ → AI 整理后的结构化知识库（人类可读）\n•  outputs/ → 你问 AI 的所有答案、报告、决策（以后复用）\n\n🔻\n\n第 2 步：把你所有东西全扔进 raw/（10 分钟）\n\n文章、PDF、会议纪要、X 线程、YouTube 字幕、竞品分析、读书笔记……\n\n不要整理！不要改名！ 越乱越好，这就是 AI 的原材料。\n\n🔻\n\n第 3 步：写一个「AI 指令文件」（5 分钟）\n\n在根目录新建 CLAUDE.md（或者 AGENTS.md），复制下面这段模板进去就行：\n\n# CLAUDE.md - Personal Knowledge Base Schema\n# (Nick Spisak + Karpathy 极简版 · 2026)\n\n## 1. 本知识库的目的（必须写清楚）\n这是一个【你的主题，例如：AI 工程、个人成长、电商运营】的个人第二大脑。\n目标是把 raw/ 里所有混乱的原始材料（文章、笔记、截图、会议记录、PDF、X 线程等）自动整理成结构化、可搜索、能自我迭代的 Wiki。\n\n## 2. 核心原则（永远遵守）\n- 保持 super simple and flat（Karpathy 原话）\n- 只有 .md 文件，没有数据库、插件、Notion、Obsidian 复杂结构\n- 人类能读懂，AI 也能完美理解\n- 所有知识最终落在 wiki/ 文件夹\n- outputs/ 只放问答结果和决策报告\n\n## 3. 文件夹结构（AI 必须严格遵守）\n- raw/     → 所有原始材料（AI 只读不改）\n- wiki/    → AI 整理后的结构化知识库（核心）\n- outputs/ → 所有问答、briefing、决策输出\n\n## 4. 编译 Wiki 的规则（当我说“compile the wiki”时执行）\n1. 先读取 raw/ 里**所有**文件内容。\n2. **必须先创建/更新** wiki/INDEX.md：\n   - 漂亮的目录表格\n   - 每个主题的简要描述 + 链接\n   - 全局关键洞见总结\n3. 为每个**主要主题**创建一个独立 .md 文件（文件名用 kebab-case，例如 ai-agent-architecture.md）\n4. 每篇文章的标准结构：\n   ```markdown\n   # 主题名称\n\n   ## Summary（200-400字高度浓缩）\n\n   ## Key Points（ bullet points）\n\n   ## Connections（与其他主题的交叉链接）\n\n   ## Sources（列出 raw/ 里的原始文件来源）\n\n   ## Open Questions / Contradictions（如果有就必须标红）\n\n   ## Last Updated: YYYY-MM-DD\n\n🔻\n\n第 4 步：让 AI 自动编译 Wiki（15 分钟）\n\n打开 Claude Code / Cursor / Windsurf，随便哪个 AI 编码工具，指向你的文件夹，说一句话：\n\n「读取 raw/ 里所有内容，按照 CLAUDE.md 的规则，在 wiki/ 里生成完整知识库。先建 INDEX.md，再按主题建文章，做好相互链接和总结。」\n\n然后你就去喝咖啡吧……\n\n🔻\n\n第 5 步：开启「越用越聪明」循环\n以后所有问题都问你的 wiki：\n\n•  「基于我所有笔记，X 概念的 3 个最大盲区是什么？」\n•  「把 A 源和 B 源对这个问题的观点做对比」\n•  「用我自己的材料给我写一份 800 字 briefing」\n\nAI 回答完，直接把答案扔回 wiki/ 或 outputs/，知识就完成了自我迭代。\n\n🔻\n\n第 6 步：每月健康检查（防 AI 胡说八道）\n\n让 AI 自己审查整个 wiki，找出矛盾、未解释的概念、没有来源的论断。\n这步最容易被忽略，但 Nick 说：错误会像滚雪球一样越滚越大，不检查就是慢性自杀。\n\n🟢\n\n我实操后的真实感受\n\n1.  以前我有 7 个笔记软件，现在只剩 1 个文件夹。\n2.  搜索效率提升 10 倍以上——AI 读懂了所有上下文。\n3.  最爽的是：我终于敢疯狂收藏东西了，因为我知道 AI 会自动把它们变成我的「超级大脑」。\nKarpathy 41 万人收藏的帖子，Nick 直接把它做成了「傻瓜版落地指南」。\n现在轮到你了。\n\n行动起来吧！\n\n周末花 30 分钟，建好你的第一版 AI 第二大脑。\n\n等你用上一个月，再回来告诉我：\n\n“我终于理解了什么叫『知识复利』”",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 296,
+      "retweets": 77,
+      "replies": 21,
+      "quotes": 0,
+      "bookmarks": 479,
+      "views": 32795
+    },
+    "created_at": "Mon Apr 06 15:17:43 +0000 2026",
+    "ordinal": 101
+  },
+  {
+    "bookmark_id": "2041371207006879850",
+    "status_id": "2041371207006879850",
+    "status_url": "https://x.com/OtherSideBJ/status/2041371207006879850",
+    "author_name": "另一面",
+    "handle": "OtherSideBJ",
+    "text": "🔥 你以为熬夜最可怕的是困？错。\n最可怕的是——第二天你变成一个“废人”。脑子转不动、情绪一点就炸、效率低到离谱。一整天报废，甚至拖垮接下来三天。\n我不劝你别熬夜。因为你也知道——没用。\n我只告诉你一件更现实的事： 熬完夜，第二天怎么把自己“救回来”。这是我连续一周每天只睡三四个小时后，逼自己总结出的——一套“熬夜急救系统”。\n不是让你满血复活，\n是让你至少还能像个人一样活过这一天。\n\n⚠️ 先说一个很多人都在犯的致命错误：\n熬夜后第一件事： 猛灌咖啡，硬撑。\n\n这是最蠢的做法。\n你已经透支了，\n还在用兴奋剂骗自己继续工作。\n\n就像信用卡刷爆了，你还在疯狂消费。结局只有一个：彻底崩盘。\n\n✅ 真正有效的8个“急救动作”：\n\n1️⃣ 起床第一件事：500ml温水\n不是咖啡，不是奶茶，就是水。\n\n熬夜=严重脱水。\n而脱水，会让你的大脑运转速度直接下降20%。\n\n喝完，你会明显感觉“人回来了”。\n2️⃣ 冷水猛洗脸（要狠）\n\n不是意思一下，是反复拍脸+脖子。\n刺激交感神经，让大脑强制开机。\n\n洗到发麻才有效。\n\n3️⃣ 高蛋白早餐（千万别吃甜的）\n很多人熬夜后狂吃甜食。\n\n结果：\n血糖暴涨 → 暴跌 → 更累。\n\n我的标配：两个水煮蛋 + 无糖豆浆\n简单，但极其有效。\n\n4️⃣ 强制晒太阳15分钟\n\n熬夜后，你的生物钟是乱的。\n\n阳光=重启系统。\n\n抑制褪黑素，让大脑知道：\n“现在是白天，给我清醒。”\n\n5️⃣ 中午只休息20分钟（关键）\n\n不是2小时，是20分钟。\n\n哪怕睡不着，闭眼也行。\n\n❌ 睡太久 → 进入深睡 → 被打断 → 更崩\n✅ 20分钟 → 刚好回血\n6️⃣ 下午换策略（别硬刚）\n\n熬夜后，你的认知资源已经见底。\n👉 上午做重要决策\n👉 下午只做机械工作\n\n比如：回邮件、整理资料、做表格\n\n别逞强。\n那不是拼命，是自杀式工作。\n\n7️⃣ 强制运动30分钟\n\n我知道你很累。\n\n但你必须动。\n快走、拉伸都行。\n\n👉 促进循环，把“疲劳垃圾”排出去\n\n我试过——\n走完回来，整个人像重启了一样。\n\n8️⃣ 提前2小时上床（最重要）\n\n如果平时11点睡——今天9点就躺下。\n不是让你马上睡着，\n是给身体一个信号：\n\n👉 “今天结束了，开始修复。”\n\n关灯、关手机、拉窗帘。\n\n⚠️ 最后，讲点你不一定愿意听的真相：\n很多人把熬夜当本事。\n\n觉得自己能扛，很厉害。\n\n但现实是——\n👉 你每熬一次夜，身体就记一笔账。\n我25岁的时候觉得自己无敌。\n可以连熬一周。\n\n27岁之后——\n一次熬夜，废三天。\n\n身体从不说谎。\n它只是晚一点跟你算账。\n\n🧠 记住这一句话：\n\n这8个方法，\n不是让你安心熬夜。\n\n而是——\n👉 在你“不得不熬”的时候，\n把伤害降到最低。\n\n但真正的高手，从不依赖“补救”。\n\n👉 熬夜，从来不值得骄傲。\n👉 那只是时间管理能力差的证明。\n\n从今天开始：\n\n把睡眠，当成你的战略投资。\n把熬夜，当成你的最后选项。\n因为——\n 你欠下的每一个小时睡眠，\n 身体都会加倍讨回来。",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041369833355546624/img/62K5KMV35-uuZYYh.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 53,
+      "retweets": 19,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 61,
+      "views": 11421
+    },
+    "created_at": "Tue Apr 07 04:23:17 +0000 2026",
+    "ordinal": 102
+  },
+  {
+    "bookmark_id": "2041304202727862674",
+    "status_id": "2041304202727862674",
+    "status_url": "https://x.com/AxtonLiu/status/2041304202727862674",
+    "author_name": "Axton",
+    "handle": "AxtonLiu",
+    "text": "书出版后有不少人问我要书里的提示词模板电子版，干脆整理了一个资源页。\n\n- 26 条提示词模板可以直接复制用\n- 还放了一套 Make 自动化工作流的示例模板（就是书里第六章「内容引擎」的实际配置）\n\n留邮箱还能拿到打包 PDF 和演示视频。\n\n资源页：https://t.co/ydUdFOL0Jt",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [
+      "http://axtonliu.ai/book"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 77,
+      "retweets": 13,
+      "replies": 8,
+      "quotes": 1,
+      "bookmarks": 140,
+      "views": 9875
+    },
+    "created_at": "Mon Apr 06 23:57:02 +0000 2026",
+    "ordinal": 103
+  },
+  {
+    "bookmark_id": "2041004273727865110",
+    "status_id": "2041004273727865110",
+    "status_url": "https://x.com/WSInsights/status/2041004273727865110",
+    "author_name": "华尔街财经 | WSInsights 【Zenzhe 】",
+    "handle": "WSInsights",
+    "text": "Agent 概念、原理与构建模式,从零打造一个简化版的 Claude Code https://t.co/kOGcGAdCMD",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041001203681923072/img/qpU_ij4oNAPJCZdf.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 77,
+      "retweets": 17,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 46,
+      "views": 6892
+    },
+    "created_at": "Mon Apr 06 04:05:13 +0000 2026",
+    "ordinal": 104
+  },
+  {
+    "bookmark_id": "2041298838527373782",
+    "status_id": "2041298838527373782",
+    "status_url": "https://x.com/Huanusa/status/2041298838527373782",
+    "author_name": "Huan",
+    "handle": "Huanusa",
+    "text": "人生发财靠康波！\n我们正站在60年一遇的历史关键节点上！\n\n看懂的人已经全部行动起来，闷声为2028做准备\n错过这一波，可能真要再等20年！\n\n上下两集8小时后更新第二集（敬请关注） https://t.co/Jm0miwKqQI",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041297631792484352/img/xxc-rW13G8t5rqOy.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 187,
+      "retweets": 63,
+      "replies": 4,
+      "quotes": 0,
+      "bookmarks": 193,
+      "views": 20171
+    },
+    "created_at": "Mon Apr 06 23:35:43 +0000 2026",
+    "ordinal": 105
+  },
+  {
+    "bookmark_id": "2041233332797661548",
+    "status_id": "2041233332797661548",
+    "status_url": "https://x.com/wangjianghuiCN/status/2041233332797661548",
+    "author_name": "汪江徽",
+    "handle": "wangjianghuiCN",
+    "text": "世界逻辑三大定律 VS 共匪逻辑 https://t.co/e5zRWINIpf",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041233226749054976/img/G21IENM080WsZ-T3.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 309,
+      "retweets": 90,
+      "replies": 7,
+      "quotes": 5,
+      "bookmarks": 170,
+      "views": 17118
+    },
+    "created_at": "Mon Apr 06 19:15:25 +0000 2026",
+    "ordinal": 106
+  },
+  {
+    "bookmark_id": "2041028570693390738",
+    "status_id": "2041028570693390738",
+    "status_url": "https://x.com/Xiaoniu6161/status/2041028570693390738",
+    "author_name": "小牛",
+    "handle": "Xiaoniu6161",
+    "text": "李诞：你想过以什么样的方式结束生命\n许知远：死在女人的身上\n\n哈哈，😁这就是知识分子和艺人的区别 https://t.co/U78AQMlbtI",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041028459103952896/img/GDTduq02IQ2j2bRW.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 1130,
+      "retweets": 88,
+      "replies": 153,
+      "quotes": 10,
+      "bookmarks": 650,
+      "views": 434154
+    },
+    "created_at": "Mon Apr 06 05:41:46 +0000 2026",
+    "ordinal": 107
+  },
+  {
+    "bookmark_id": "2041008936200143109",
+    "status_id": "2041008936200143109",
+    "status_url": "https://x.com/souduntei/status/2041008936200143109",
+    "author_name": "Robert-J",
+    "handle": "souduntei",
+    "text": "这些经典片段，分别出自：\n《雍正王朝》\n《红楼梦》\n《三国演义》\n《水浒传》\n有没有你的最爱？ https://t.co/eGkgs0cqOl",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/2041008874506100736/pu/img/-pxVeygFxdhEYmnF.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 145,
+      "retweets": 37,
+      "replies": 3,
+      "quotes": 0,
+      "bookmarks": 65,
+      "views": 9428
+    },
+    "created_at": "Mon Apr 06 04:23:45 +0000 2026",
+    "ordinal": 108
+  },
+  {
+    "bookmark_id": "2041060840863158731",
+    "status_id": "2041060840863158731",
+    "status_url": "https://x.com/CaptainLufei999/status/2041060840863158731",
+    "author_name": "自己造船的路飞",
+    "handle": "CaptainLufei999",
+    "text": "35岁之前往上看,35岁之后往中看,50岁之后才向下去自洽 #人选天选论 https://t.co/espE1HdZPQ",
+    "language": "zh",
+    "hashtags": [
+      "人选天选论"
+    ],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041047242270965760/img/fn1RANrOKudbCXKX.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 65,
+      "retweets": 8,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 26,
+      "views": 4397
+    },
+    "created_at": "Mon Apr 06 07:50:00 +0000 2026",
+    "ordinal": 109
+  },
+  {
+    "bookmark_id": "2041332052218490990",
+    "status_id": "2041332052218490990",
+    "status_url": "https://x.com/WSInsights/status/2041332052218490990",
+    "author_name": "华尔街财经 | WSInsights 【Zenzhe 】",
+    "handle": "WSInsights",
+    "text": "巴菲特另一位老师 菲利普·费雪：\n别把时间浪费在赚许多次小钱上 https://t.co/oN7wwB0itP",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041331176582131712/img/UlyL4G6MNC60Mjep.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 101,
+      "retweets": 38,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 65,
+      "views": 6595
+    },
+    "created_at": "Tue Apr 07 01:47:42 +0000 2026",
+    "ordinal": 110
+  },
+  {
+    "bookmark_id": "2037504093959397504",
+    "status_id": "2037504093959397504",
+    "status_url": "https://x.com/JettHuu/status/2037504093959397504",
+    "author_name": "meath",
+    "handle": "JettHuu",
+    "text": "https://t.co/4V1MLp343E",
+    "language": "zxx",
+    "hashtags": [],
+    "urls": [
+      "http://x.com/i/article/2037501480786411520"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 546,
+      "retweets": 140,
+      "replies": 7,
+      "quotes": 6,
+      "bookmarks": 1463,
+      "views": 344880
+    },
+    "created_at": "Fri Mar 27 12:16:45 +0000 2026",
+    "ordinal": 111
+  },
+  {
+    "bookmark_id": "2041121299544891718",
+    "status_id": "2041121299544891718",
+    "status_url": "https://x.com/BTCTW0/status/2041121299544891718",
+    "author_name": "比特TWO",
+    "handle": "BTCTW0",
+    "text": "真正做投资能够赚到钱的人是如何思考的？\n\n这个视频讲的不错，小白也能听懂。\n\n（原作者抖音：容弈不容易） https://t.co/npPMPpITAo",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041121105898053634/img/5LW4MODg4Im71AL7.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 288,
+      "retweets": 54,
+      "replies": 4,
+      "quotes": 0,
+      "bookmarks": 259,
+      "views": 15667
+    },
+    "created_at": "Mon Apr 06 11:50:14 +0000 2026",
+    "ordinal": 112
+  },
+  {
+    "bookmark_id": "2041234899743436958",
+    "status_id": "2041234899743436958",
+    "status_url": "https://x.com/dachaoren/status/2041234899743436958",
+    "author_name": "太阳闯关记",
+    "handle": "dachaoren",
+    "text": "清华心理系的学生，用9分钟！教会你看懂这个世上98%的人。\n\n此视频在抖音已经被举报下架，全程高能！！ https://t.co/gWvWvGpU2i",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041139673863737344/img/07r1sV0qQElCysVB.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 35159,
+      "retweets": 5432,
+      "replies": 599,
+      "quotes": 48,
+      "bookmarks": 20256,
+      "views": 2013776
+    },
+    "created_at": "Mon Apr 06 19:21:39 +0000 2026",
+    "ordinal": 113
+  },
+  {
+    "bookmark_id": "2041040450283307082",
+    "status_id": "2041040450283307082",
+    "status_url": "https://x.com/SuisPasDaVinci/status/2041040450283307082",
+    "author_name": "达芬七",
+    "handle": "SuisPasDaVinci",
+    "text": "https://t.co/PWN7PLbIjS",
+    "language": "zxx",
+    "hashtags": [],
+    "urls": [
+      "http://x.com/i/article/2041038506244329473"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 102,
+      "retweets": 12,
+      "replies": 27,
+      "quotes": 25,
+      "bookmarks": 144,
+      "views": 68054
+    },
+    "created_at": "Mon Apr 06 06:28:58 +0000 2026",
+    "ordinal": 114
+  },
+  {
+    "bookmark_id": "2041168899811819537",
+    "status_id": "2041168899811819537",
+    "status_url": "https://x.com/VincentLogic/status/2041168899811819537",
+    "author_name": "Vincent Logic | 只上干货",
+    "handle": "VincentLogic",
+    "text": "高端商务饭局潜规则，老手不会告诉你的细节！ https://t.co/07H8JCEGG9",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041168710497705984/img/gw-IIw90EHwnJqM9.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 236,
+      "retweets": 36,
+      "replies": 3,
+      "quotes": 1,
+      "bookmarks": 150,
+      "views": 16953
+    },
+    "created_at": "Mon Apr 06 14:59:23 +0000 2026",
+    "ordinal": 115
+  },
+  {
+    "bookmark_id": "2041086645676741045",
+    "status_id": "2041086645676741045",
+    "status_url": "https://x.com/WSInsights/status/2041086645676741045",
+    "author_name": "华尔街财经 | WSInsights 【Zenzhe 】",
+    "handle": "WSInsights",
+    "text": "50分钟精读《金钱心理学》\n搞懂赚钱的真正底层逻辑\n我刚看了三遍还做了笔记📝 https://t.co/84z9duvpTe",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041083049220444160/img/vRwRg6GOZpmy1GRc.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 300,
+      "retweets": 104,
+      "replies": 2,
+      "quotes": 1,
+      "bookmarks": 198,
+      "views": 14963
+    },
+    "created_at": "Mon Apr 06 09:32:32 +0000 2026",
+    "ordinal": 116
+  },
+  {
+    "bookmark_id": "2040981076659806236",
+    "status_id": "2040981076659806236",
+    "status_url": "https://x.com/laobaishare/status/2040981076659806236",
+    "author_name": "老白（每日干货分享✊）",
+    "handle": "laobaishare",
+    "text": "焦虑不仅仅存在于你的脑海中。\n\n它储存在你的神经系统里。\n\n这里有9种基于身体的方式来释放它（无需药物）🧵\n\n1. 冷水冲脸。 https://t.co/kp1WqeUiHc",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/HFMFdy6aAAA5jcB.jpg",
+      "https://pbs.twimg.com/media/HFMFd6Ja0AAKI3M.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 1037,
+      "retweets": 158,
+      "replies": 75,
+      "quotes": 1,
+      "bookmarks": 855,
+      "views": 636903
+    },
+    "created_at": "Mon Apr 06 02:33:02 +0000 2026",
+    "ordinal": 117
+  },
+  {
+    "bookmark_id": "2040728886510805067",
+    "status_id": "2040728886510805067",
+    "status_url": "https://x.com/bbjk666/status/2040728886510805067",
+    "author_name": "背包健客",
+    "handle": "bbjk666",
+    "text": "如何吹出挑逗口哨？😮 @grok https://t.co/p7m98PGugO",
+    "language": "ja",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/2040490102049116160/pu/img/M9rfkgcAuQebDOx_.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 593,
+      "retweets": 116,
+      "replies": 7,
+      "quotes": 2,
+      "bookmarks": 399,
+      "views": 94938
+    },
+    "created_at": "Sun Apr 05 09:50:56 +0000 2026",
+    "ordinal": 118
+  },
+  {
+    "bookmark_id": "2040718155102990456",
+    "status_id": "2040718155102990456",
+    "status_url": "https://x.com/nash_su/status/2040718155102990456",
+    "author_name": "nash_su - e/acc",
+    "handle": "nash_su",
+    "text": "类 同事.skills 整理，欢迎补充：\n\n同事.skill\nhttps://t.co/AkwFgYDeb7\n女娲.skill\nhttps://t.co/quN0PPY4bv\n老板.skill\nhttps://t.co/mqLF5gRkCA\n前任.skill\nhttps://t.co/uHaMlkcnNP\n自己.skill\nhttps://t.co/wVv0SruiPt\n最后，抵抗技能：反蒸馏 Skill\nhttps://t.co/znlGsjJ0uC\n\n大家还知不知道其他的，可以留言补充",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [
+      "https://github.com/titanwings/colleague-skill",
+      "https://github.com/alchaincyf/nuwa-skill",
+      "https://github.com/vogtsw/boss-skills",
+      "https://github.com/therealXiaomanChu/ex-skill",
+      "https://github.com/notdog1998/yourself-skill",
+      "https://github.com/leilei926524-tech/anti-distill"
+    ],
+    "media": [
+      "https://pbs.twimg.com/media/HFIWIqUaYAAk7Ai.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 2083,
+      "retweets": 429,
+      "replies": 39,
+      "quotes": 18,
+      "bookmarks": 1944,
+      "views": 221697
+    },
+    "created_at": "Sun Apr 05 09:08:17 +0000 2026",
+    "ordinal": 119
+  },
+  {
+    "bookmark_id": "2040822152119959639",
+    "status_id": "2040822152119959639",
+    "status_url": "https://x.com/Wenma_Daoren/status/2040822152119959639",
+    "author_name": "Tim Ren",
+    "handle": "Wenma_Daoren",
+    "text": "@nash_su Master.skill\nhttps://t.co/AcGYV8irGG",
+    "language": "sv",
+    "hashtags": [],
+    "urls": [
+      "https://github.com/xr843/Master-skill"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": true,
+    "metrics": {
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 3,
+      "views": 2969
+    },
+    "created_at": "Sun Apr 05 16:01:32 +0000 2026",
+    "ordinal": 120
+  },
+  {
+    "bookmark_id": "2041018978341155139",
+    "status_id": "2041018978341155139",
+    "status_url": "https://x.com/jfdi100001/status/2041018978341155139",
+    "author_name": "jfdi100001",
+    "handle": "jfdi100001",
+    "text": "@baozong_facai @readwise save thread",
+    "language": "en",
+    "hashtags": [],
+    "urls": [],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": true,
+    "metrics": {
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 2,
+      "views": 443
+    },
+    "created_at": "Mon Apr 06 05:03:39 +0000 2026",
+    "ordinal": 121
+  },
+  {
+    "bookmark_id": "2040615924227784962",
+    "status_id": "2040615924227784962",
+    "status_url": "https://x.com/ChrisSlacker/status/2040615924227784962",
+    "author_name": "科技混子Chris",
+    "handle": "ChrisSlacker",
+    "text": "简单版 - 重要的设置：\n\n• 微距控制：开启\n• Apple ProRAW：开启（如果是Pro）\n• 优先更快速拍摄：关闭\n• 网格：开启\n• 保留设置：开启\n• 照片模式：24MP\n\n转发第一条。你认识的人需要看这个。",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": true,
+    "metrics": {
+      "likes": 51,
+      "retweets": 20,
+      "replies": 0,
+      "quotes": 1,
+      "bookmarks": 87,
+      "views": 17978
+    },
+    "created_at": "Sun Apr 05 02:22:03 +0000 2026",
+    "ordinal": 122
+  },
+  {
+    "bookmark_id": "2040766907603894318",
+    "status_id": "2040766907603894318",
+    "status_url": "https://x.com/vista8/status/2040766907603894318",
+    "author_name": "向阳乔木",
+    "handle": "vista8",
+    "text": "这是实干派专家，去年第一次因分享skill被打赏888，也来自龙共火火。\n\n谦逊好学又大气，推荐关注。",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 87,
+      "retweets": 11,
+      "replies": 7,
+      "quotes": 1,
+      "bookmarks": 175,
+      "views": 43711
+    },
+    "created_at": "Sun Apr 05 12:22:01 +0000 2026",
+    "ordinal": 123
+  },
+  {
+    "bookmark_id": "2040778710949970279",
+    "status_id": "2040778710949970279",
+    "status_url": "https://x.com/lihuaizhi/status/2040778710949970279",
+    "author_name": "李坏之",
+    "handle": "lihuaizhi",
+    "text": "https://t.co/HmBERnhLuE",
+    "language": "zxx",
+    "hashtags": [],
+    "urls": [
+      "http://x.com/i/article/2040777091462119424"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 305,
+      "retweets": 67,
+      "replies": 22,
+      "quotes": 4,
+      "bookmarks": 470,
+      "views": 51401
+    },
+    "created_at": "Sun Apr 05 13:08:55 +0000 2026",
+    "ordinal": 124
+  },
+  {
+    "bookmark_id": "2040000216456143002",
+    "status_id": "2040000216456143002",
+    "status_url": "https://x.com/zodchiii/status/2040000216456143002",
+    "author_name": "darkzodchi",
+    "handle": "zodchiii",
+    "text": "https://t.co/7TIGxBpQt5",
+    "language": "zxx",
+    "hashtags": [],
+    "urls": [
+      "http://x.com/i/article/2039979730460344320"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 2754,
+      "retweets": 185,
+      "replies": 47,
+      "quotes": 36,
+      "bookmarks": 13405,
+      "views": 2113539
+    },
+    "created_at": "Fri Apr 03 09:35:27 +0000 2026",
+    "ordinal": 125
+  },
+  {
+    "bookmark_id": "2041026322596847770",
+    "status_id": "2041026322596847770",
+    "status_url": "https://x.com/vista8/status/2041026322596847770",
+    "author_name": "向阳乔木",
+    "handle": "vista8",
+    "text": "电子书已经制作好了，开源地址\n\nhttps://t.co/rLsq6bR06x",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [
+      "https://github.com/joeseesun/paul-graham-essays"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": true,
+    "metrics": {
+      "likes": 59,
+      "retweets": 17,
+      "replies": 3,
+      "quotes": 1,
+      "bookmarks": 118,
+      "views": 8554
+    },
+    "created_at": "Mon Apr 06 05:32:50 +0000 2026",
+    "ordinal": 126
+  },
+  {
+    "bookmark_id": "2040976089196167538",
+    "status_id": "2040976089196167538",
+    "status_url": "https://x.com/fkysly/status/2040976089196167538",
+    "author_name": "马天翼",
+    "handle": "fkysly",
+    "text": "对于想自己私人配置一套本地大模型环境的朋友可以关注一下 V 神这篇博客。\n\n博客内容详细的聊了他从硬件选型开始如何思考和配置一套能满足私人对隐私、安全、离线要求的 Local LLM 环境。其中印象最令我深刻的是为了减少在飞机上离线情况下模型的幻觉问题，他把 1GB 的维基百科内容都存了下来，方便模型自我核实。\n\n另外虽然 V神自己买的是高端硬件装备，但是也在文中考虑到了经济不太充裕的朋友的硬件推荐情况，很良心。\n\nhttps://t.co/4qZigNFCps",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 106,
+      "retweets": 19,
+      "replies": 2,
+      "quotes": 0,
+      "bookmarks": 209,
+      "views": 12345
+    },
+    "created_at": "Mon Apr 06 02:13:13 +0000 2026",
+    "ordinal": 127
+  },
+  {
+    "bookmark_id": "2040653665422201218",
+    "status_id": "2040653665422201218",
+    "status_url": "https://x.com/AlchainHust/status/2040653665422201218",
+    "author_name": "花叔",
+    "handle": "AlchainHust",
+    "text": "你的下一个员工，何必是同事。\n\n同事.skill这几天火了，把同事蒸馏成AI Skill。这个项目证明了一件事：蒸馏一个人的能力，是可行的。\n\n但我想问一个问题：既然我们已经有了蒸馏人的能力，为什么要蒸馏身边的同事？\n\n去蒸馏各领域最强的人。\n\n而且幸运的是，这些人留下了大量可以被蒸馏的材料。芒格有《穷查理宝典》和几十年的股东会演讲。费曼有全套讲义和自传。Naval有几百条推文和长篇播客。塔勒布有五本书和无数公开辩论。这些都是高纯度的思维原矿，等着被提炼。\n\n我之前就一直在干这件事。今天把方法论开源了，叫女娲。\n\n使用极其简单：输入一个名字就行。女娲自动启动6个Agent去找书、找播客、找推文、找批评者，自己调研、自己提炼、自己验证。你不需要准备任何材料。\n\n6个Agent并行采集著作、播客、社交媒体、批评者视角、决策记录、时间线。然后三重验证：一个观点要被收录为心智模型，必须跨2个以上领域出现过、能预测新问题立场、不是所有聪明人都会这么想。三条全过才留。\n\n决策前问芒格，写教程问费曼，评估风险问塔勒布。你想蒸馏谁就蒸馏谁。\n\nGitHub: https://t.co/MNTlj88uww\n安装: `npx skills add alchaincyf/nuwa-skill`\n\nMIT协议，随便用，随便改，随便造。",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/HFHbqwNXYAAKp5k.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 1522,
+      "retweets": 396,
+      "replies": 57,
+      "quotes": 48,
+      "bookmarks": 1975,
+      "views": 534673
+    },
+    "created_at": "Sun Apr 05 04:52:02 +0000 2026",
+    "ordinal": 128
+  },
+  {
+    "bookmark_id": "2040994479055012027",
+    "status_id": "2040994479055012027",
+    "status_url": "https://x.com/VincentLogic/status/2040994479055012027",
+    "author_name": "Vincent Logic | 只上干货",
+    "handle": "VincentLogic",
+    "text": "教你如何选择高薪小而美的公司！建议收藏！ https://t.co/8kIhQfBhYa",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2040993931325009920/img/cR5X0RZG3fs8p-uh.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 1197,
+      "retweets": 154,
+      "replies": 3,
+      "quotes": 1,
+      "bookmarks": 379,
+      "views": 58612
+    },
+    "created_at": "Mon Apr 06 03:26:18 +0000 2026",
+    "ordinal": 129
+  },
+  {
+    "bookmark_id": "2040264824362500572",
+    "status_id": "2040264824362500572",
+    "status_url": "https://x.com/KKaWSB/status/2040264824362500572",
+    "author_name": "KK.aWSB",
+    "handle": "KKaWSB",
+    "text": "https://t.co/4in2spuzVw",
+    "language": "zxx",
+    "hashtags": [],
+    "urls": [
+      "http://x.com/i/article/2040221632787337216"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 145,
+      "retweets": 32,
+      "replies": 4,
+      "quotes": 2,
+      "bookmarks": 461,
+      "views": 160115
+    },
+    "created_at": "Sat Apr 04 03:06:55 +0000 2026",
+    "ordinal": 130
+  },
+  {
+    "bookmark_id": "2040998521177018835",
+    "status_id": "2040998521177018835",
+    "status_url": "https://x.com/akokoi1/status/2040998521177018835",
+    "author_name": "WY",
+    "handle": "akokoi1",
+    "text": "https://t.co/DDt2ByzOzq",
+    "language": "zxx",
+    "hashtags": [],
+    "urls": [
+      "http://x.com/i/article/2039491375058796544"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 162,
+      "retweets": 30,
+      "replies": 4,
+      "quotes": 3,
+      "bookmarks": 278,
+      "views": 25165
+    },
+    "created_at": "Mon Apr 06 03:42:22 +0000 2026",
+    "ordinal": 131
+  },
+  {
+    "bookmark_id": "2040909147479343445",
+    "status_id": "2040909147479343445",
+    "status_url": "https://x.com/0xJoooe/status/2040909147479343445",
+    "author_name": "Joooe｜NodeZ",
+    "handle": "0xJoooe",
+    "text": "https://t.co/IO6SVYTYdx",
+    "language": "zxx",
+    "hashtags": [],
+    "urls": [
+      "http://x.com/i/article/2040907797995585536"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 551,
+      "retweets": 137,
+      "replies": 7,
+      "quotes": 7,
+      "bookmarks": 1402,
+      "views": 176976
+    },
+    "created_at": "Sun Apr 05 21:47:13 +0000 2026",
+    "ordinal": 132
+  },
+  {
+    "bookmark_id": "2040795071231193145",
+    "status_id": "2040795071231193145",
+    "status_url": "https://x.com/Wenma_Daoren/status/2040795071231193145",
+    "author_name": "Tim Ren",
+    "handle": "Wenma_Daoren",
+    "text": "@AlchainHust https://t.co/AcGYV8irGG\n大师.skill 已开源...😄",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [
+      "https://github.com/xr843/Master-skill"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": true,
+    "metrics": {
+      "likes": 37,
+      "retweets": 4,
+      "replies": 2,
+      "quotes": 1,
+      "bookmarks": 38,
+      "views": 5075
+    },
+    "created_at": "Sun Apr 05 14:13:55 +0000 2026",
+    "ordinal": 133
+  },
+  {
+    "bookmark_id": "2040047268221608281",
+    "status_id": "2040047268221608281",
+    "status_url": "https://x.com/HiTw93/status/2040047268221608281",
+    "author_name": "Tw93",
+    "handle": "HiTw93",
+    "text": "https://t.co/yJi18lu2a9",
+    "language": "zxx",
+    "hashtags": [],
+    "urls": [
+      "http://x.com/i/article/2040042805612228608"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 2158,
+      "retweets": 462,
+      "replies": 52,
+      "quotes": 37,
+      "bookmarks": 4163,
+      "views": 626108
+    },
+    "created_at": "Fri Apr 03 12:42:25 +0000 2026",
+    "ordinal": 134
+  },
+  {
+    "bookmark_id": "2040322975321248185",
+    "status_id": "2040322975321248185",
+    "status_url": "https://x.com/buhuaguo1/status/2040322975321248185",
+    "author_name": "不滑锅",
+    "handle": "buhuaguo1",
+    "text": "https://t.co/KF7fz5QRdX",
+    "language": "zxx",
+    "hashtags": [],
+    "urls": [
+      "http://x.com/i/article/2040314942390431745"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 113,
+      "retweets": 27,
+      "replies": 5,
+      "quotes": 7,
+      "bookmarks": 261,
+      "views": 61898
+    },
+    "created_at": "Sat Apr 04 06:57:59 +0000 2026",
+    "ordinal": 135
+  },
+  {
+    "bookmark_id": "2040777279484444921",
+    "status_id": "2040777279484444921",
+    "status_url": "https://x.com/WSInsights/status/2040777279484444921",
+    "author_name": "华尔街财经 | WSInsights 【Zenzhe 】",
+    "handle": "WSInsights",
+    "text": "你沟通能力如何？\n现在都说情商，语商；\n现在厉害的人说话都用公式了，\n不会说话的用了公式\n就会变得非常厉害！ https://t.co/jzdygtFBkx",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/2040442951487389696/pu/img/Sd4hbCQz4BZkK2Mb.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 235,
+      "retweets": 78,
+      "replies": 6,
+      "quotes": 3,
+      "bookmarks": 183,
+      "views": 16626
+    },
+    "created_at": "Sun Apr 05 13:03:13 +0000 2026",
+    "ordinal": 136
+  },
+  {
+    "bookmark_id": "2040792157876023601",
+    "status_id": "2040792157876023601",
+    "status_url": "https://x.com/0xCheshire/status/2040792157876023601",
+    "author_name": "柴郡🔔｜Crypto+AI Plus",
+    "handle": "0xCheshire",
+    "text": "这场 2 小时的斯坦福 AI 职业讲座将教会你更多关于在 AI 竞赛中脱颖而出的秘诀，绝对胜过你今年刷过的每一条 AI 内容。\n\n把它收藏起来，无论如何都要腾出 2 个小时来看。\n\n这将是你这个周末能做的最有成效的事。 https://t.co/t4fyU4PiuB",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2040791087263162368/img/20u_wz-HSnx39t1O.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 543,
+      "retweets": 195,
+      "replies": 11,
+      "quotes": 1,
+      "bookmarks": 623,
+      "views": 44349
+    },
+    "created_at": "Sun Apr 05 14:02:21 +0000 2026",
+    "ordinal": 137
+  },
+  {
+    "bookmark_id": "2040598610589470893",
+    "status_id": "2040598610589470893",
+    "status_url": "https://x.com/dachaoren/status/2040598610589470893",
+    "author_name": "太阳闯关记",
+    "handle": "dachaoren",
+    "text": "claude code教程，讲的非常仔细，新手完全能听懂并且落地，这教程在国内不得收费398，598元？估计还一大堆人抢着买。\n\n静下心看完这一套完整教程，你就能真正用 AI 搭建工作流、实现自动化、处理复杂任务。 https://t.co/pg34yjXC0S",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2040339433506107392/img/5jOUQUfSkfuwKv6I.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 12173,
+      "retweets": 2716,
+      "replies": 297,
+      "quotes": 38,
+      "bookmarks": 12886,
+      "views": 787901
+    },
+    "created_at": "Sun Apr 05 01:13:15 +0000 2026",
+    "ordinal": 138
+  },
+  {
+    "bookmark_id": "2040567244896276783",
+    "status_id": "2040567244896276783",
+    "status_url": "https://x.com/Kenntnis22/status/2040567244896276783",
+    "author_name": "Iggie🚁",
+    "handle": "Kenntnis22",
+    "text": "什么是巨婴思维❓\n\n🤔面白い https://t.co/Tu3COsY14d",
+    "language": "ja",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2040566535031574528/img/ozNOZngC6OR0mryM.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 191,
+      "retweets": 44,
+      "replies": 2,
+      "quotes": 1,
+      "bookmarks": 103,
+      "views": 11844
+    },
+    "created_at": "Sat Apr 04 23:08:37 +0000 2026",
+    "ordinal": 139
+  },
+  {
+    "bookmark_id": "2036803153841328388",
+    "status_id": "2036803153841328388",
+    "status_url": "https://x.com/gengdaJ/status/2036803153841328388",
+    "author_name": "逸尘",
+    "handle": "gengdaJ",
+    "text": "https://t.co/ME58jMusDJ",
+    "language": "zxx",
+    "hashtags": [],
+    "urls": [
+      "http://x.com/i/article/2036434783161688070"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 336,
+      "retweets": 89,
+      "replies": 24,
+      "quotes": 6,
+      "bookmarks": 754,
+      "views": 131129
+    },
+    "created_at": "Wed Mar 25 13:51:28 +0000 2026",
+    "ordinal": 140
+  },
+  {
+    "bookmark_id": "2039235284186071161",
+    "status_id": "2039235284186071161",
+    "status_url": "https://x.com/MateCafe/status/2039235284186071161",
+    "author_name": "咖啡伴侣",
+    "handle": "MateCafe",
+    "text": "@yuanwangnan 试试我维护了5年多的国外直播源 https://t.co/qDfsJ0VCVB",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [
+      "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": true,
+    "metrics": {
+      "likes": 352,
+      "retweets": 61,
+      "replies": 15,
+      "quotes": 1,
+      "bookmarks": 447,
+      "views": 26166
+    },
+    "created_at": "Wed Apr 01 06:55:53 +0000 2026",
+    "ordinal": 141
+  },
+  {
+    "bookmark_id": "2039237833521836289",
+    "status_id": "2039237833521836289",
+    "status_url": "https://x.com/vista8/status/2039237833521836289",
+    "author_name": "向阳乔木",
+    "handle": "vista8",
+    "text": "@laoyaoke 姚老师的公开飞书文档，已有4万多阅读，很多干货。\n\nhttps://t.co/st7CSeAGdW",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [
+      "https://jiahejiaoyu.feishu.cn/docx/YHOHd1TLyom6KDxQY8Ac8m4hngf"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": true,
+    "metrics": {
+      "likes": 25,
+      "retweets": 5,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 41,
+      "views": 5529
+    },
+    "created_at": "Wed Apr 01 07:06:01 +0000 2026",
+    "ordinal": 142
+  },
+  {
+    "bookmark_id": "2039010024404783288",
+    "status_id": "2039010024404783288",
+    "status_url": "https://x.com/VincentLogic/status/2039010024404783288",
+    "author_name": "Vincent Logic | 只上干货",
+    "handle": "VincentLogic",
+    "text": "别瞎卷了！把自己产品化，一人公司才是最强搞钱杠杆。 https://t.co/1Q8HhoAiXM",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2039009779436404736/img/eGYKlotsoqmIIpph.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 196,
+      "retweets": 46,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 133,
+      "views": 8411
+    },
+    "created_at": "Tue Mar 31 16:00:47 +0000 2026",
+    "ordinal": 143
+  },
+  {
+    "bookmark_id": "2039037142936981618",
+    "status_id": "2039037142936981618",
+    "status_url": "https://x.com/iPaulCanada/status/2039037142936981618",
+    "author_name": "iPaul",
+    "handle": "iPaulCanada",
+    "text": "普通人应该如何预防癌症？深度对话肿瘤医院周昌明博士，值得好好看看！ https://t.co/MgdcMDdTWO",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2039033436745224192/img/r75kvmFIxd91ojDz.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 645,
+      "retweets": 189,
+      "replies": 19,
+      "quotes": 1,
+      "bookmarks": 519,
+      "views": 66972
+    },
+    "created_at": "Tue Mar 31 17:48:33 +0000 2026",
+    "ordinal": 144
+  }
+]

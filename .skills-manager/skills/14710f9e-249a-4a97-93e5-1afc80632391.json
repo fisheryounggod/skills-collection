@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "14710f9e-249a-4a97-93e5-1afc80632391",
+  "path": "plugin-settings",
+  "path_key": "plugin-settings",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

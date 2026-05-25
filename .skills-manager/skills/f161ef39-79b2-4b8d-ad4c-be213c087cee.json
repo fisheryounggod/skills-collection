@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f161ef39-79b2-4b8d-ad4c-be213c087cee",
+  "path": "investment-memo",
+  "path_key": "investment-memo",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

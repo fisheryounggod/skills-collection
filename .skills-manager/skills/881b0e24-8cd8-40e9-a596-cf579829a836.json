@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "881b0e24-8cd8-40e9-a596-cf579829a836",
+  "path": "merge-drafts",
+  "path_key": "merge-drafts",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

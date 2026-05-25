@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5f18ea82-d9de-4469-a9c5-4b8902a803e7",
+  "path": "table-extractor",
+  "path_key": "table-extractor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

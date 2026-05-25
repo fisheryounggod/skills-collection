@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1b9dd2ff-06ef-405e-b1de-490fb0660e2b",
+  "path": "brand-guidelines",
+  "path_key": "brand-guidelines",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

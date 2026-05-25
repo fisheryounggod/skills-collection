@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b0642fb0-27b8-481b-983a-4d1d456dd857",
+  "path": "agnostic-auto",
+  "path_key": "agnostic-auto",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

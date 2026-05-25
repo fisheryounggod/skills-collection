@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fd4bba6d-4e3e-4068-ba8c-f6765e711c3f",
+  "path": "gmail-workflows",
+  "path_key": "gmail-workflows",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

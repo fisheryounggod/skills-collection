@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "94bfef46-ba9d-4745-b72e-d2b0375ace3e",
+  "path": "strategic-compact",
+  "path_key": "strategic-compact",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

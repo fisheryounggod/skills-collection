@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d98cda9a-838e-412b-8bb5-0e11495dd156",
+  "path": "nda-generator",
+  "path_key": "nda-generator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

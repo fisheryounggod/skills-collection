@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a5a936bf-0fcd-4b23-ab46-ee166c5c0c7c",
+  "path": "office-tools",
+  "path_key": "office-tools",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

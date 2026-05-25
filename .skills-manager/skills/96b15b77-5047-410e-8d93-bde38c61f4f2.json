@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "96b15b77-5047-410e-8d93-bde38c61f4f2",
+  "path": "steve-jobs-perspective",
+  "path_key": "steve-jobs-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

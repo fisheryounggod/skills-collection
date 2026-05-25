@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ba88ab15-919f-47b0-aec1-8e14bf0641a2",
+  "path": "feishu-literature",
+  "path_key": "feishu-literature",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

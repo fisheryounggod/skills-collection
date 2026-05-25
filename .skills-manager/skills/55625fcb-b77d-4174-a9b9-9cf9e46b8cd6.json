@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "55625fcb-b77d-4174-a9b9-9cf9e46b8cd6",
+  "path": "zlibrary-to-notebooklm",
+  "path_key": "zlibrary-to-notebooklm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

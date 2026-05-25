@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "61ee4cdb-674f-43e6-8cb3-57e097d647bb",
+  "path": "guizang-ppt-skill",
+  "path_key": "guizang-ppt-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

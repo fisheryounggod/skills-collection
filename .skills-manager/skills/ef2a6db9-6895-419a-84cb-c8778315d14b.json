@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ef2a6db9-6895-419a-84cb-c8778315d14b",
+  "path": "rust-patterns",
+  "path_key": "rust-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

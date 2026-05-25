@@ -1,0 +1,10 @@
+{
+  "openclaw": {
+    "skillKey": "jina-cli",
+    "version": "1.0.0",
+    "minOpenClawVersion": "2026.2.26"
+  },
+  "name": "jina-cli",
+  "version": "1.0.0",
+  "description": "Web content reader and search tool powered by Jina AI Reader API. Extracts and converts web content to LLM-friendly formats, perfect for reading X/Twitter, blogs, news sites, and performing AI-powered web searches."
+}

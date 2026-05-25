@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2b616b4f-8fae-42f1-a883-88e9e2febb82",
+  "path": "zhang-yiming-perspective",
+  "path_key": "zhang-yiming-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

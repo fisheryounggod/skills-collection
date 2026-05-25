@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "edf536b8-3c0f-4615-9280-016680ecadc5",
+  "path": "claude-md-improver",
+  "path_key": "claude-md-improver",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

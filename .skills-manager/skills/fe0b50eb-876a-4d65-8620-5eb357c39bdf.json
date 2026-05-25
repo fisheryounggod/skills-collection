@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fe0b50eb-876a-4d65-8620-5eb357c39bdf",
+  "path": "pyzotero-cli",
+  "path_key": "pyzotero-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

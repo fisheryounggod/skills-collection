@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f57cc812-a6aa-4e5f-9bc0-84934c34eb0e",
+  "path": "google-ads-manager",
+  "path_key": "google-ads-manager",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

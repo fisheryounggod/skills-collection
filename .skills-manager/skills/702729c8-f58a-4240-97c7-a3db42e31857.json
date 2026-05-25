@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "702729c8-f58a-4240-97c7-a3db42e31857",
+  "path": "ljg-relationship",
+  "path_key": "ljg-relationship",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

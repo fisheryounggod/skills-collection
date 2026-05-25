@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7025add8-cd05-4a00-8801-c8cf9e5843da",
+  "path": "cnki-journal-index",
+  "path_key": "cnki-journal-index",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

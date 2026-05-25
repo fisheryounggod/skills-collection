@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "52623f85-c14a-4cfe-a50c-976e2e820571",
+  "path": "focus-timer",
+  "path_key": "focus-timer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

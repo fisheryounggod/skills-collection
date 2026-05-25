@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6288dd30-1079-4326-93cf-ab257466017e",
+  "path": "page-agent",
+  "path_key": "page-agent",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

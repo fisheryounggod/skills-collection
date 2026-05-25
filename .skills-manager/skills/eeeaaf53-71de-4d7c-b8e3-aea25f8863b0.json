@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eeeaaf53-71de-4d7c-b8e3-aea25f8863b0",
+  "path": "ljg-writes-2",
+  "path_key": "ljg-writes-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

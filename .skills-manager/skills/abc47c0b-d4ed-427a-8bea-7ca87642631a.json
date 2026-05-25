@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "abc47c0b-d4ed-427a-8bea-7ca87642631a",
+  "path": "python-testing",
+  "path_key": "python-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

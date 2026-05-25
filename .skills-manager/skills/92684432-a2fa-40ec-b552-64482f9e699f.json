@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "92684432-a2fa-40ec-b552-64482f9e699f",
+  "path": "time-management",
+  "path_key": "time-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3e9e31fd-c6ac-47d5-9aa4-ca1e230f680d",
+  "path": "hermes-sync",
+  "path_key": "hermes-sync",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

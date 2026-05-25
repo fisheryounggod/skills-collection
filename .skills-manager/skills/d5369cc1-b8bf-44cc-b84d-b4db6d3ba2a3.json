@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d5369cc1-b8bf-44cc-b84d-b4db6d3ba2a3",
+  "path": "pdf-to-docx",
+  "path_key": "pdf-to-docx",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

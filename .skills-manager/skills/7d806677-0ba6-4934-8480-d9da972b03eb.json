@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7d806677-0ba6-4934-8480-d9da972b03eb",
+  "path": "qiaomu-anything-to-notebooklm",
+  "path_key": "qiaomu-anything-to-notebooklm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "05359376-8f20-475b-86dd-a746fb531e8d",
+  "path": "notebooklm",
+  "path_key": "notebooklm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

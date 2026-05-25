@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "164aa70c-6d05-40ce-b531-e3fdd5793103",
+  "path": "doc-pipeline",
+  "path_key": "doc-pipeline",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

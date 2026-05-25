@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7cfdc487-921f-4167-a485-385af22d8ead",
+  "path": "quant-strategy",
+  "path_key": "quant-strategy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

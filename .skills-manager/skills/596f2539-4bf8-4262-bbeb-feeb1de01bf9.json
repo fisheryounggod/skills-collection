@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "596f2539-4bf8-4262-bbeb-feeb1de01bf9",
+  "path": "baoyu-slide-deck",
+  "path_key": "baoyu-slide-deck",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

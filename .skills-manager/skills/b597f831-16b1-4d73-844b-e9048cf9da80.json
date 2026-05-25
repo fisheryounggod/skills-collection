@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b597f831-16b1-4d73-844b-e9048cf9da80",
+  "path": "github-issues",
+  "path_key": "github-issues",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

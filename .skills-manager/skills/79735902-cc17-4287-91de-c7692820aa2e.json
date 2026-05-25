@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "79735902-cc17-4287-91de-c7692820aa2e",
+  "path": "chrome-cdp",
+  "path_key": "chrome-cdp",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6d628205-d80a-4db3-a4b4-46a84432df9d",
+  "path": "jina-cli",
+  "path_key": "jina-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

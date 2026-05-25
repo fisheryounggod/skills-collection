@@ -1,0 +1,47 @@
+#!/usr/bin/env python3
+"""
+读取PDF文档并提取文本内容
+"""
+
+import sys
+import os
+
+# 添加虚拟环境路径到Python路径
+venv_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), '.venv')
+site_packages = os.path.join(venv_path, 'lib', 'python3.12', 'site-packages')
+sys.path.insert(0, site_packages)
+
+import pdfplumber
+
+
+def read_pdf(file_path):
+    """读取PDF文档并返回所有文本"""
+    text = []
+
+    with pdfplumber.open(file_path) as pdf:
+        for i, page in enumerate(pdf.pages, 1):
+            page_text = page.extract_text()
+            if page_text:
+                text.append(f"--- 第 {i} 页 ---")
+                text.append(page_text)
+                text.append("")  # 页面之间空一行
+
+    return '\n'.join(text)
+
+
+if __name__ == '__main__':
+    if len(sys.argv) < 2:
+        print("用法: pdf-read <文件路径>", file=sys.stderr)
+        sys.exit(1)
+
+    file_path = sys.argv[1]
+    if not os.path.exists(file_path):
+        print(f"错误: 文件不存在 - {file_path}", file=sys.stderr)
+        sys.exit(1)
+
+    try:
+        text = read_pdf(file_path)
+        print(text)
+    except Exception as e:
+        print(f"错误: {e}", file=sys.stderr)
+        sys.exit(1)

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bdc0cffa-87b0-431d-b29d-98585f173591",
+  "path": "baoyu-cover-image",
+  "path_key": "baoyu-cover-image",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

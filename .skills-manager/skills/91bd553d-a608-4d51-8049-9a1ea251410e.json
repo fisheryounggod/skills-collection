@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "91bd553d-a608-4d51-8049-9a1ea251410e",
+  "path": "openclaw-cli",
+  "path_key": "openclaw-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

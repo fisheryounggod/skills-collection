@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "763ee864-a5e8-44de-9377-1a4d600589c2",
+  "path": "layout-analyzer",
+  "path_key": "layout-analyzer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6397293f-b9e5-418d-8e92-7913bb861c56",
+  "path": "baoyu-post-to-x",
+  "path_key": "baoyu-post-to-x",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

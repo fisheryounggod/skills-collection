@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "47e7079a-3de5-45fe-85a4-359162f44469",
+  "path": "django-verification",
+  "path_key": "django-verification",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

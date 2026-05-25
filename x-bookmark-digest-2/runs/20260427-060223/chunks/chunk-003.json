@@ -1,0 +1,991 @@
+[
+  {
+    "bookmark_id": "2044723920130195698",
+    "status_id": "2044723920130195698",
+    "status_url": "https://x.com/cnfinancewatch/status/2044723920130195698",
+    "author_name": "华尔街观察 Xtrader",
+    "handle": "cnfinancewatch",
+    "text": "这堂 1 小时的 MIT 投资组合管理课程，是 Mathematics in Finance 系列里最值得看的一个视频。\n\n一位前摩根士丹利交易员，用一堂课讲清了分散投资和仓位管理，胜过很多人数年才摸索明白的内容。\n\n整套课程共 26 讲，全部免费。\n\n建议收藏。",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 56,
+      "retweets": 21,
+      "replies": 2,
+      "quotes": 0,
+      "bookmarks": 96,
+      "views": 19617
+    },
+    "created_at": "Thu Apr 16 10:25:46 +0000 2026",
+    "ordinal": 63
+  },
+  {
+    "bookmark_id": "2044497363738497461",
+    "status_id": "2044497363738497461",
+    "status_url": "https://x.com/global_bests/status/2044497363738497461",
+    "author_name": "YouTube全球精选",
+    "handle": "global_bests",
+    "text": "对话97年亿万富翁徐皓天, 2026年，如何成为一个会赚钱的人？ https://t.co/3fW932kL5D",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2044496810023211008/img/YSLBJVl_HEZn8ev6.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 884,
+      "retweets": 130,
+      "replies": 24,
+      "quotes": 3,
+      "bookmarks": 715,
+      "views": 53435
+    },
+    "created_at": "Wed Apr 15 19:25:31 +0000 2026",
+    "ordinal": 64
+  },
+  {
+    "bookmark_id": "2044445727334559987",
+    "status_id": "2044445727334559987",
+    "status_url": "https://x.com/yilmazkuday/status/2044445727334559987",
+    "author_name": "HAKAN YILMAZKUDAY",
+    "handle": "yilmazkuday",
+    "text": "Gains from tariff reductions are about 1.8% for the median country. https://t.co/j7wOC8sWhA https://t.co/jDyNMf0vmp",
+    "language": "en",
+    "hashtags": [],
+    "urls": [
+      "https://dx.doi.org/10.2139/ssrn.4993889"
+    ],
+    "media": [
+      "https://pbs.twimg.com/media/HF9UjeGWIAElT_8.png"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 1,
+      "views": 45
+    },
+    "created_at": "Wed Apr 15 16:00:20 +0000 2026",
+    "ordinal": 65
+  },
+  {
+    "bookmark_id": "2044389264725840038",
+    "status_id": "2044389264725840038",
+    "status_url": "https://x.com/BirdTechVision/status/2044389264725840038",
+    "author_name": "🐦萌鸟视界-BirdVision",
+    "handle": "BirdTechVision",
+    "text": "https://t.co/7MKlqnItnm",
+    "language": "zxx",
+    "hashtags": [],
+    "urls": [
+      "http://x.com/i/article/2044382792226893825"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 40,
+      "retweets": 1,
+      "replies": 8,
+      "quotes": 0,
+      "bookmarks": 19,
+      "views": 6107
+    },
+    "created_at": "Wed Apr 15 12:15:58 +0000 2026",
+    "ordinal": 66
+  },
+  {
+    "bookmark_id": "2044222873511068031",
+    "status_id": "2044222873511068031",
+    "status_url": "https://x.com/VincentLogic/status/2044222873511068031",
+    "author_name": "Vincent Logic | 只上干货",
+    "handle": "VincentLogic",
+    "text": "🚨 可能是全网第一个！0 代码手搓一款真正原生 App 的最佳实践。不管你是资深工程师还是零基础小白，只要跟着做，半小时就能做出运行在手机上的原生 App（不是 H5 网页！）👇\n\n1️⃣ Stitch 生成设计：打开 Google Stitch，用中文描述需求（如“拍照自动识别有效期的 App”），选择 Gemini 3.0 Pro 模型。AI 瞬间生成符合 Material 3 规范的极简设计稿。\n2️⃣ 一键导出素材：直接从 Stitch 导出 HTML 代码和 PNG 图片，省去 UI 和前端反复沟通的麻烦。\n3️⃣ Antigravity 写代码：打开 Antigravity IDE，建立 frontend/backend 目录。把素材放入 design 文件夹。给 AI 下指令：“基于 design 目录，使用 Flutter 技术生成 App 代码”。AI 自动疯狂写代码，配置环境。\n4️⃣ 模拟器运行：打开 Mac 的 Simulator，终端输入 flutter run。见证奇迹，真正的原生 App 跑起来了！\n\n这不是简单的套壳，AI 生成的代码包含 iOS、Android、Mac、Windows、Web 全平台支持。从想法到成品的全流程自动开发，是实践出来的最佳路径。\n\n#AI编程 #Flutter #Stitch #Antigravity #零代码开发",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2044221884070572032/img/mTz3Xbmj0iBtzWvX.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 556,
+      "retweets": 151,
+      "replies": 15,
+      "quotes": 3,
+      "bookmarks": 745,
+      "views": 33610
+    },
+    "created_at": "Wed Apr 15 01:14:47 +0000 2026",
+    "ordinal": 67
+  },
+  {
+    "bookmark_id": "2044290571678941637",
+    "status_id": "2044290571678941637",
+    "status_url": "https://x.com/TaoTaoOps/status/2044290571678941637",
+    "author_name": "桃桃的运营日记📓",
+    "handle": "TaoTaoOps",
+    "text": "https://t.co/XyYR5onJ02",
+    "language": "zxx",
+    "hashtags": [],
+    "urls": [
+      "http://x.com/i/article/2043694712272674816"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 169,
+      "retweets": 25,
+      "replies": 0,
+      "quotes": 1,
+      "bookmarks": 217,
+      "views": 18469
+    },
+    "created_at": "Wed Apr 15 05:43:48 +0000 2026",
+    "ordinal": 68
+  },
+  {
+    "bookmark_id": "2044307061320888579",
+    "status_id": "2044307061320888579",
+    "status_url": "https://x.com/yanhua1010/status/2044307061320888579",
+    "author_name": "Yanhua",
+    "handle": "yanhua1010",
+    "text": "Claude Code创始人Boris Cherny 讲解Anthropic内部如何使用它（中英双语字幕），建议收藏👇 https://t.co/4RFYsIxUv5",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2044301639709011971/img/lMLejkgHQGx9zZkI.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 981,
+      "retweets": 218,
+      "replies": 14,
+      "quotes": 7,
+      "bookmarks": 1469,
+      "views": 72395
+    },
+    "created_at": "Wed Apr 15 06:49:19 +0000 2026",
+    "ordinal": 69
+  },
+  {
+    "bookmark_id": "2044396267875266818",
+    "status_id": "2044396267875266818",
+    "status_url": "https://x.com/WSInsights/status/2044396267875266818",
+    "author_name": "华尔街财经 | WSInsights 【Zenzhe 】",
+    "handle": "WSInsights",
+    "text": "沈南鹏2025这场演讲全是实在干货！\n对普通人参考价值很大，收藏✍️ https://t.co/hz62rLG7RK",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2044394655643779072/img/zrrzz9fln1uG1CRL.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 596,
+      "retweets": 189,
+      "replies": 10,
+      "quotes": 2,
+      "bookmarks": 482,
+      "views": 421592
+    },
+    "created_at": "Wed Apr 15 12:43:47 +0000 2026",
+    "ordinal": 70
+  },
+  {
+    "bookmark_id": "2044247900893651232",
+    "status_id": "2044247900893651232",
+    "status_url": "https://x.com/baozong_facai/status/2044247900893651232",
+    "author_name": "宝总的财富指南",
+    "handle": "baozong_facai",
+    "text": "这 1 小时采访，值得反复听。\n\n受访者是一位顶级数学家投资人，\n创造了 1000 亿美元以上财富，\n平均回报率高达 66%。\n\n很多人认为，\n他的认知深度甚至超过巴菲特、索罗斯和达利奥。\n里面的投资知识，\n比 20 万美元 MBA 还值钱。\n\n先收藏，再书签。\n无论如何，听完它。 https://t.co/VblkcmTjkI",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2044244457806278658/img/FyQWRsqCBe2viOwL.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 4474,
+      "retweets": 1239,
+      "replies": 122,
+      "quotes": 25,
+      "bookmarks": 6126,
+      "views": 364153
+    },
+    "created_at": "Wed Apr 15 02:54:14 +0000 2026",
+    "ordinal": 71
+  },
+  {
+    "bookmark_id": "2043867154706022910",
+    "status_id": "2043867154706022910",
+    "status_url": "https://x.com/Salmonbro/status/2043867154706022910",
+    "author_name": "Salmon Bro 🐟｜鲑鱼哥",
+    "handle": "Salmonbro",
+    "text": "https://t.co/B7gWrHBjhR",
+    "language": "zxx",
+    "hashtags": [],
+    "urls": [
+      "http://x.com/i/article/2043682468641849344"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 58,
+      "retweets": 8,
+      "replies": 12,
+      "quotes": 1,
+      "bookmarks": 103,
+      "views": 36674
+    },
+    "created_at": "Tue Apr 14 01:41:17 +0000 2026",
+    "ordinal": 72
+  },
+  {
+    "bookmark_id": "2044100058212368848",
+    "status_id": "2044100058212368848",
+    "status_url": "https://x.com/billtheinvestor/status/2044100058212368848",
+    "author_name": "Bill The Investor",
+    "handle": "billtheinvestor",
+    "text": "有人为 macOS 开发了一款免费、完全本地运行的悬浮 AI 助手。无需 API 密钥，无需订阅，无需云端。 https://t.co/9ATyEreVda",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2044100000024801281/img/AxKCXtEUem7flkgZ.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 309,
+      "retweets": 34,
+      "replies": 9,
+      "quotes": 2,
+      "bookmarks": 406,
+      "views": 55162
+    },
+    "created_at": "Tue Apr 14 17:06:46 +0000 2026",
+    "ordinal": 73
+  },
+  {
+    "bookmark_id": "2043876861386862791",
+    "status_id": "2043876861386862791",
+    "status_url": "https://x.com/aktorpil/status/2043876861386862791",
+    "author_name": "挖币矿工",
+    "handle": "aktorpil",
+    "text": "为什么即使这辈子都不打算买房，也一定要关心房价\n\n#中国经济 #房地产 #楼市 https://t.co/k5nu2YYyUg",
+    "language": "zh",
+    "hashtags": [
+      "中国经济",
+      "房地产",
+      "楼市"
+    ],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2043874981269180416/img/WOPUlX7sXrHcUPH6.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 47,
+      "retweets": 8,
+      "replies": 24,
+      "quotes": 1,
+      "bookmarks": 26,
+      "views": 2931
+    },
+    "created_at": "Tue Apr 14 02:19:51 +0000 2026",
+    "ordinal": 74
+  },
+  {
+    "bookmark_id": "2043899414729855131",
+    "status_id": "2043899414729855131",
+    "status_url": "https://x.com/oragnes/status/2043899414729855131",
+    "author_name": "比特币橙子Trader",
+    "handle": "oragnes",
+    "text": "很多人还没有装obsidian插件，今天继续安利下，这个插件作用真的很大\n\n第一：可以把直接通过插件把你看到的文章内容保存起来，然后接入AI帮你自动整理\n\n第二：如果看到长文章，youtube视频，然后直接点击插件阅读模式，自动帮你分类，你直接点击不同的主题阅读，效率，体感都非常丝滑 https://t.co/6Jtzzr5ZLU",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2043897810513469440/img/eBXdCb2W9g1oT26l.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 835,
+      "retweets": 164,
+      "replies": 19,
+      "quotes": 2,
+      "bookmarks": 1349,
+      "views": 81525
+    },
+    "created_at": "Tue Apr 14 03:49:28 +0000 2026",
+    "ordinal": 75
+  },
+  {
+    "bookmark_id": "2043990772773740702",
+    "status_id": "2043990772773740702",
+    "status_url": "https://x.com/VincentLogic/status/2043990772773740702",
+    "author_name": "Vincent Logic | 只上干货",
+    "handle": "VincentLogic",
+    "text": "0基础外贸小白10分钟从0到1！2026最快上手全攻略！ https://t.co/FmCiALUCKR",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2043990322682740736/img/YYU-se-QVuggFhva.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 133,
+      "retweets": 22,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 78,
+      "views": 5269
+    },
+    "created_at": "Tue Apr 14 09:52:30 +0000 2026",
+    "ordinal": 76
+  },
+  {
+    "bookmark_id": "2043168881649570260",
+    "status_id": "2043168881649570260",
+    "status_url": "https://x.com/VincentLogic/status/2043168881649570260",
+    "author_name": "Vincent Logic | 只上干货",
+    "handle": "VincentLogic",
+    "text": "为什么越努力越没人帮？90%的人把'讨好'当成了社交捷径！ https://t.co/hVbZqHp6MT",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2043168142742953984/img/2EaESnAiDL-JYQJV.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 145,
+      "retweets": 22,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 87,
+      "views": 6825
+    },
+    "created_at": "Sun Apr 12 03:26:36 +0000 2026",
+    "ordinal": 77
+  },
+  {
+    "bookmark_id": "2043164854140452894",
+    "status_id": "2043164854140452894",
+    "status_url": "https://x.com/DtDt666/status/2043164854140452894",
+    "author_name": "看不懂的SOL",
+    "handle": "DtDt666",
+    "text": "兄弟们周末就别沉迷刷抖音了。\n\n强烈推荐花3个小时看完北京大学内部投资学习课程。\n\n投资必看！李录演讲：全球价值投资与时代\n\n时隔5年，李录这场160分钟的价值投资思想盛宴令人醍醐灌顶。\n\n李录极少公开演讲，每一次都弥足珍贵，\n\n尤其是他对价值投资在中国成功践行的深度思考，\n\n为我们提供了宝贵的本土化经验。\n\n2026年4月8日，Himalaya Capital（喜马拉雅资本）首次发布李录在北大光华管理学院价值投资课程十周年庆典上的主旨演讲视频《全球价值投资与时代》（演讲时间：2024年12月7日）。\n\n关于李录：查理·芒格的合伙人，芒格所说的“一生中三个最成功的投资之一”，芒格家族资产的主要管理者，被芒格称为“中国的巴菲特”。\n\n2008年，84岁的芒格在采访中提到：“人的一生不需要做很多投资，我的财富主要来源于三次投资——伯克希尔、好市多，以及李录的喜马拉雅基金。”\n\n李录1997年在美国创立喜马拉雅资本，至今管理资金规模约80亿美元，长期年化回报率超过20%。近年来更为人津津乐道的是，李录力荐比亚迪给巴菲特和芒格投资，帮助他们获得超过30倍的收益，成为价值投资在中国成功践行的经典案例。\n\n本次演讲核心内容：\n\n主题一：我们时代的困惑是什么？\n\n全球发生了很多变化，给投资人带来了许多困惑。\n\n主题二：对这些困惑的深度思考\n\n探讨困惑背后的原因和本质。\n\n主题三：中等收入陷阱与国际关系\n\n关于中等收入国家的跨越，以及对当今国际关系的看法。\n\n主题四：全球价值投资人如何应对时代挑战\n\n面对关税、贸易战等挑战，价值投资者的应对之道。\n价值投资的本质 回顾价值投资的起源，阐述六条价值投资的基本理念。\n\n精彩问答环节：\n\n1. 优质公司明显高估时，何时减持？\n2. 长期持有的运气与勇气：年轻人如何在不确定性中决策？\n3. 美国3.0时代与中国的改革路径\n4. 如何理解“便宜的公司”？P/E应该怎么看？\n5. 优秀企业家有什么共性特点？\n6. 投资的意义究竟是什么？\n\n时隔5年，李录这场160分钟的价值投资思想盛宴令人醍醐灌顶。李录极少公开演讲，每一次都弥足珍贵，尤其是他对价值投资在中国成功践行的深度思考，为我们提供了宝贵的本土化经验。\n\n特此推荐给朋友们，值得珍藏！反复观看、深度学习。",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2043162202098860032/img/c4CXSS9zX9RuKqYC.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 16478,
+      "retweets": 3445,
+      "replies": 393,
+      "quotes": 94,
+      "bookmarks": 15076,
+      "views": 1179812
+    },
+    "created_at": "Sun Apr 12 03:10:36 +0000 2026",
+    "ordinal": 78
+  },
+  {
+    "bookmark_id": "2042906987994677496",
+    "status_id": "2042906987994677496",
+    "status_url": "https://x.com/VincentLogic/status/2042906987994677496",
+    "author_name": "Vincent Logic | 只上干货",
+    "handle": "VincentLogic",
+    "text": "99%的人搜集信息都用错方法！3步让效率暴增10倍。 https://t.co/tpfe12QuLo",
+    "language": "ja",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2042906485651288066/img/b-1tO2UV_UmdO_dh.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 372,
+      "retweets": 34,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 131,
+      "views": 24855
+    },
+    "created_at": "Sat Apr 11 10:05:55 +0000 2026",
+    "ordinal": 79
+  },
+  {
+    "bookmark_id": "2042797603742715927",
+    "status_id": "2042797603742715927",
+    "status_url": "https://x.com/quanruzhuoxiu/status/2042797603742715927",
+    "author_name": "Leyang",
+    "handle": "quanruzhuoxiu",
+    "text": "终于做出了自己理想中的移动端笔记 app——\n\n⚡ 打开即进入记录状态\n✍️ 兼容 Obsidian Markdown 语法\n\n自己用爽了，分享给你们。🎉 https://t.co/qgTVhJp9pB",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2042796200596996096/img/htI57Pq_JrrDOgZ0.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 39,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 0,
+      "bookmarks": 43,
+      "views": 13446
+    },
+    "created_at": "Sat Apr 11 02:51:16 +0000 2026",
+    "ordinal": 80
+  },
+  {
+    "bookmark_id": "2042772742374895752",
+    "status_id": "2042772742374895752",
+    "status_url": "https://x.com/WSInsights/status/2042772742374895752",
+    "author_name": "华尔街财经 | WSInsights 【Zenzhe 】",
+    "handle": "WSInsights",
+    "text": "高瓴张磊对话高毅邱国鹭：论一个投资人的自我修养🔥 https://t.co/OYDxRoHWZr",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2042769682667913216/img/I1SgGfc-LVKZm7gf.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 95,
+      "retweets": 25,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 50,
+      "views": 5180
+    },
+    "created_at": "Sat Apr 11 01:12:29 +0000 2026",
+    "ordinal": 81
+  },
+  {
+    "bookmark_id": "2036806007905759688",
+    "status_id": "2036806007905759688",
+    "status_url": "https://x.com/AiIeltsMaster/status/2036806007905759688",
+    "author_name": "IELTS备考",
+    "handle": "AiIeltsMaster",
+    "text": "油管上那些宝藏雅思学习博主汇总⬇️\n\n💡English with Emma•engVid（语法专项）\n💡The IELTS Listening Tes（听力提升）\n💡English Speaking Success（Keith）（口语突破）\n💡IELTS Daily（阅读技巧）\n💡Fastrack IELTS（写作指导）\n💡IELTS Liz（全科综合） https://t.co/F8EEIgUyVC",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/HEQwQ3FaoAA3sey.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 1412,
+      "retweets": 437,
+      "replies": 7,
+      "quotes": 7,
+      "bookmarks": 1056,
+      "views": 59934
+    },
+    "created_at": "Wed Mar 25 14:02:48 +0000 2026",
+    "ordinal": 82
+  },
+  {
+    "bookmark_id": "2040333887453487534",
+    "status_id": "2040333887453487534",
+    "status_url": "https://x.com/0x0Frank/status/2040333887453487534",
+    "author_name": "Frank 丨冰糖橙聚合",
+    "handle": "0x0Frank",
+    "text": "如果你想了解交易的本质与人性的弱点，请看《股票大作手回忆录》\n\n如果你想达到最佳的执行状态并建立概率思维，请看《交易心理分析》\n\n如果你想掌握如何建立一套完整的交易系统与严密的仓位管理，请看《海龟交易法则》\n\n如果你想把交易灵感转化为自动执行的代码与客观模型，请看《量化交易：如何建立自己的算法交易事业》\n\n如果你想建立资金管理、风险控制与市场哲学的立体框架，请看《以交易为生》\n\n如果你想为长期的核心底仓寻找稳健的锚点与安全边际，请看《聪明的投资者》\n\n如果你想抛弃对行情的预测，单纯依靠价格行为去捕捉大级别利润，请看《趋势跟踪》\n\n如果你想探索宏观预期与价格之间相互强化的互动关系，请看《金融炼金术》\n\n如果你想学习技术分析的基础与图表背后的多空情绪博弈，请看《日本蜡烛图技术》\n\n如果你想学会敬畏市场并应对不可预知的极端风险，请看《黑天鹅》\n                                                    ——Frank荐书频道",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 231,
+      "retweets": 59,
+      "replies": 6,
+      "quotes": 2,
+      "bookmarks": 253,
+      "views": 13613
+    },
+    "created_at": "Sat Apr 04 07:41:20 +0000 2026",
+    "ordinal": 83
+  },
+  {
+    "bookmark_id": "2042413337292787871",
+    "status_id": "2042413337292787871",
+    "status_url": "https://x.com/ReyJudgementOS/status/2042413337292787871",
+    "author_name": "Rey｜判断位 x 英语自由",
+    "handle": "ReyJudgementOS",
+    "text": "AI时代是通才的天下——判断结构在不同领域的可迁移性\n判断力+创造力\n成为通才最快的方式之一是研究史上最伟大的通才\n人物传记：《达芬奇传》、《费曼传》、《乔布斯传》\n\n提醒一下，要想像博学家一样思考，首先必须研究历史上伟大的博学家。史蒂夫·乔布斯研究过埃德温·兰德，埃德温·兰德研究过列奥纳多·达·芬奇，列奥纳多·达·芬奇研究过欧几里得，以此类推。所有伟大的博学家都是站在巨人的肩膀上。\n强烈推荐《达芬奇传》——AI时代的青少年成长指南\n私生子无法上学而自学成为顶级大师/OPC(一人公司)，\n不仅仅成为史上最伟大的画家，\n更是举世罕见的科学家(提前400年提出直升机设计等)，\n真正让我敬佩不已的其实是其判断力：\n在乱世之中取得高上限成就，\n同时数次提前规避了归零风险。\nP.S.：Walter Isaacson的所有传记都是顶级判断源\n(《马斯克传》略有不及)",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/HFgaZdTaIAApupn.png"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 76,
+      "retweets": 22,
+      "replies": 4,
+      "quotes": 1,
+      "bookmarks": 103,
+      "views": 15558
+    },
+    "created_at": "Fri Apr 10 01:24:20 +0000 2026",
+    "ordinal": 84
+  },
+  {
+    "bookmark_id": "2042141404965519394",
+    "status_id": "2042141404965519394",
+    "status_url": "https://x.com/mubeitech/status/2042141404965519394",
+    "author_name": "墓碑科技",
+    "handle": "mubeitech",
+    "text": "AI时代的第一生存法则是什么？\n别急着找工作。\n也别光想着怎么靠AI走捷径。\n\n去顺着好奇心干点疯狂的事。\n把八竿子打不着的经历全串起来。\n人在地产界，照样去写诗。\n干着金融，周末去练柔术。\n天天对着屏幕写代码，就出去暴晒补点维生素D。\n\n有人年轻时痴迷书法。\n又迷恋斯堪的纳维亚家具。\n还喜欢折腾复杂的代码。\n最后把这些全揉进一台极简的电脑里。\n这人叫史蒂夫·乔布斯。\n\n创造力从来不长在平庸里。\n多想一想结局，人终究会死。\n既然星辰注定陨落，现在就去尽情燃烧。",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/2042141356773003264/pu/img/bFaymeZGuMYCHc2a.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 179,
+      "retweets": 22,
+      "replies": 7,
+      "quotes": 2,
+      "bookmarks": 137,
+      "views": 12979
+    },
+    "created_at": "Thu Apr 09 07:23:46 +0000 2026",
+    "ordinal": 85
+  },
+  {
+    "bookmark_id": "2042269381938319835",
+    "status_id": "2042269381938319835",
+    "status_url": "https://x.com/WSInsights/status/2042269381938319835",
+    "author_name": "华尔街财经 | WSInsights 【Zenzhe 】",
+    "handle": "WSInsights",
+    "text": "哈佛大学经典公开课：\n1小时带你看懂金融与投资\n【最新中英文版本】 https://t.co/zbkPJbAYtM",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2042247474228695040/img/3iI_WLw_zVTq3tj_.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 306,
+      "retweets": 96,
+      "replies": 2,
+      "quotes": 1,
+      "bookmarks": 196,
+      "views": 16538
+    },
+    "created_at": "Thu Apr 09 15:52:18 +0000 2026",
+    "ordinal": 86
+  },
+  {
+    "bookmark_id": "2042066220812529913",
+    "status_id": "2042066220812529913",
+    "status_url": "https://x.com/baozong_facai/status/2042066220812529913",
+    "author_name": "宝总的财富指南",
+    "handle": "baozong_facai",
+    "text": "如果你的家人从来没教过你金钱这件事，\n\n那就从这个四月开始，先把这 30 件事做起来：",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 141,
+      "retweets": 12,
+      "replies": 2,
+      "quotes": 0,
+      "bookmarks": 163,
+      "views": 52638
+    },
+    "created_at": "Thu Apr 09 02:25:01 +0000 2026",
+    "ordinal": 87
+  },
+  {
+    "bookmark_id": "2042216207961493700",
+    "status_id": "2042216207961493700",
+    "status_url": "https://x.com/PMbackttfuture/status/2042216207961493700",
+    "author_name": "AI产品黄叔",
+    "handle": "PMbackttfuture",
+    "text": "Claude Code 最被低估的用法：给自己造一个私董会\n\n最近大家各种蒸馏\n那敢情好\n直接把蒸馏的Skill拿来做个整合\n\n没想到效果出奇的好！ https://t.co/fC3xQTaVqp",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2042215706716999680/img/diJOtILmdScjg6rZ.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 206,
+      "retweets": 33,
+      "replies": 6,
+      "quotes": 1,
+      "bookmarks": 235,
+      "views": 18847
+    },
+    "created_at": "Thu Apr 09 12:21:01 +0000 2026",
+    "ordinal": 88
+  },
+  {
+    "bookmark_id": "2042091141328466156",
+    "status_id": "2042091141328466156",
+    "status_url": "https://x.com/Crypto_QianXun/status/2042091141328466156",
+    "author_name": "千寻 🌸",
+    "handle": "Crypto_QianXun",
+    "text": "如何使用 Gemma 4 完全免费运行 Claude Code（初学者指南）：\n\n本指南将向您展示如何使用 Gemma 4 完全免费运行 Claude Code，无需订阅 & 无需 API 密钥。\n\n只需您的笔记本电脑 + 15 分钟设置。\n\n这让您可以在本地运行开源模型（例如谷歌的 Gemma），这意味着：\n\n— 无成本\n— 完全隐私\n\n开始前，您需要确保拥有：\nVS Code 已安装\n\n— Node.js（版本 18 或更高）\n— 稳定互联网（用于一次性模型下载）\n\n_____________\n\n步骤 1：安装 Ollama（引擎）\n\nOllama 是用于在您的机器上本地运行 AI 模型的工具。\n\n→ Mac：\n访问 https://t.co/HWRUkQHFMd\n\n点击 Mac 下载，打开文件并像安装普通应用一样安装。无需终端。\n\n→ Windows：\n访问 https://t.co/HWRUkQHFMd，点击下载并安装\n\n→ Linux：\ncurl -fsSL https://t.co/fHctH5CKFq | sh\n\n检查是否成功：\nollama --version\n\n_____________\n\n步骤 2：下载 Gemma 4\n\n这是您将在本地运行的 AI 模型，根据您的系统选择：\n\n→ 低端（8GB RAM）：\nollama pull gemma4:e2b \n\n→ 推荐（16GB RAM）：\nollama pull gemma4:e4b\n\n→ 高端（32GB RAM）：\nollama pull gemma4:26b\n\n⚠️ 下载文件很大（7GB–18GB），所以请耐心等待。\n\n下载完成后，使用命令验证：\nollama list\n\n_____________\n\n步骤 3：在 VS Code 或其他 IDE 中安装 Claude Code\n\n这是您的界面。\n— 打开 VS Code\n— 按 Ctrl + Shift + X\n— 搜索 Claude Code\n\n安装 Anthropic 提供的版本\n安装后 → 您将在侧边栏看到 ⚡ 图标\n\n_____________\n\n步骤 4：将 Claude Code 连接到 Ollama\n\n默认情况下，Claude 连接到云端。我们将其重定向到您的本地机器。\n\n所以请执行以下操作：\n— 按 Ctrl + Shift + P\n— 搜索：打开用户设置 (JSON)\n— 然后在其中粘贴以下内容：\n\n\"claude-code.env\": {\n  \"ANTHROPIC_BASE_URL\": \"http://localhost:11434\",\n  \"ANTHROPIC_API_KEY\": \"\",\n  \"ANTHROPIC_AUTH_TOKEN\": \"ollama\"\n}\n\n这将做什么：\n— 它将所有流量路由到您的本地 Ollama 服务器。\n— 没有任何数据离开您的设备。\n\n_____________\n\n步骤 5：运行一切\n\n1. 使用此命令启动 Ollama：\nollama serve\n让它保持运行。\n\n2. 在 VS Code 中打开 Claude Code\n点击 ⚡ 图标\n\n3. 选择您的模型\n\n输入：\ngemma4:e4b\n（或您下载的任何版本）\n\n完成了\n\n_____________\n\n您现在拥有：\n\n— Claude Code 正在运行\n— 由 Gemma 4 提供动力\n— 完全本地\n\n完全免费\n试试：\n\n“解释这个文件”\n\n“编写一个函数”\n“重构这段代码”\n\n_____________\n\n常见问题（快速修复）\n\n“无法连接”\n运行：\nollama serve\n要求登录\n您的 JSON 配置有误\n检查缺失的逗号/括号\n响应非常慢\n\n您的模型太大\n\n切换到：\ngemma4:e2b\n\n模型未找到\n\n运行：\n\nollama list\n\n复制确切名称\n快速回顾\n您刚刚构建了：\n\n一个免费的 Claude 设置\n\n由本地 AI 提供动力\n\n无 API 成本",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/HFb3EDJbQAAmlSm.png",
+      "https://pbs.twimg.com/media/HFb3EKea8AEsp0i.png"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 662,
+      "retweets": 177,
+      "replies": 18,
+      "quotes": 0,
+      "bookmarks": 830,
+      "views": 48435
+    },
+    "created_at": "Thu Apr 09 04:04:02 +0000 2026",
+    "ordinal": 89
+  },
+  {
+    "bookmark_id": "2041920675875860944",
+    "status_id": "2041920675875860944",
+    "status_url": "https://x.com/berryxia/status/2041920675875860944",
+    "author_name": "Berryxia.AI",
+    "handle": "berryxia",
+    "text": "Google 又把 AI 科研写论文这件事重新定义！\n\n全新多智能体系统 PaperOrchestra：\n\n✅ 把原始想法、实验日志、笔记直接变成投稿级 LaTeX 论文  \n✅ 专门的 Literature Agent 做深度文献综述  \n✅ 自动生成概念图、实验图表  \n✅ 迭代打磨到能直接投顶会  \n\n还开源了 PaperWritingBench 基准（从 200 篇顶会论文逆向工程来的）  \n\n人类盲测里，文献综述质量胜率 50-68%，整体论文质量胜率 14-38%！太离谱了🤯",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/media/HFZb-fea8AAJV1t.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 519,
+      "retweets": 133,
+      "replies": 6,
+      "quotes": 1,
+      "bookmarks": 542,
+      "views": 58767
+    },
+    "created_at": "Wed Apr 08 16:46:40 +0000 2026",
+    "ordinal": 90
+  },
+  {
+    "bookmark_id": "2041594954301239522",
+    "status_id": "2041594954301239522",
+    "status_url": "https://x.com/AYi_AInotes/status/2041594954301239522",
+    "author_name": "阿绎 AYi",
+    "handle": "AYi_AInotes",
+    "text": "这才是找工作的最高境界啊，\n\n老哥为了自己找工作写的求职神器，\n\n开源两天 github 直接干到 12K 星，\n\n顺便给全行业送了个大福利，respect bro🫡🫡🫡 https://t.co/fMa1oBVynf",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041403262293991424/img/dzgz9IsJSS3p0Gh6.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 1065,
+      "retweets": 158,
+      "replies": 19,
+      "quotes": 3,
+      "bookmarks": 1447,
+      "views": 160755
+    },
+    "created_at": "Tue Apr 07 19:12:22 +0000 2026",
+    "ordinal": 91
+  },
+  {
+    "bookmark_id": "2042117215424803043",
+    "status_id": "2042117215424803043",
+    "status_url": "https://x.com/VincentLogic/status/2042117215424803043",
+    "author_name": "Vincent Logic | 只上干货",
+    "handle": "VincentLogic",
+    "text": "一条视频告诉你零经验大学生如何找到第一份实习工作！ https://t.co/TRpT14kE1Y",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2042114768157179904/img/JwLfB77-yAQXBIQY.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 113,
+      "retweets": 12,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 36,
+      "views": 6095
+    },
+    "created_at": "Thu Apr 09 05:47:39 +0000 2026",
+    "ordinal": 92
+  },
+  {
+    "bookmark_id": "2041859216088932672",
+    "status_id": "2041859216088932672",
+    "status_url": "https://x.com/WSInsights/status/2041859216088932672",
+    "author_name": "华尔街财经 | WSInsights 【Zenzhe 】",
+    "handle": "WSInsights",
+    "text": "桥水创始人达利欧：\n从破产到亿万富翁我靠的是这句话\n值得好好看看的视频👍🏼 https://t.co/9yF9hHfHKu",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041858835967864832/img/ftQeMdqpCZL8At8g.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 473,
+      "retweets": 111,
+      "replies": 3,
+      "quotes": 2,
+      "bookmarks": 295,
+      "views": 27212
+    },
+    "created_at": "Wed Apr 08 12:42:27 +0000 2026",
+    "ordinal": 93
+  },
+  {
+    "bookmark_id": "2041771065136050437",
+    "status_id": "2041771065136050437",
+    "status_url": "https://x.com/VincentLogic/status/2041771065136050437",
+    "author_name": "Vincent Logic | 只上干货",
+    "handle": "VincentLogic",
+    "text": "小而怪的生意，会悄悄诞生下一批富人！ https://t.co/EBksa4P8JB",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041770000122572801/img/F-jnZR4sPskNXx9M.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 422,
+      "retweets": 64,
+      "replies": 3,
+      "quotes": 1,
+      "bookmarks": 274,
+      "views": 25632
+    },
+    "created_at": "Wed Apr 08 06:52:10 +0000 2026",
+    "ordinal": 94
+  },
+  {
+    "bookmark_id": "2041465945848533435",
+    "status_id": "2041465945848533435",
+    "status_url": "https://x.com/VincentLogic/status/2041465945848533435",
+    "author_name": "Vincent Logic | 只上干货",
+    "handle": "VincentLogic",
+    "text": "普通人如何在TikTok跨境电商闷声发财，以下视频是TikTok跨境电商全链路流程。建议收藏！ https://t.co/kkZyRsk2eU",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041464106264494080/img/ScfOJYvMVUcX-UWX.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 1266,
+      "retweets": 358,
+      "replies": 33,
+      "quotes": 2,
+      "bookmarks": 746,
+      "views": 69890
+    },
+    "created_at": "Tue Apr 07 10:39:44 +0000 2026",
+    "ordinal": 95
+  },
+  {
+    "bookmark_id": "2041433586805641298",
+    "status_id": "2041433586805641298",
+    "status_url": "https://x.com/VincentLogic/status/2041433586805641298",
+    "author_name": "Vincent Logic | 只上干货",
+    "handle": "VincentLogic",
+    "text": "小镇女孩跨境卖饰品，一年卖出1个亿！ https://t.co/qy9QV8PsOE",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041432967881596928/img/Pd1ZRcW0hGOTebG5.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 1164,
+      "retweets": 139,
+      "replies": 84,
+      "quotes": 1,
+      "bookmarks": 760,
+      "views": 287433
+    },
+    "created_at": "Tue Apr 07 08:31:09 +0000 2026",
+    "ordinal": 96
+  },
+  {
+    "bookmark_id": "2041679856417558965",
+    "status_id": "2041679856417558965",
+    "status_url": "https://x.com/WSInsights/status/2041679856417558965",
+    "author_name": "华尔街财经 | WSInsights 【Zenzhe 】",
+    "handle": "WSInsights",
+    "text": "2013 年，纳西姆·塔勒布在斯坦福大学举办了一场 53 分钟的大师班，讲解为什么混乱会让一些企业变得更强大。\n\n他的想法：\n- 经历了400万次点击后依然屹立不倒的咖啡杯\n为什么直升机工程师要亲自驾驶他们的飞机\n这是一个无人知晓总统的国家\n\n关于风险的12个教训 https://t.co/UxVVqViQ9X",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041672225476984832/img/Y_2EZ-MQ5JfmA0St.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 118,
+      "retweets": 35,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 96,
+      "views": 7409
+    },
+    "created_at": "Wed Apr 08 00:49:45 +0000 2026",
+    "ordinal": 97
+  },
+  {
+    "bookmark_id": "2041714342328979856",
+    "status_id": "2041714342328979856",
+    "status_url": "https://x.com/iPaulCanada/status/2041714342328979856",
+    "author_name": "iPaul",
+    "handle": "iPaulCanada",
+    "text": "18分钟搞懂金融体系：从央行到对冲基金的运作全貌。 https://t.co/nf9KOCTICT",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041713981375545344/img/dSWgd8hL22qXIUu-.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 371,
+      "retweets": 98,
+      "replies": 2,
+      "quotes": 0,
+      "bookmarks": 205,
+      "views": 26800
+    },
+    "created_at": "Wed Apr 08 03:06:47 +0000 2026",
+    "ordinal": 98
+  },
+  {
+    "bookmark_id": "2041500926867812672",
+    "status_id": "2041500926867812672",
+    "status_url": "https://x.com/Huanusa/status/2041500926867812672",
+    "author_name": "Huan",
+    "handle": "Huanusa",
+    "text": "🚨 终于找到能把口语练到真正的“天花板”课程！\n\nX昨日爆火：《如何说一口流利口语的完整课程》\n被无数外语学习者封为**口语课程天花板！\n建议收藏观看👇 https://t.co/2T6rhjeocJ",
+    "language": "zh",
+    "hashtags": [],
+    "urls": [],
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2041498074644881408/img/yeo0ep8Do6rpH_hF.jpg"
+    ],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 3643,
+      "retweets": 1002,
+      "replies": 61,
+      "quotes": 11,
+      "bookmarks": 3612,
+      "views": 242133
+    },
+    "created_at": "Tue Apr 07 12:58:44 +0000 2026",
+    "ordinal": 99
+  },
+  {
+    "bookmark_id": "2041141977081929909",
+    "status_id": "2041141977081929909",
+    "status_url": "https://x.com/dxs1783/status/2041141977081929909",
+    "author_name": "分享使者❤️",
+    "handle": "dxs1783",
+    "text": "https://t.co/5dJA3Z0Deo",
+    "language": "zxx",
+    "hashtags": [],
+    "urls": [
+      "http://x.com/i/article/2040326973944426496"
+    ],
+    "media": [],
+    "quoted_status_urls": [],
+    "is_reply": false,
+    "metrics": {
+      "likes": 191,
+      "retweets": 34,
+      "replies": 11,
+      "quotes": 0,
+      "bookmarks": 400,
+      "views": 105069
+    },
+    "created_at": "Mon Apr 06 13:12:24 +0000 2026",
+    "ordinal": 100
+  }
+]

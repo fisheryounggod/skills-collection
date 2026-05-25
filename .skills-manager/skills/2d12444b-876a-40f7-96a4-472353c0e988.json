@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2d12444b-876a-40f7-96a4-472353c0e988",
+  "path": "taleb-perspective",
+  "path_key": "taleb-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

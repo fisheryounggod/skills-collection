@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a26e87dc-f1f8-4faf-92b4-a3a36f24399f",
+  "path": "subscription-management",
+  "path_key": "subscription-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

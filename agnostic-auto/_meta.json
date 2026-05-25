@@ -1,0 +1,14 @@
+{
+  "name": "agnostic-auto",
+  "displayName": "诊断系统",
+  "version": "1.0.0",
+  "author": "OpenClaw",
+  "description": "自动化信息分诊工作流。6步流程：接收→分析→报告→确认→存储→完成。支持文字/图片输入，8个分类方向，人工确认后才写入文件系统。",
+  "category": "知识管理",
+  "tags": ["分诊", "信息管理", "自动化", "工作流"],
+  "dependencies": {
+    "env": ["IMA_OPENAPI_CLIENTID", "IMA_OPENAPI_APIKEY"],
+    "optional": ["GOOGLE_API_KEY"]
+  },
+  "homepage": "https://github.com/lijigang/ljg-skills"
+}

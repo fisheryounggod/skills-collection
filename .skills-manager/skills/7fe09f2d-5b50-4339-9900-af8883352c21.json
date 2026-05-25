@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7fe09f2d-5b50-4339-9900-af8883352c21",
+  "path": "ljg-roundtable",
+  "path_key": "ljg-roundtable",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

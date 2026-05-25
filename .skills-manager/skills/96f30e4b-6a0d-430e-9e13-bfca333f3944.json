@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "96f30e4b-6a0d-430e-9e13-bfca333f3944",
+  "path": "listenhub",
+  "path_key": "listenhub",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

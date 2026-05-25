@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c21d367c-68bd-4135-9593-9b19a35b758c",
+  "path": "us-market-sentiment",
+  "path_key": "us-market-sentiment",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

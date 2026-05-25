@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "794351b7-02e3-423e-90f2-1428d9a10701",
+  "path": "ai-agent-builder",
+  "path_key": "ai-agent-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

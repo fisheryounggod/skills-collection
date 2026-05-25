@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9b696efa-b6c3-4195-9e87-878e4d363b07",
+  "path": "overseas-ecommerce-english-plan",
+  "path_key": "overseas-ecommerce-english-plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

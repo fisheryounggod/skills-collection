@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0557c353-8d0b-4015-8a40-5aa906a790a1",
+  "path": "mcp-server-patterns",
+  "path_key": "mcp-server-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

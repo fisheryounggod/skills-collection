@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "17e4e7f3-963a-4926-9ead-9233126f6989",
+  "path": "Deep Research",
+  "path_key": "deep research",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

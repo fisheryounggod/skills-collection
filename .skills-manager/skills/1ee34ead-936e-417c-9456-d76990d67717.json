@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1ee34ead-936e-417c-9456-d76990d67717",
+  "path": "ads-copywriter",
+  "path_key": "ads-copywriter",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

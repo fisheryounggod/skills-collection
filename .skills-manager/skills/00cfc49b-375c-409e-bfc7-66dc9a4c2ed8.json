@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "00cfc49b-375c-409e-bfc7-66dc9a4c2ed8",
+  "path": "feishu-config-status",
+  "path_key": "feishu-config-status",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

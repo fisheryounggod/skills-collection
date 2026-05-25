@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6d0f4bdf-a3f1-4c02-a41e-34cf5f53237b",
+  "path": "ddgs-search",
+  "path_key": "ddgs-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

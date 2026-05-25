@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0b25dfeb-b039-488c-8ca1-dcb16ab463fe",
+  "path": "language-learning",
+  "path_key": "language-learning",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

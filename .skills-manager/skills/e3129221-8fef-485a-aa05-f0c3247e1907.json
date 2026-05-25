@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e3129221-8fef-485a-aa05-f0c3247e1907",
+  "path": "academic-paper-reviewer",
+  "path_key": "academic-paper-reviewer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

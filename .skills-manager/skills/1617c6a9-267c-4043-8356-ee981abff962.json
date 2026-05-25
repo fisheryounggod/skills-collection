@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1617c6a9-267c-4043-8356-ee981abff962",
+  "path": "ljg-word-flow",
+  "path_key": "ljg-word-flow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

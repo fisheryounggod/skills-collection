@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b55d0cd5-4493-4ab8-9566-e79d45c5fb7b",
+  "path": "data-pipeline",
+  "path_key": "data-pipeline",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

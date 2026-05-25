@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3018504b-dae7-49e3-a164-aedd4551cb17",
+  "path": "mcp-hub",
+  "path_key": "mcp-hub",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

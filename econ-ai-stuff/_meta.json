@@ -1,0 +1,10 @@
+{
+  "openclaw": {
+    "skillKey": "econ-ai-stuff",
+    "version": "1.0.0",
+    "minOpenClawVersion": "2026.2.26"
+  },
+  "name": "econ-ai-stuff",
+  "version": "1.0.0",
+  "description": "Resource index for Awesome Econ AI Stuff - curated collection of AI skills and tools for economists. Includes research workflow, data analysis, academic writing, and economic modeling tools. Perfect for econ research, data cleaning, literature review, model building, and academic writing."
+}
