@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "612c3997-1344-442e-87c2-49311c16cebb",
+  "path": "nemo-curator",
+  "path_key": "nemo-curator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

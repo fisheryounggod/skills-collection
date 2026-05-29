@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ee66236e-a2d2-4616-8d63-e79adf7074a2",
+  "path": "llava",
+  "path_key": "llava",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

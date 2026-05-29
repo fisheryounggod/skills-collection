@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3e1f9ee3-ac80-40fd-9394-64b7dc2aef8d",
+  "path": "ppw_translation",
+  "path_key": "ppw_translation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

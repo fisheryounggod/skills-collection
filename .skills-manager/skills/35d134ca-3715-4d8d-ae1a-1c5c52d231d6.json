@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "35d134ca-3715-4d8d-ae1a-1c5c52d231d6",
+  "path": "pathml",
+  "path_key": "pathml",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

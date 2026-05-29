@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "601f7c78-a87d-40db-808f-c0230748f26e",
+  "path": "creative-thinking-for-research",
+  "path_key": "creative-thinking-for-research",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

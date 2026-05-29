@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ce1a0e16-7c8d-4541-b7e1-3ad0cb7d0cf3",
+  "path": "evaluating-cosmos-policy",
+  "path_key": "evaluating-cosmos-policy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

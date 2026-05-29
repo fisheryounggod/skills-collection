@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c7007ce9-6982-4944-892c-c8b147b50fae",
+  "path": "ppw_reviewer-simulation",
+  "path_key": "ppw_reviewer-simulation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

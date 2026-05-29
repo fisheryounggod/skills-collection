@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5f5ee210-984e-47d9-a2e1-1bb0eb84b6b3",
+  "path": "optimize-for-gpu",
+  "path_key": "optimize-for-gpu",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

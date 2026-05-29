@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6e22a997-9b15-4350-acab-aa17b8d53586",
+  "path": "zarr-python",
+  "path_key": "zarr-python",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

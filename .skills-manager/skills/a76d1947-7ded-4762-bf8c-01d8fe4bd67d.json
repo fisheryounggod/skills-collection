@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a76d1947-7ded-4762-bf8c-01d8fe4bd67d",
+  "path": "pymc",
+  "path_key": "pymc",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

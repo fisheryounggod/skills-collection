@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f85b39ea-1e77-4d80-a039-5727f5556b8e",
+  "path": "pennylane",
+  "path_key": "pennylane",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

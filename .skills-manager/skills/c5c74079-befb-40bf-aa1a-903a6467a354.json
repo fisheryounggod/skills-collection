@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c5c74079-befb-40bf-aa1a-903a6467a354",
+  "path": "latex-posters",
+  "path_key": "latex-posters",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

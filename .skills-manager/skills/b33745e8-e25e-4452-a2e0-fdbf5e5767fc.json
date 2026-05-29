@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b33745e8-e25e-4452-a2e0-fdbf5e5767fc",
+  "path": "pinecone",
+  "path_key": "pinecone",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

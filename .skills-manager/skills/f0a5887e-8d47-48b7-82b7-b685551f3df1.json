@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f0a5887e-8d47-48b7-82b7-b685551f3df1",
+  "path": "polars-bio",
+  "path_key": "polars-bio",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

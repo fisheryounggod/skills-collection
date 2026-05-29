@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "46f2f078-cb1f-4dc2-bd6e-93b996e49729",
+  "path": "verl-rl-training",
+  "path_key": "verl-rl-training",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

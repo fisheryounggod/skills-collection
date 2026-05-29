@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "628a70b7-d106-4588-bb5d-00124325986e",
+  "path": "pytorch-lightning-2",
+  "path_key": "pytorch-lightning-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

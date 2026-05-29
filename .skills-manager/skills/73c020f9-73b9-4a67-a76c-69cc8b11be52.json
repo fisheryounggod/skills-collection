@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "73c020f9-73b9-4a67-a76c-69cc8b11be52",
+  "path": "nemo-guardrails",
+  "path_key": "nemo-guardrails",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

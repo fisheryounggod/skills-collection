@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5c2cdd30-8939-4002-8842-aeab94ceb23b",
+  "path": "transformer-lens-interpretability",
+  "path_key": "transformer-lens-interpretability",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

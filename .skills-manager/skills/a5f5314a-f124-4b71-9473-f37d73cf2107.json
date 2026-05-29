@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a5f5314a-f124-4b71-9473-f37d73cf2107",
+  "path": "anndata",
+  "path_key": "anndata",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

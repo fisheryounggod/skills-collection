@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0791533d-2300-472f-a020-0a02df347281",
+  "path": "shap",
+  "path_key": "shap",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

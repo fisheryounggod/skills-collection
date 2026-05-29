@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eb3b0cb3-7d41-4dae-9085-d48cca52cc1e",
+  "path": "weights-and-biases-2",
+  "path_key": "weights-and-biases-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

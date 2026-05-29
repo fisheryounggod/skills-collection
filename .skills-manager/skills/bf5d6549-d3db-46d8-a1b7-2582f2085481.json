@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bf5d6549-d3db-46d8-a1b7-2582f2085481",
+  "path": "fluidsim",
+  "path_key": "fluidsim",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

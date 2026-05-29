@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2a699bbb-ac5e-4d91-92c0-0172074c85d2",
+  "path": "astropy",
+  "path_key": "astropy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

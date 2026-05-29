@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0618c025-34ef-46f2-9854-a798eafb62ca",
+  "path": "rwkv-architecture",
+  "path_key": "rwkv-architecture",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

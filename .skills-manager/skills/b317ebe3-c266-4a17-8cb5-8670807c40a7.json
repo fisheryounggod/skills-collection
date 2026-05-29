@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b317ebe3-c266-4a17-8cb5-8670807c40a7",
+  "path": "modal-serverless-gpu",
+  "path_key": "modal-serverless-gpu",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

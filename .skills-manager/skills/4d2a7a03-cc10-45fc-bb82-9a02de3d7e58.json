@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4d2a7a03-cc10-45fc-bb82-9a02de3d7e58",
+  "path": "sparse-autoencoder-training",
+  "path_key": "sparse-autoencoder-training",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

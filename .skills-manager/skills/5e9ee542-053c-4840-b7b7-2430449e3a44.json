@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5e9ee542-053c-4840-b7b7-2430449e3a44",
+  "path": "dbs-ai-check",
+  "path_key": "dbs-ai-check",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

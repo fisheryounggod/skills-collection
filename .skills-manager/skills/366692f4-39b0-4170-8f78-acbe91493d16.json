@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "366692f4-39b0-4170-8f78-acbe91493d16",
+  "path": "pytdc",
+  "path_key": "pytdc",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

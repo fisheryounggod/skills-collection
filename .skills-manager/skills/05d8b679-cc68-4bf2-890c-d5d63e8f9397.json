@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "05d8b679-cc68-4bf2-890c-d5d63e8f9397",
+  "path": "pydicom",
+  "path_key": "pydicom",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

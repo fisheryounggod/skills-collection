@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "334f76ba-1a52-40b4-ac6c-e2749bfac7c5",
+  "path": "using-superpowers",
+  "path_key": "using-superpowers",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

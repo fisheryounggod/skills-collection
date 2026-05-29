@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9b3bb76f-1b88-4079-b5c0-258bc669f725",
+  "path": "mlflow",
+  "path_key": "mlflow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

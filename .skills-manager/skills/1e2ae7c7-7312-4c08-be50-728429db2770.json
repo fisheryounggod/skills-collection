@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1e2ae7c7-7312-4c08-be50-728429db2770",
+  "path": "torchdrug",
+  "path_key": "torchdrug",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

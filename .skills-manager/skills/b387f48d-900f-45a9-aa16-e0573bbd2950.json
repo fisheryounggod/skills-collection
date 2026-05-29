@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b387f48d-900f-45a9-aa16-e0573bbd2950",
+  "path": "openrlhf-training",
+  "path_key": "openrlhf-training",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

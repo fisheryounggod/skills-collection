@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c6a16b53-1ffd-484e-bbed-5bac8245f63c",
+  "path": "pytorch-fsdp2",
+  "path_key": "pytorch-fsdp2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

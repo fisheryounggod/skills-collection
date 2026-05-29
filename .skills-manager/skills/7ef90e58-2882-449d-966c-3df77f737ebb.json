@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7ef90e58-2882-449d-966c-3df77f737ebb",
+  "path": "umap-learn",
+  "path_key": "umap-learn",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

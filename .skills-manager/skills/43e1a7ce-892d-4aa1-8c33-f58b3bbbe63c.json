@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "43e1a7ce-892d-4aa1-8c33-f58b3bbbe63c",
+  "path": "scvelo",
+  "path_key": "scvelo",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

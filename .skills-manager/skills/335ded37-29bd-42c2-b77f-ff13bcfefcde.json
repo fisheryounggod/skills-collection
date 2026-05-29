@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "335ded37-29bd-42c2-b77f-ff13bcfefcde",
+  "path": "ppw_literature",
+  "path_key": "ppw_literature",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d67626b6-f90c-4e2e-af96-fca726b9f1eb",
+  "path": "simpo-training",
+  "path_key": "simpo-training",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

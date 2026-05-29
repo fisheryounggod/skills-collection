@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e3664432-ed2c-4fbf-bb84-9bf9d413e833",
+  "path": "faiss",
+  "path_key": "faiss",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

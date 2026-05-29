@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "96e79333-68b1-4c9f-bce9-1cc58a391a2b",
+  "path": "polars",
+  "path_key": "polars",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

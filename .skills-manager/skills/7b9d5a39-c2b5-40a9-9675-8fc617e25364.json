@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7b9d5a39-c2b5-40a9-9675-8fc617e25364",
+  "path": "pylabrobot",
+  "path_key": "pylabrobot",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

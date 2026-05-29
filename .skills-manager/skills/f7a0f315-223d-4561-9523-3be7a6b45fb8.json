@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f7a0f315-223d-4561-9523-3be7a6b45fb8",
+  "path": "dbs-deconstruct",
+  "path_key": "dbs-deconstruct",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2b0cbe86-1910-4a55-9ab4-51825f23b8ab",
+  "path": "matplotlib",
+  "path_key": "matplotlib",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

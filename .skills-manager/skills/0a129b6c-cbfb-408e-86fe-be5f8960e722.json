@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0a129b6c-cbfb-408e-86fe-be5f8960e722",
+  "path": "clinical-reports",
+  "path_key": "clinical-reports",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

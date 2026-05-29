@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a591e3f0-cc25-4f4d-9eb5-f910adbd6bbf",
+  "path": "ray-train",
+  "path_key": "ray-train",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

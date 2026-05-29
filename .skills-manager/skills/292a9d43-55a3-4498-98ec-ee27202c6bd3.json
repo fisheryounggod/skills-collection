@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "292a9d43-55a3-4498-98ec-ee27202c6bd3",
+  "path": "market-research-reports",
+  "path_key": "market-research-reports",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

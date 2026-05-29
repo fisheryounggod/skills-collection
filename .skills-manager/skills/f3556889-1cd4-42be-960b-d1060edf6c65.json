@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f3556889-1cd4-42be-960b-d1060edf6c65",
+  "path": "diffdock",
+  "path_key": "diffdock",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

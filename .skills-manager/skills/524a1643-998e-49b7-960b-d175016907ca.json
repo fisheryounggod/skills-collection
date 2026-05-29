@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "524a1643-998e-49b7-960b-d175016907ca",
+  "path": "clinical-decision-support",
+  "path_key": "clinical-decision-support",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

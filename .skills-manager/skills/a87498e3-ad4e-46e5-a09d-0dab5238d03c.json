@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a87498e3-ad4e-46e5-a09d-0dab5238d03c",
+  "path": "geopandas",
+  "path_key": "geopandas",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8e3884a7-81cb-45cc-97e6-75f92ae661cd",
+  "path": "nanogpt",
+  "path_key": "nanogpt",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

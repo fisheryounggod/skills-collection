@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e5fb4791-8158-4d14-a33d-502be756aa74",
+  "path": "dbs-action",
+  "path_key": "dbs-action",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

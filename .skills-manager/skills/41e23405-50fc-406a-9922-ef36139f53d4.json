@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "41e23405-50fc-406a-9922-ef36139f53d4",
+  "path": "get-paper",
+  "path_key": "get-paper",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

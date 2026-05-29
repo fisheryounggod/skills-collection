@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b8937636-63a1-4aa2-ac35-24e374e4895a",
+  "path": "langsmith-observability",
+  "path_key": "langsmith-observability",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

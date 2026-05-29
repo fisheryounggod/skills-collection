@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "84b9ec92-a757-4ef3-a043-0825bf0eb9ef",
+  "path": "hypogenic",
+  "path_key": "hypogenic",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

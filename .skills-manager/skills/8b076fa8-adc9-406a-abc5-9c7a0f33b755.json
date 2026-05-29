@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8b076fa8-adc9-406a-abc5-9c7a0f33b755",
+  "path": "pymatgen",
+  "path_key": "pymatgen",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

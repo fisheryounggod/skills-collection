@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "498414c4-014d-40f3-8c2c-3161331b2147",
+  "path": "ppw_caption",
+  "path_key": "ppw_caption",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

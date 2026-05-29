@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c1fc7ac3-2323-4495-8e9c-f230074496dd",
+  "path": "pydeseq2",
+  "path_key": "pydeseq2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

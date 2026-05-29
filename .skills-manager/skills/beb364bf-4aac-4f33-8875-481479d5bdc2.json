@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "beb364bf-4aac-4f33-8875-481479d5bdc2",
+  "path": "medchem",
+  "path_key": "medchem",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

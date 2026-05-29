@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3333d15a-3119-44f8-ac2e-201af204987b",
+  "path": "qutip",
+  "path_key": "qutip",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d39039c6-f8b8-495d-bb0d-1a353c684e5e",
+  "path": "adaptyv",
+  "path_key": "adaptyv",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

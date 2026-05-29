@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "35ccab5e-a694-40aa-8c7d-e35f7461bd76",
+  "path": "blip-2-vision-language",
+  "path_key": "blip-2-vision-language",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

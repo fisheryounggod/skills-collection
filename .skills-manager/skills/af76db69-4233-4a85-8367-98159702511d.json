@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "af76db69-4233-4a85-8367-98159702511d",
+  "path": "pysam",
+  "path_key": "pysam",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

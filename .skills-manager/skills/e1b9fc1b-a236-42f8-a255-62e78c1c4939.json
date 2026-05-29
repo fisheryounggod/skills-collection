@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e1b9fc1b-a236-42f8-a255-62e78c1c4939",
+  "path": "qiskit",
+  "path_key": "qiskit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

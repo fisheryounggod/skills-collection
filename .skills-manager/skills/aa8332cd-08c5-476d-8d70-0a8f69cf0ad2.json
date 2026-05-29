@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aa8332cd-08c5-476d-8d70-0a8f69cf0ad2",
+  "path": "glycoengineering",
+  "path_key": "glycoengineering",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

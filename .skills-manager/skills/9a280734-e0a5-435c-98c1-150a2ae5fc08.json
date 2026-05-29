@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9a280734-e0a5-435c-98c1-150a2ae5fc08",
+  "path": "ppw_de-ai",
+  "path_key": "ppw_de-ai",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

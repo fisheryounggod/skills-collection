@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4d73d238-baf8-4040-921f-b0d014c4d67d",
+  "path": "protocolsio-integration",
+  "path_key": "protocolsio-integration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

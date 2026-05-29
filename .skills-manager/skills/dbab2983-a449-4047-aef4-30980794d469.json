@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dbab2983-a449-4047-aef4-30980794d469",
+  "path": "send-to-kindle-2",
+  "path_key": "send-to-kindle-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

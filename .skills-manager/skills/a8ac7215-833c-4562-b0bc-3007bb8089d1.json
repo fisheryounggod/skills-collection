@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a8ac7215-833c-4562-b0bc-3007bb8089d1",
+  "path": "phylogenetics",
+  "path_key": "phylogenetics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

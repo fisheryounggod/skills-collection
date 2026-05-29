@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4df37c84-0b74-4367-bf44-12a4740ba453",
+  "path": "ppw_repo-to-paper",
+  "path_key": "ppw_repo-to-paper",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

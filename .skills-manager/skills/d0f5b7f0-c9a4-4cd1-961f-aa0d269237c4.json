@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d0f5b7f0-c9a4-4cd1-961f-aa0d269237c4",
+  "path": "ppw_team",
+  "path_key": "ppw_team",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

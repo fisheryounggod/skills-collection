@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5acd70b9-2ce6-49d7-8c71-6d419913b5ff",
+  "path": "fine-tuning-openvla-oft",
+  "path_key": "fine-tuning-openvla-oft",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

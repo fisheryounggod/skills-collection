@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0886b20e-4030-479c-88b4-4b2bb5782445",
+  "path": "autogpt-agents",
+  "path_key": "autogpt-agents",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

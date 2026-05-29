@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3ecd64ae-3164-42e3-82b3-41963007ca02",
+  "path": "pufferlib",
+  "path_key": "pufferlib",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

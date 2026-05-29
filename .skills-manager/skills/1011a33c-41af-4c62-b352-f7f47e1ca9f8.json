@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1011a33c-41af-4c62-b352-f7f47e1ca9f8",
+  "path": "gguf-quantization",
+  "path_key": "gguf-quantization",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

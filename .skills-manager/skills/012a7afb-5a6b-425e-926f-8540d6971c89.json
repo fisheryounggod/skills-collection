@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "012a7afb-5a6b-425e-926f-8540d6971c89",
+  "path": "flowio",
+  "path_key": "flowio",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

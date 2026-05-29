@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "86196f21-0617-4e56-b62b-ec3dbdcd4827",
+  "path": "treatment-plans",
+  "path_key": "treatment-plans",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

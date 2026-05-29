@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2cdb6dc8-08c6-408d-89d0-d0fb8f800895",
+  "path": "chroma",
+  "path_key": "chroma",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

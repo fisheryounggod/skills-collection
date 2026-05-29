@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "92cef0c2-6078-4fd5-9609-283ed5b503d3",
+  "path": "phoenix-observability",
+  "path_key": "phoenix-observability",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

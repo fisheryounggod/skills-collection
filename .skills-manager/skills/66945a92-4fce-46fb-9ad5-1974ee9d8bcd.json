@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "66945a92-4fce-46fb-9ad5-1974ee9d8bcd",
+  "path": "pacsomatic",
+  "path_key": "pacsomatic",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

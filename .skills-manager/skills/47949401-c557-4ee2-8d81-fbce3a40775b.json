@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "47949401-c557-4ee2-8d81-fbce3a40775b",
+  "path": "iso-13485-certification",
+  "path_key": "iso-13485-certification",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

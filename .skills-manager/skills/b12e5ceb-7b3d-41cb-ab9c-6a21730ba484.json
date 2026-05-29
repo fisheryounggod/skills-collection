@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b12e5ceb-7b3d-41cb-ab9c-6a21730ba484",
+  "path": "what-if-oracle",
+  "path_key": "what-if-oracle",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

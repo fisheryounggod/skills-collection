@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "101b959d-45a4-4a3e-8092-b43e7eefd61d",
+  "path": "rdkit",
+  "path_key": "rdkit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

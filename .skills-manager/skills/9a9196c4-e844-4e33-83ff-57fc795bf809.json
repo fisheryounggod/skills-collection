@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9a9196c4-e844-4e33-83ff-57fc795bf809",
+  "path": "deepspeed",
+  "path_key": "deepspeed",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

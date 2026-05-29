@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a5d5e337-e7f6-4c1e-8ca8-4b88b9913382",
+  "path": "bioservices",
+  "path_key": "bioservices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

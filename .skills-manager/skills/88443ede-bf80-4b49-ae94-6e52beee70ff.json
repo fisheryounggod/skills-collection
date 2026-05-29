@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "88443ede-bf80-4b49-ae94-6e52beee70ff",
+  "path": "dbs-decision",
+  "path_key": "dbs-decision",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "77d1b5bf-3cf9-419b-93a2-c145d3358c09",
+  "path": "markitdown",
+  "path_key": "markitdown",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

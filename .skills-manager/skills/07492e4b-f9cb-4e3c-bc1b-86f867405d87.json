@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "07492e4b-f9cb-4e3c-bc1b-86f867405d87",
+  "path": "distributed-llm-pretraining-torchtitan",
+  "path_key": "distributed-llm-pretraining-torchtitan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

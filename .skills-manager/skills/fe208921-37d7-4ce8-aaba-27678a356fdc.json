@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fe208921-37d7-4ce8-aaba-27678a356fdc",
+  "path": "lamindb",
+  "path_key": "lamindb",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a7021ab5-f0db-49a2-b188-4300a812ebfd",
+  "path": "scientific-slides",
+  "path_key": "scientific-slides",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

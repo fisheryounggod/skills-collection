@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "35518edd-3491-45d3-b317-814d78b2918f",
+  "path": "geniml",
+  "path_key": "geniml",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

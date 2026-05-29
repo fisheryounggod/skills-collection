@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0d41ed97-698f-4dd6-a65d-6e321e94dd64",
+  "path": "lambda-labs-gpu-cloud",
+  "path_key": "lambda-labs-gpu-cloud",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

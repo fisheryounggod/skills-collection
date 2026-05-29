@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "39e695fa-4208-4773-95d5-4252070c8355",
+  "path": "kanban-codex-lane",
+  "path_key": "kanban-codex-lane",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

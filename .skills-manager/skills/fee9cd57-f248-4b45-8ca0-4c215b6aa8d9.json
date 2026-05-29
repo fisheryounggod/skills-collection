@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fee9cd57-f248-4b45-8ca0-4c215b6aa8d9",
+  "path": "pixel-art-2",
+  "path_key": "pixel-art-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

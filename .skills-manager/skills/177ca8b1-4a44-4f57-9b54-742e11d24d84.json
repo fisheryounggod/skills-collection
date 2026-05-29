@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "177ca8b1-4a44-4f57-9b54-742e11d24d84",
+  "path": "awq-quantization",
+  "path_key": "awq-quantization",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

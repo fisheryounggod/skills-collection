@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c95a4e0d-18f8-4fe9-a996-d4653275e183",
+  "path": "modal",
+  "path_key": "modal",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

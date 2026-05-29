@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "772f674e-4f2f-497f-b1aa-aba932774225",
+  "path": "whisper",
+  "path_key": "whisper",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

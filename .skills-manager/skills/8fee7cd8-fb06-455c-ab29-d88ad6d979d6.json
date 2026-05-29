@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8fee7cd8-fb06-455c-ab29-d88ad6d979d6",
+  "path": "open-notebook",
+  "path_key": "open-notebook",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

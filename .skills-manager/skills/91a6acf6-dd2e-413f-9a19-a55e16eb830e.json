@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "91a6acf6-dd2e-413f-9a19-a55e16eb830e",
+  "path": "paperzilla",
+  "path_key": "paperzilla",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

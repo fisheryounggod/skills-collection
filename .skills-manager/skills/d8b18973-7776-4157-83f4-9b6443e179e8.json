@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d8b18973-7776-4157-83f4-9b6443e179e8",
+  "path": "neuropixels-analysis",
+  "path_key": "neuropixels-analysis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "89779926-0f96-4e5a-b035-b4002639f722",
+  "path": "sentence-transformers",
+  "path_key": "sentence-transformers",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

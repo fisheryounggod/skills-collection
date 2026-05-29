@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "16693ec0-6482-4b45-8531-0f4c10a237f4",
+  "path": "grpo-rl-training",
+  "path_key": "grpo-rl-training",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b8e43d94-38b7-4245-90fc-72014a67c696",
+  "path": "research-grants",
+  "path_key": "research-grants",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

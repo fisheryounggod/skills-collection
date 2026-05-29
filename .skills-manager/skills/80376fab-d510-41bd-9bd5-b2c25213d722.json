@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "80376fab-d510-41bd-9bd5-b2c25213d722",
+  "path": "esm",
+  "path_key": "esm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

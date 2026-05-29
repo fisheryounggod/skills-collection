@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "935d5cac-441b-4cde-a765-a4fbdf58ef15",
+  "path": "bids",
+  "path_key": "bids",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

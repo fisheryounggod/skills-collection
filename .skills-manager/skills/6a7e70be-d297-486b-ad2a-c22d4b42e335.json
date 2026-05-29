@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6a7e70be-d297-486b-ad2a-c22d4b42e335",
+  "path": "crewai-multi-agent",
+  "path_key": "crewai-multi-agent",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

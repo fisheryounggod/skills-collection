@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "61657cd0-ae10-4a37-852d-a54995f1d0b2",
+  "path": "matlab",
+  "path_key": "matlab",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

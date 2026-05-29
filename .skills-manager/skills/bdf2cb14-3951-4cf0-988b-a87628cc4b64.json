@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bdf2cb14-3951-4cf0-988b-a87628cc4b64",
+  "path": "llama-factory",
+  "path_key": "llama-factory",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

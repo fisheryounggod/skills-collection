@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c35a65d4-66c4-430a-82e6-1db3a999ba78",
+  "path": "cellxgene-census",
+  "path_key": "cellxgene-census",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

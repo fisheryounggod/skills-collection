@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "26217395-2196-4f4c-8f6d-127139bcab78",
+  "path": "dnanexus-integration",
+  "path_key": "dnanexus-integration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

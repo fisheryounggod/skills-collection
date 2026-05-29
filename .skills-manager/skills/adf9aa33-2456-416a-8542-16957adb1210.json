@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "adf9aa33-2456-416a-8542-16957adb1210",
+  "path": "experiment-tracking-swanlab",
+  "path_key": "experiment-tracking-swanlab",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

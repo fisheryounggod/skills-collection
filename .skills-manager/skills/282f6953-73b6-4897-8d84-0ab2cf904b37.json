@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "282f6953-73b6-4897-8d84-0ab2cf904b37",
+  "path": "molfeat",
+  "path_key": "molfeat",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

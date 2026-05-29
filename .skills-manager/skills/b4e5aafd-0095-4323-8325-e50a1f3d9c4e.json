@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b4e5aafd-0095-4323-8325-e50a1f3d9c4e",
+  "path": "opentrons-integration",
+  "path_key": "opentrons-integration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

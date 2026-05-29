@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "df5781c9-d0fb-4bee-b660-d16a7ef84ef9",
+  "path": "evaluating-code-models",
+  "path_key": "evaluating-code-models",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "17ea0147-5c18-409e-9233-b19907758422",
+  "path": "dbs-xhs-title",
+  "path_key": "dbs-xhs-title",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3890e2aa-c436-4631-945e-2931741f0c9a",
+  "path": "dbs-benchmark",
+  "path_key": "dbs-benchmark",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

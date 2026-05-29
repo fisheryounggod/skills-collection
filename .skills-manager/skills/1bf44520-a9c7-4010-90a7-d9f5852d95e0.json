@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1bf44520-a9c7-4010-90a7-d9f5852d95e0",
+  "path": "slime-rl-training",
+  "path_key": "slime-rl-training",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

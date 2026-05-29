@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "455aa5bd-8d20-4bde-b438-85416885b03a",
+  "path": "torchforge-rl-training",
+  "path_key": "torchforge-rl-training",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "893433f2-d28e-4cfe-a323-b123107bf059",
+  "path": "parallel-web",
+  "path_key": "parallel-web",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

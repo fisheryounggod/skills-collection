@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "38efbee9-88e4-4547-b719-18325d0b02ee",
+  "path": "stable-baselines3",
+  "path_key": "stable-baselines3",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

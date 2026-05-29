@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b6bc2e1-33cf-42eb-96c2-1697fef67352",
+  "path": "matchms",
+  "path_key": "matchms",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

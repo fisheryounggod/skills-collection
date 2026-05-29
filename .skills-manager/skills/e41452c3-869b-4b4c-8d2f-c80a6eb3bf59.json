@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e41452c3-869b-4b4c-8d2f-c80a6eb3bf59",
+  "path": "molecular-dynamics",
+  "path_key": "molecular-dynamics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

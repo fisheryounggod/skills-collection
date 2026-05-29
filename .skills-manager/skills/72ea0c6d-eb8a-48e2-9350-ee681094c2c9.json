@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "72ea0c6d-eb8a-48e2-9350-ee681094c2c9",
+  "path": "pyhealth",
+  "path_key": "pyhealth",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

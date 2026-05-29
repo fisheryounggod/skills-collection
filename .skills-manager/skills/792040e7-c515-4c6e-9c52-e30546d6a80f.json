@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "792040e7-c515-4c6e-9c52-e30546d6a80f",
+  "path": "ppw_logic",
+  "path_key": "ppw_logic",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

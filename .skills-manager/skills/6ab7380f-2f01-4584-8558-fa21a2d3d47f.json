@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6ab7380f-2f01-4584-8558-fa21a2d3d47f",
+  "path": "benchling-integration",
+  "path_key": "benchling-integration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

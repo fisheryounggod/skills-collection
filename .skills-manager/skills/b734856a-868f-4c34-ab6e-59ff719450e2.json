@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b734856a-868f-4c34-ab6e-59ff719450e2",
+  "path": "huggingface-tokenizers",
+  "path_key": "huggingface-tokenizers",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

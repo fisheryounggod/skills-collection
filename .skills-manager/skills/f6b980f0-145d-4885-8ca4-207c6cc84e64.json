@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f6b980f0-145d-4885-8ca4-207c6cc84e64",
+  "path": "dbs-diagnosis",
+  "path_key": "dbs-diagnosis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "71d2d51b-ad3e-4d91-aada-697f6e823af7",
+  "path": "skypilot-multi-cloud-orchestration",
+  "path_key": "skypilot-multi-cloud-orchestration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

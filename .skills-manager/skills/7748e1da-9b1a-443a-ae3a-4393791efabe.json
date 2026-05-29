@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7748e1da-9b1a-443a-ae3a-4393791efabe",
+  "path": "tensorrt-llm",
+  "path_key": "tensorrt-llm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

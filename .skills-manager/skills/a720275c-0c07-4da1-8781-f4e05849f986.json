@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a720275c-0c07-4da1-8781-f4e05849f986",
+  "path": "tensorboard",
+  "path_key": "tensorboard",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

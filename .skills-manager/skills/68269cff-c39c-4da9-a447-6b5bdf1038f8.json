@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "68269cff-c39c-4da9-a447-6b5bdf1038f8",
+  "path": "scikit-survival",
+  "path_key": "scikit-survival",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

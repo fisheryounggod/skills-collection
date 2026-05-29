@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b6a5b59d-57c8-4e87-a51d-175f0faa987e",
+  "path": "gtars",
+  "path_key": "gtars",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

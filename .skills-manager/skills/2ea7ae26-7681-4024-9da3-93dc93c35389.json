@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2ea7ae26-7681-4024-9da3-93dc93c35389",
+  "path": "clip",
+  "path_key": "clip",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

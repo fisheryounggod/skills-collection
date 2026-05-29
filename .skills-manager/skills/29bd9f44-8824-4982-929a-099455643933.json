@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "29bd9f44-8824-4982-929a-099455643933",
+  "path": "speculative-decoding",
+  "path_key": "speculative-decoding",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

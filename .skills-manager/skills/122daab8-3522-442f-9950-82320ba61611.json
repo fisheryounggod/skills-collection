@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "122daab8-3522-442f-9950-82320ba61611",
+  "path": "miles-rl-training",
+  "path_key": "miles-rl-training",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

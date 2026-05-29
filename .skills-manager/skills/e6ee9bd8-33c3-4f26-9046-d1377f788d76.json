@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e6ee9bd8-33c3-4f26-9046-d1377f788d76",
+  "path": "hqq-quantization",
+  "path_key": "hqq-quantization",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

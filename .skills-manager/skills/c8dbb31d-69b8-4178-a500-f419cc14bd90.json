@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c8dbb31d-69b8-4178-a500-f419cc14bd90",
+  "path": "llamaindex",
+  "path_key": "llamaindex",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

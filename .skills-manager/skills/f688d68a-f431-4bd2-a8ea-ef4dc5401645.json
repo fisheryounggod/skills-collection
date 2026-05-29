@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f688d68a-f431-4bd2-a8ea-ef4dc5401645",
+  "path": "nemo-evaluator-sdk",
+  "path_key": "nemo-evaluator-sdk",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

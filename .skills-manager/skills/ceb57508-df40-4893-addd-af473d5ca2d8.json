@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ceb57508-df40-4893-addd-af473d5ca2d8",
+  "path": "ginkgo-cloud-lab",
+  "path_key": "ginkgo-cloud-lab",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "41270657-f9e2-44ca-b5e7-6dde608d5e81",
+  "path": "pptx-posters",
+  "path_key": "pptx-posters",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

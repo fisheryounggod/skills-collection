@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c123888f-8222-4008-9d9e-85378384ca04",
+  "path": "cobrapy",
+  "path_key": "cobrapy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

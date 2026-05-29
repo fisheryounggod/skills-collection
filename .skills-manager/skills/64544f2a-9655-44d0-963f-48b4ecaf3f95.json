@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "64544f2a-9655-44d0-963f-48b4ecaf3f95",
+  "path": "mamba-architecture",
+  "path_key": "mamba-architecture",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

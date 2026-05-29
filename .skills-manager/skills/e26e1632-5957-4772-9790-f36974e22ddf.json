@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e26e1632-5957-4772-9790-f36974e22ddf",
+  "path": "ara-research-manager",
+  "path_key": "ara-research-manager",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

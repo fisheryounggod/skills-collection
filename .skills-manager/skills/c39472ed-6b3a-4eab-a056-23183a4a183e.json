@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c39472ed-6b3a-4eab-a056-23183a4a183e",
+  "path": "datamol",
+  "path_key": "datamol",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

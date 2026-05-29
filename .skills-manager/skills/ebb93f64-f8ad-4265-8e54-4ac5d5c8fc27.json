@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ebb93f64-f8ad-4265-8e54-4ac5d5c8fc27",
+  "path": "dbs-restore",
+  "path_key": "dbs-restore",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

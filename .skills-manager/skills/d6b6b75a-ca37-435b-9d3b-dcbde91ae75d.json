@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d6b6b75a-ca37-435b-9d3b-dcbde91ae75d",
+  "path": "paper-lookup",
+  "path_key": "paper-lookup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

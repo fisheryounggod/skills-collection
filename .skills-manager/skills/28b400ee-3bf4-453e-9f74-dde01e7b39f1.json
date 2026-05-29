@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "28b400ee-3bf4-453e-9f74-dde01e7b39f1",
+  "path": "scanpy",
+  "path_key": "scanpy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

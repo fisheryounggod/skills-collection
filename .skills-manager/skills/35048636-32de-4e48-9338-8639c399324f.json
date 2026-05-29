@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "35048636-32de-4e48-9338-8639c399324f",
+  "path": "training-llms-megatron",
+  "path_key": "training-llms-megatron",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

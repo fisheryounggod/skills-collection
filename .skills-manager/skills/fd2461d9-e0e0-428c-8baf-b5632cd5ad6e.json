@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fd2461d9-e0e0-428c-8baf-b5632cd5ad6e",
+  "path": "bgpt-paper-search",
+  "path_key": "bgpt-paper-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a2f8755b-5140-4a48-bc88-9554757085de",
+  "path": "venue-templates",
+  "path_key": "venue-templates",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

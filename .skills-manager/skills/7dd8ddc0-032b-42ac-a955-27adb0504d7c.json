@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7dd8ddc0-032b-42ac-a955-27adb0504d7c",
+  "path": "scikit-learn",
+  "path_key": "scikit-learn",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

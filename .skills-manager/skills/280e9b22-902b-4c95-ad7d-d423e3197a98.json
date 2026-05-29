@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "280e9b22-902b-4c95-ad7d-d423e3197a98",
+  "path": "get-available-resources",
+  "path_key": "get-available-resources",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

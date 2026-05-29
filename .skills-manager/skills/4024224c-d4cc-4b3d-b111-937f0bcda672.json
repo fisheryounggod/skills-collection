@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4024224c-d4cc-4b3d-b111-937f0bcda672",
+  "path": "primekg",
+  "path_key": "primekg",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

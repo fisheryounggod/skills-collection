@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d358f0d4-3587-4f96-90a2-a260d6bc35a4",
+  "path": "huggingface-accelerate",
+  "path_key": "huggingface-accelerate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

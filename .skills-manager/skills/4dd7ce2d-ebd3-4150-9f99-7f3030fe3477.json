@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4dd7ce2d-ebd3-4150-9f99-7f3030fe3477",
+  "path": "quantizing-models-bitsandbytes",
+  "path_key": "quantizing-models-bitsandbytes",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

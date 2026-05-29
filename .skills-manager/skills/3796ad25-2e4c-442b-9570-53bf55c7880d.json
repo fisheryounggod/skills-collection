@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3796ad25-2e4c-442b-9570-53bf55c7880d",
+  "path": "implementing-llms-litgpt",
+  "path_key": "implementing-llms-litgpt",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "922f642e-e170-424f-a91b-b06188817030",
+  "path": "biopython",
+  "path_key": "biopython",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

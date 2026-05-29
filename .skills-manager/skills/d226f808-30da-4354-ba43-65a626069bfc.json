@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d226f808-30da-4354-ba43-65a626069bfc",
+  "path": "presenting-conference-talks",
+  "path_key": "presenting-conference-talks",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

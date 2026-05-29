@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8e47fca9-5a5e-4089-8352-617c28e260fc",
+  "path": "depmap",
+  "path_key": "depmap",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

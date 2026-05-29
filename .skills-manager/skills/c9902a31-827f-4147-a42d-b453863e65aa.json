@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c9902a31-827f-4147-a42d-b453863e65aa",
+  "path": "ppw_visualization",
+  "path_key": "ppw_visualization",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

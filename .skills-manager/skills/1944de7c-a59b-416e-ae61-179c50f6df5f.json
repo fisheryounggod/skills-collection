@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1944de7c-a59b-416e-ae61-179c50f6df5f",
+  "path": "academic-plotting",
+  "path_key": "academic-plotting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

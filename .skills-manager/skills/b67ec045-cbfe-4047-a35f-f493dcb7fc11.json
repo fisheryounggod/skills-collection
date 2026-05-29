@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b67ec045-cbfe-4047-a35f-f493dcb7fc11",
+  "path": "dbs-learning",
+  "path_key": "dbs-learning",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

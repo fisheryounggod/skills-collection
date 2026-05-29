@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "46f735f5-789f-4ef0-be1c-1bef32596e55",
+  "path": "evolving-ai-agents",
+  "path_key": "evolving-ai-agents",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

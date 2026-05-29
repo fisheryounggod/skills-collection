@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d66a6897-8961-4659-b9ae-47242ad7f83b",
+  "path": "fine-tuning-serving-openpi",
+  "path_key": "fine-tuning-serving-openpi",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

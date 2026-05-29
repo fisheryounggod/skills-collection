@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ebeab803-e794-477f-9114-98a8d7a775fa",
+  "path": "etetoolkit",
+  "path_key": "etetoolkit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

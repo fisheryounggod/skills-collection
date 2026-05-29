@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "53747cc9-6d7a-42d1-846c-1c408436fec9",
+  "path": "labarchive-integration",
+  "path_key": "labarchive-integration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bc49561e-66d0-4374-9a1d-1014a332d7bb",
+  "path": "autoskill",
+  "path_key": "autoskill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

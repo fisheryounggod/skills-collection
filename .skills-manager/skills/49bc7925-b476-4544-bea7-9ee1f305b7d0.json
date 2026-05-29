@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "49bc7925-b476-4544-bea7-9ee1f305b7d0",
+  "path": "dbs-good-question",
+  "path_key": "dbs-good-question",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

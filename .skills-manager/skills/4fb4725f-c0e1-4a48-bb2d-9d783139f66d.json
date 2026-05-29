@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4fb4725f-c0e1-4a48-bb2d-9d783139f66d",
+  "path": "gget",
+  "path_key": "gget",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d04770ab-9e00-4d7e-9563-d30486231d09",
+  "path": "dask",
+  "path_key": "dask",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cf00bd1f-6f03-42ed-a8b3-405c1cb763a8",
+  "path": "ray-data",
+  "path_key": "ray-data",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

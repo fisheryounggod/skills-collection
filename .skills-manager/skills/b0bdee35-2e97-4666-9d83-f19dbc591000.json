@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b0bdee35-2e97-4666-9d83-f19dbc591000",
+  "path": "imaging-data-commons",
+  "path_key": "imaging-data-commons",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

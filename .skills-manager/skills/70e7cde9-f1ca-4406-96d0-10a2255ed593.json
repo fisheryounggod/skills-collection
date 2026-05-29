@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "70e7cde9-f1ca-4406-96d0-10a2255ed593",
+  "path": "aeon",
+  "path_key": "aeon",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bad61e39-f911-4934-a350-0cf65557cdd0",
+  "path": "pyopenms",
+  "path_key": "pyopenms",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

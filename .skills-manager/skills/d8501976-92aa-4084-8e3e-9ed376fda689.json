@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d8501976-92aa-4084-8e3e-9ed376fda689",
+  "path": "generate-image",
+  "path_key": "generate-image",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

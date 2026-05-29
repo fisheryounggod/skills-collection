@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b0b25f97-9a9e-402a-90dc-c6e1478b1c4c",
+  "path": "geomaster",
+  "path_key": "geomaster",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

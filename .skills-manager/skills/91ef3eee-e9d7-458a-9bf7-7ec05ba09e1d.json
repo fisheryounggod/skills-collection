@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "91ef3eee-e9d7-458a-9bf7-7ec05ba09e1d",
+  "path": "transformers",
+  "path_key": "transformers",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

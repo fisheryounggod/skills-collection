@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6111f63a-5064-4d27-9c03-f3c9d739ecc1",
+  "path": "scvi-tools",
+  "path_key": "scvi-tools",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1df84d18-d4b3-4601-9b0a-5b678c381235",
+  "path": "dhdna-profiler",
+  "path_key": "dhdna-profiler",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

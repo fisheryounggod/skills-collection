@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "be407d08-9872-4927-bd96-c832a6885b8a",
+  "path": "ppw_cover-letter",
+  "path_key": "ppw_cover-letter",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

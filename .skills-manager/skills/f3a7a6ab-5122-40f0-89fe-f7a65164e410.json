@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f3a7a6ab-5122-40f0-89fe-f7a65164e410",
+  "path": "arboreto",
+  "path_key": "arboreto",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

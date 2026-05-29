@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "11bf64d2-8eac-46cc-9855-e9f2d7d3ca6e",
+  "path": "paper-polish-workflow",
+  "path_key": "paper-polish-workflow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0744ea83-a06b-448b-ae8e-001f2fe59267",
+  "path": "ml-training-recipes",
+  "path_key": "ml-training-recipes",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

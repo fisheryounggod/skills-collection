@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "588c926b-3529-49a0-956d-d6eaea8acb43",
+  "path": "statsmodels",
+  "path_key": "statsmodels",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

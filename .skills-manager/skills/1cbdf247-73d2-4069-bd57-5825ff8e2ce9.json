@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1cbdf247-73d2-4069-bd57-5825ff8e2ce9",
+  "path": "ml-paper-writing",
+  "path_key": "ml-paper-writing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

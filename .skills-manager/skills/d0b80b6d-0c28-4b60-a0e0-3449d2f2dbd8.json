@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d0b80b6d-0c28-4b60-a0e0-3449d2f2dbd8",
+  "path": "systems-paper-writing",
+  "path_key": "systems-paper-writing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

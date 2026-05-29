@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "095e8c38-b8f2-4daf-8ea2-1f47dfebf95e",
+  "path": "knowledge-distillation",
+  "path_key": "knowledge-distillation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bafe3296-73ab-4751-8e5d-5fcf92413b64",
+  "path": "deeptools",
+  "path_key": "deeptools",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

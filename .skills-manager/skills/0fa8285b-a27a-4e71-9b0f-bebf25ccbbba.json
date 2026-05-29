@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0fa8285b-a27a-4e71-9b0f-bebf25ccbbba",
+  "path": "brainstorming-research-ideas",
+  "path_key": "brainstorming-research-ideas",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

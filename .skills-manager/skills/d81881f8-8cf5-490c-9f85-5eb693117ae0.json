@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d81881f8-8cf5-490c-9f85-5eb693117ae0",
+  "path": "pymoo",
+  "path_key": "pymoo",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

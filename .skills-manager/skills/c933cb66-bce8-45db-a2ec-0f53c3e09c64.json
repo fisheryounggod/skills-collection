@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c933cb66-bce8-45db-a2ec-0f53c3e09c64",
+  "path": "consciousness-council",
+  "path_key": "consciousness-council",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

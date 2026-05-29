@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f9c455ed-ff22-492b-a41b-af10088f6127",
+  "path": "dbs-agent-migration",
+  "path_key": "dbs-agent-migration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

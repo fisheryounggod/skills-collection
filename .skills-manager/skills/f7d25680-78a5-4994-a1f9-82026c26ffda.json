@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f7d25680-78a5-4994-a1f9-82026c26ffda",
+  "path": "timesfm-forecasting",
+  "path_key": "timesfm-forecasting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

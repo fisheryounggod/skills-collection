@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "96d44bb6-f6a6-4d07-8fd0-52ac4b1991bb",
+  "path": "hugging-science",
+  "path_key": "hugging-science",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

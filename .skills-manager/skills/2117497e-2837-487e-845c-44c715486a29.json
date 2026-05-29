@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2117497e-2837-487e-845c-44c715486a29",
+  "path": "qdrant-vector-search",
+  "path_key": "qdrant-vector-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

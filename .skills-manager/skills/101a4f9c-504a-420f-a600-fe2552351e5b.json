@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "101a4f9c-504a-420f-a600-fe2552351e5b",
+  "path": "usfiscaldata",
+  "path_key": "usfiscaldata",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

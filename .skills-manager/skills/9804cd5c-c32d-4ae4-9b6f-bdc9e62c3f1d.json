@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9804cd5c-c32d-4ae4-9b6f-bdc9e62c3f1d",
+  "path": "torch-geometric",
+  "path_key": "torch-geometric",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

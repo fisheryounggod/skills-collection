@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a63cd5bc-d4bb-4767-a877-f65cb1a29f74",
+  "path": "neurokit2",
+  "path_key": "neurokit2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

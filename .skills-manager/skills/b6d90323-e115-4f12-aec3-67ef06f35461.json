@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b6d90323-e115-4f12-aec3-67ef06f35461",
+  "path": "tiledbvcf",
+  "path_key": "tiledbvcf",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

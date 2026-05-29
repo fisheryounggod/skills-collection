@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "33c69bff-35f1-4674-8e7a-d7c7abcac751",
+  "path": "seaborn",
+  "path_key": "seaborn",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

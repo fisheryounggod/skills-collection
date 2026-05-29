@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6046aa8f-5d99-4db3-84e1-c342a910abde",
+  "path": "peft-fine-tuning",
+  "path_key": "peft-fine-tuning",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

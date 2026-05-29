@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "21623d57-baf6-47ae-ac75-3478b261b199",
+  "path": "cirq",
+  "path_key": "cirq",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

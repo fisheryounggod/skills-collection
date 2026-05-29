@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "42e2dd8b-ae73-4291-9f85-2316bc63cd92",
+  "path": "optimizing-attention-flash",
+  "path_key": "optimizing-attention-flash",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

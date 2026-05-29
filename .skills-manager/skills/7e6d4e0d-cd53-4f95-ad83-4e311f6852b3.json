@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7e6d4e0d-cd53-4f95-ad83-4e311f6852b3",
+  "path": "sentencepiece",
+  "path_key": "sentencepiece",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
